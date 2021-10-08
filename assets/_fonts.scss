@@ -1,0 +1,39 @@
+/* TlwgTypewriter - Bold */
+@font-face {
+  font-family: 'TlwgTypewriter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('fonts/TlwgTypewriter-Bold.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/TlwgTypewriter-Bold.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* TlwgTypewriter - Oblique*/
+@font-face {
+  font-family: 'TlwgTypewriter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('fonts/TlwgTypewriter-Oblique.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/TlwgTypewriter-Oblique.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* TlwgTypewriter - BoldOblique */
+@font-face {
+  font-family: 'TlwTypewriter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/TlwgTypewriter-BoldOblique.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/TlwgTypewriter-BoldOblique.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+  font-family: 'TlwgTypewriter', sans-serif;
+}
+
+code {
+  font-family: 'TlwgTypewriter', monospace;
+}

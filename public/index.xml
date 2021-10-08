@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on particl3s.xyz</title>
+    <link>https://particl3s.github.io/</link>
+    <description>Recent content in Introduction on particl3s.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://particl3s.github.io/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/posts/creating-a-new-theme/</guid>
+      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://particl3s.github.io/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/posts/migrate-from-jekyll/</guid>
+      <description>Move static content to static #  Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://particl3s.github.io/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://particl3s.github.io/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/audio_vis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/audio_vis/</guid>
+      <description>   ♫ The Silver Chords - Eyes Of Despair  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/balloon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/balloon/</guid>
+      <description>   ♫ Fsforo - Cochabamba  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/berry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/berry/</guid>
+      <description>   ♫ Nicky Cook and Chris Andrews - Man in suit  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/bombs_away/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/bombs_away/</guid>
+      <description>   ♫ The Black Atlantic - Fragile Meadow  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/cityscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/cityscape/</guid>
+      <description>   ♫ Karina Buhr - Nassiria e Najaf  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/colour_change/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/colour_change/</guid>
+      <description>   ♫ voyageurs - Freak Cave  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/cpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/cpu/</guid>
+      <description>   ♫ Blue Dot Sessions - Ray Gun - Take a Tiny Train  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/cube_dynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/cube_dynamic/</guid>
+      <description>   ♫ BrokeMC - The Discovery  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/cube_explode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/cube_explode/</guid>
+      <description>   ♫ Sycamore Drive - Chills  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/electric_field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/electric_field/</guid>
+      <description>   ♫ JFn&amp;rsquo;K - Back and to the Left.mp3  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/empty_dust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/empty_dust/</guid>
+      <description>   ♫ Bud Melvin - Funky Conveyor Belt  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/expand_helix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/expand_helix/</guid>
+      <description>   ♫ Keshco - Play For Your People (music hall singalong)  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/flipping_book_pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/flipping_book_pages/</guid>
+      <description>   ♫ Jelsonic - Lost Star  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/force_field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/force_field/</guid>
+      <description>   ♫ SK - Shayla - Calling for you  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/fractals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/fractals/</guid>
+      <description>   ♫ Burial at Sea - Barely There  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/fracture_torus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/fracture_torus/</guid>
+      <description>   ♫ Checkie Brown - Mary Roose CB 36  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/geonode_bounce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/geonode_bounce/</guid>
+      <description>   ♫ Hi-Rez - The Remedy (Prod. Joel Johnston)  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/grass_gen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/grass_gen/</guid>
+      <description>   ♫ FRANKIE WAH - I Left My Fate (only guitar)  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/growth/</guid>
+      <description>   ♫ Dazie Mae - The Dice Man  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/hexagon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/hexagon/</guid>
+      <description>   ♫ Kellee Maize Owl Time- Peaceburgh  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/hidden/</guid>
+      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor     Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/hidden_find_shortest_path_node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/hidden_find_shortest_path_node/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/icing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/icing/</guid>
+      <description>   ♫ Teleidofusion - みなこ  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/infinite_flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/infinite_flow/</guid>
+      <description>   ♫ K. Sparks - Drift  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/instance_multiple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/instance_multiple/</guid>
+      <description>   ♫ MC Menda - EnlaVariedasTalGusto (Intro)  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/lavalamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/lavalamp/</guid>
+      <description>   ♫ Teleidofusion - みなこ  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/lego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/lego/</guid>
+      <description>   ♫ Scott_Nice - Raio - Cuaq Scott Nice Remix  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/magic_circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/magic_circle/</guid>
+      <description>   ♫ Vienna Ditto - Little Fingers  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/marching_squares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/marching_squares/</guid>
+      <description>   ♫ Michett - Zephyr&amp;rsquo;s Flight  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/midi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/midi/</guid>
+      <description>   ♫ TuenStudios  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/mocap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/mocap/</guid>
+      <description>   ♫ Arrogalla Remixes King Kietu - Fregula Lo Western  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/mograph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/mograph/</guid>
+      <description>   ♫ Lex Villena - Origins  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/openvdb_fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/openvdb_fire/</guid>
+      <description>   ♫ The Dingees - Port Royal Sound  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/organic_displacement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/organic_displacement/</guid>
+      <description>   ♫ Geir Tjelta - Melodious  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/plasma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/plasma/</guid>
+      <description>   ♫ Sea Oleena - Sister Johnny Ripper Remix  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/procedural_fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/procedural_fire/</guid>
+      <description>   ♫ K. Sparks - Drift  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/red_skull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/red_skull/</guid>
+      <description>   ♫ Peg Simone - O Holy Night  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/shooting_stars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/shooting_stars/</guid>
+      <description>   ♫ Rico Zerone - Spheredivers  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/sky_time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/sky_time/</guid>
+      <description>   ♫ Borrtex - You Me - Soft Piano Live  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/soundblade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/soundblade/</guid>
+      <description>   ♫ The Rope River Blues Band - The Something Sound  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/sperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/sperm/</guid>
+      <description>   ♫ Ketsa - Never-Give-Up  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/vegetable_splash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/vegetable_splash/</guid>
+      <description>   ♫ Lame Drivers - Lemme Get Those Numbers Down  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/vortex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/vortex/</guid>
+      <description>   ♫ The Citadel - Zasiaty Hnev  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/wireframe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/wireframe/</guid>
+      <description>   ♫ Benny B. Blonco - Wizard Swing Warriors  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.github.io/xmas_lights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.github.io/xmas_lights/</guid>
+      <description>   ♫ Baby Arm Sound System - Hypnotic Stagger  Return  </description>
+    </item>
+    
+  </channel>
+</rss>
