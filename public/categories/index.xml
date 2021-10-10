@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on particl3s.xyz</title>
-    <link>https://particl3s.github.io/categories/</link>
+    <link>https://particl3s.xyz/categories/</link>
     <description>Recent content in Categories on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://particl3s.github.io/categories/development/</link>
+      <link>https://particl3s.xyz/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://particl3s.github.io/categories/development/</guid>
+      <guid>https://particl3s.xyz/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://particl3s.github.io/categories/golang/</link>
+      <link>https://particl3s.xyz/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://particl3s.github.io/categories/golang/</guid>
+      <guid>https://particl3s.xyz/categories/golang/</guid>
       <description></description>
     </item>
     
