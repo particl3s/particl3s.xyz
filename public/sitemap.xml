@@ -2,55 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://particl3s.xyz/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/docs/art/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/docs/repository/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/categories/blender/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/mograph/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/posts/0001/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/rigging/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/posts/0000/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/audio_vis/</loc>
   </url><url>
@@ -72,9 +61,17 @@
   </url><url>
     <loc>https://particl3s.xyz/cube_explode/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/docs/art/gallery/1/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/art/gallery/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/docs/mograph/2-0-2-0/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/2-0-2-1/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/repository/misc./</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/repository/rigs/</loc>
   </url><url>
     <loc>https://particl3s.xyz/electric_field/</loc>
   </url><url>
@@ -98,10 +95,6 @@
   </url><url>
     <loc>https://particl3s.xyz/hexagon/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/hidden/</loc>
-  </url><url>
-    <loc>https://particl3s.xyz/hidden_find_shortest_path_node/</loc>
-  </url><url>
     <loc>https://particl3s.xyz/icing/</loc>
   </url><url>
     <loc>https://particl3s.xyz/infinite_flow/</loc>
@@ -109,6 +102,8 @@
     <loc>https://particl3s.xyz/instance_multiple/</loc>
   </url><url>
     <loc>https://particl3s.xyz/iris/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/keyblade/</loc>
   </url><url>
     <loc>https://particl3s.xyz/lavalamp/</loc>
   </url><url>
@@ -133,6 +128,8 @@
     <loc>https://particl3s.xyz/procedural_fire/</loc>
   </url><url>
     <loc>https://particl3s.xyz/red_skull/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/scythe/</loc>
   </url><url>
     <loc>https://particl3s.xyz/shooting_stars/</loc>
   </url><url>

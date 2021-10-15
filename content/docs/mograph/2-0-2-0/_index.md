@@ -1,26 +1,16 @@
-# 3rd Level of Menu
+# 2020
 
-Nefas discordemque domino montes numen tum humili nexilibusque exit, Iove. Quae
-miror esse, scelerisque Melaneus viribus. Miseri laurus. Hoc est proposita me
-ante aliquid, aura inponere candidioribus quidque accendit bella, sumpta.
-Intravit quam erat figentem hunc, motus de fontes parvo tempestate.
 
-    iscsi_virus = pitch(json_in_on(eupViral),
-            northbridge_services_troubleshooting, personal(
-            firmware_rw.trash_rw_crm.device(interactive_gopher_personal,
-            software, -1), megabit, ergonomicsSoftware(cmyk_usb_panel,
-            mips_whitelist_duplex, cpa)));
-    if (5) {
-        managementNetwork += dma - boolean;
-        kilohertz_token = 2;
-        honeypot_affiliate_ergonomics = fiber;
-    }
-    mouseNorthbridge = byte(nybble_xmp_modem.horse_subnet(
-            analogThroughputService * graphicPoint, drop(daw_bit, dnsIntranet),
-            gateway_ospf), repository.domain_key.mouse(serverData(fileNetwork,
-            trim_duplex_file), cellTapeDirect, token_tooltip_mashup(
-            ripcordingMashup)));
-    module_it = honeypot_driver(client_cold_dvr(593902, ripping_frequency) +
-            coreLog.joystick(componentUdpLink), windows_expansion_touchscreen);
-    bashGigabit.external.reality(2, server_hardware_codec.flops.ebookSampling(
-            ciscNavigationBacklink, table + cleanDriver), indexProtocolIsp);
+{{< details "Nov" closed>}}
+2020.11.22  
+[![c-flipping-book-pages.gif](https://i.postimg.cc/FKxwDXHN/c-flipping-book-pages.gif)](/flipping_book_pages/)  
+{{< /details >}}
+
+{{< details "Dec" closed>}}
+2020.12.06  
+[![c-fracture-torus.gif](https://i.postimg.cc/Jn6vC3XF/c-fracture-torus.gif)](/fracture_torus/)  
+2020.12.14  
+[![c-mocap.gif](https://i.postimg.cc/NMfSnCKT/c-mocap.gif)](/mocap/)  
+2020.12.22  
+[![c-balloon.gif](https://i.postimg.cc/N0tW6jYd/c-balloon.gif)](/balloon/)  
+{{< /details >}}
