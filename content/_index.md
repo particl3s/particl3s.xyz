@@ -9,7 +9,7 @@ bookToc: true
 [![lgoo-keyblade.png](https://i.postimg.cc/fbFh8njt/lgoo-keyblade.png)](/keyblade/)
 <--->
 ## 
-[![lgoo10.png](https://i.postimg.cc/3RFQY4Qp/lgoo10.png)](https://postimg.cc/N9Fzx0Mf)
+[![lgoo10.png](https://i.postimg.cc/3RFQY4Qp/lgoo10.png)](/planet_city/)
 
 
 <--->

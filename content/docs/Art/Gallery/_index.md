@@ -9,15 +9,15 @@
 {{< /columns >}}
 
 {{< columns >}}
-[![art-planet-city.jpg](https://i.postimg.cc/Jz2rCx7T/art-planet-city.jpg)](https://i.postimg.cc/Jz2rCx7T/art-planet-city.jpg)
+[![art-planet-city.jpg](https://i.postimg.cc/Jz2rCx7T/art-planet-city.jpg)](/planet_city/)
 <--->
-[![art-controller.jpg](https://i.postimg.cc/4dCXm39V/art-controller.jpg)](https://i.postimg.cc/4dCXm39V/art-controller.jpg)
+[![art-controller.jpg](https://i.postimg.cc/4dCXm39V/art-controller.jpg)](/controller/)
 {{< /columns >}}
 
 {{< columns >}}
-[![art-sophia.jpg](https://i.postimg.cc/Bb4sBwNv/art-sophia.jpg)](docs/art/gallery/)
+[![art-sophia.jpg](https://i.postimg.cc/Bb4sBwNv/art-sophia.jpg)](/sophia/)
 <--->
-[![art-winged-female.jpg](https://i.postimg.cc/RFc4fz78/art-winged-female.jpg)](docs/art/gallery/)
+[![art-winged-female.jpg](https://i.postimg.cc/RFc4fz78/art-winged-female.jpg)](/winged_female/)
 {{< columns >}}
 
 
