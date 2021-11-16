@@ -6,4 +6,6 @@ bookHidden: true
 {{< hint info >}}
 ♫ Borrtex - You Me - Soft Piano Live
 {{< /hint >}}
-{{< button relref="/" >}}Return{{< /button >}}
+{{< button relref="/docs/repository/misc" >}}Return{{< /button >}}
+
+Tempo ^up @ 1.5 speed

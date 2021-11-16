@@ -1,24 +1,27 @@
-# Art {{< button relref="/docs/art/gallery/1" >}}1{{< /button >}} {{< button relref="/" >}}2{{< /button >}}
-
+---
+title: Gallery
+weight: 2
+bookToc: false
+---
+## Art {{< button relref="/docs/art/gallery/1" >}}1{{< /button >}} {{< button relref="/" >}}2{{< /button >}}
 
 
 {{< columns >}}
-[![art-keyblade.jpg](https://i.postimg.cc/y8d1GtKg/art-keyblade.jpg)](/keyblade/)
+[![art-2021-11-16-digimon.png](https://i.postimg.cc/vYR8smvt/art-2021-11-16-digimon.png)](/digimon)
 <--->
-[![art-link.jpg](https://i.postimg.cc/SNVQDqBb/art-link.jpg)](/scythe/)
+[![art-2021-11-16-demon.png](https://i.postimg.cc/GcT3VDvp/art-2021-11-16-demon.png)](/demon)
+
 {{< /columns >}}
 
 {{< columns >}}
-[![art-planet-city.jpg](https://i.postimg.cc/Jz2rCx7T/art-planet-city.jpg)](/planet_city/)
+[![art-2021-11-16-mushroom.png](https://i.postimg.cc/Gdb2tHnM/art-2021-11-16-mushroom.png)](/mushroom)
 <--->
-[![art-controller.jpg](https://i.postimg.cc/4dCXm39V/art-controller.jpg)](/controller/)
+[![art-2021-11-16-lotus.png](https://i.postimg.cc/Qjyxfm9P/art-2021-11-16-lotus.png)](/lotus)
 {{< /columns >}}
 
 {{< columns >}}
-[![art-sophia.jpg](https://i.postimg.cc/Bb4sBwNv/art-sophia.jpg)](/sophia/)
+
+[![art-2021-11-16-shredder.png](https://i.postimg.cc/FNGKLN9h/art-2021-11-16-shredder.png)](/shredder)
 <--->
-[![art-winged-female.jpg](https://i.postimg.cc/RFc4fz78/art-winged-female.jpg)](/winged_female/)
+[![art_wizard.jpg](https://i.postimg.cc/zq03kSNH/art_wizard.jpg)](/wizard)
 {{< columns >}}
-
-
-

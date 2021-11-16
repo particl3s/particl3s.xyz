@@ -1,4 +1,5 @@
-# 2021
+
+## 2021
 
 {{< details "Jan" closed>}}
 2021.01.24  
@@ -100,8 +101,21 @@
 {{< /details >}}
 
 {{< details "Oct" closed>}}
+2021.10.25  
+[![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
+2021.10.18  
+[![c-waving-curves.gif](https://i.postimg.cc/KY1ZCJqQ/c-waving-curves.gif)](/wavy_curves)  
 2021.10.11  
 [![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
 2021.10.04  
 [![c-force-field.gif](https://i.postimg.cc/rstX5Q27/c-force-field.gif)](/force_field/)  
+{{< /details >}}
+
+{{< details "Nov" closed>}}
+2021.11.15  
+[![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
+2021.11.08  
+[![c-curve-deformation.gif](https://i.postimg.cc/Df6LbqNg/c-curve-deformation.gif)](/curve_deformation/)  
+2021.11.01  
+[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
 {{< /details >}}

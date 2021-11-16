@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: particl3s.xyz
-Token: 90babdff094d21c18c15ecdfae7305f648bbc4dd7aed8cfab667c147c6b0dc01

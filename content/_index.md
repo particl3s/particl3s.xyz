@@ -6,10 +6,10 @@ bookToc: true
 {{< columns >}}
 ## Art
 
-[![lgoo-keyblade.png](https://i.postimg.cc/fbFh8njt/lgoo-keyblade.png)](/keyblade/)
+[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](/shredder)
 <--->
 ## 
-[![lgoo10.png](https://i.postimg.cc/3RFQY4Qp/lgoo10.png)](/planet_city/)
+[![logo-2021-11-15-demon.png](https://i.postimg.cc/NGMzC6rJ/logo-2021-11-15-demon.png)](/demon)
 
 
 <--->
@@ -22,37 +22,57 @@ bookToc: true
 ## Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
+[![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-force-field.gif](https://i.postimg.cc/rstX5Q27/c-force-field.gif)](/force_field/)  
+[![c-curve-deformation.gif](https://i.postimg.cc/Df6LbqNg/c-curve-deformation.gif)](/curve_deformation/)  
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-noding-cube-01.gif](https://i.postimg.cc/PxSk20CR/c-noding-cube-01.gif)](/cube_dynamic/)  
+[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-hexagon.gif](https://i.postimg.cc/GtfSNrx9/c-hexagon.gif)](/hexagon/)  
+[![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-plasma.gif](https://i.postimg.cc/RFSy5GJH/c-plasma.gif)](/plasma/)  
+[![c-hexagon.gif](https://i.postimg.cc/GtfSNrx9/c-hexagon.gif)](/hexagon/)  
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-organic-displacement.gif](https://i.postimg.cc/kMvLq134/c-organic-displacement.gif)](/organic_displacement/)  
+[![c-noding-cube-01.gif](https://i.postimg.cc/PxSk20CR/c-noding-cube-01.gif)](/cube_dynamic/)  
 {{< /tab >}}
 {{< tab "7" >}}
-[![sperm-compressed.gif](https://i.postimg.cc/RV9xsTfR/sperm-compressed.gif)](/sperm/)  
+[![c-plasma.gif](https://i.postimg.cc/RFSy5GJH/c-plasma.gif)](/plasma/)  
 {{< /tab >}}
 {{< tab "8" >}}
-[![mograph-bubble-ce-01.gif](https://i.postimg.cc/2Sh8txS8/mograph-bubble-ce-01.gif)](/bubble/)  
+[![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
 {{< /tab >}}
 {{< tab "9" >}}
-[![bombs-away-ce-01.gif](https://i.postimg.cc/qvtR4TBw/bombs-away-ce-01.gif)](/bombs_away/)  
+[![c-organic-displacement.gif](https://i.postimg.cc/kMvLq134/c-organic-displacement.gif)](/organic_displacement/)  
 {{< /tab >}}
 {{< /tabs >}}
 
-## Rig
-#
-#
-#
-
-[![secondary10.jpg](https://i.postimg.cc/KcQz10kY/secondary10.jpg)](https://postimg.cc/xqJY7yPr)
+## Animation
+{{< tabs "uniqueid2" >}}
+{{< tab "Rigs" >}}
+{{< /tab >}}
+{{< tab "Horse" >}}
+[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
+{{< /tab >}}
+{{< tab "Fish" >}}
+[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/fish_rig/)
+{{< /tab >}}
+{{< tab "Squishy" >}}
+[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
+{{< /tab >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
+{{< tab "Purple" >}}
+[![purple-banner-01.png](https://i.postimg.cc/Df3XxpTc/purple-banner-01.png)](/purple_rig/)
+{{< /tab >}}
+{{< tab "Toad" >}}
+[![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/toad_rig/)
+{{< /tab >}}
+{{< tab "Oxfox" >}}
+[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
+{{< /tab >}}
+{{< /tabs >}}
