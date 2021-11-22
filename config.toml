@@ -3,6 +3,7 @@ baseURL = "https://particl3s.xyz/"
 languageCode = "en-us"
 title = "particl3s.xyz"
 theme = "book"
+disqusShortname = "particl3s-xyz"
 
 [params]
 BookTheme = 'light'

@@ -112,6 +112,8 @@
 {{< /details >}}
 
 {{< details "Nov" closed>}}
+2021.11.22  
+[![c-contour.gif](https://i.postimg.cc/y7jY2L0P/c-contour.gif)](/contour/)  
 2021.11.15  
 [![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
 2021.11.08  
