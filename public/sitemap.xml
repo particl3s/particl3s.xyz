@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://particl3s.xyz/comms/</loc>
-  </url><url>
     <loc>https://particl3s.xyz/docs/art/gallery/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/repository/misc./</loc>
@@ -16,6 +14,9 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/repository/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/0004/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,9 +27,6 @@
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/0004/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
