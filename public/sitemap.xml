@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://particl3s.xyz/comms/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/docs/art/gallery/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/repository/misc./</loc>
@@ -14,26 +16,29 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/repository/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0004/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/003/</loc>
+    <loc>https://particl3s.xyz/posts/0003/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0002/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/categories/blender/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
@@ -191,6 +196,8 @@
     <loc>https://particl3s.xyz/real_time_fire/</loc>
   </url><url>
     <loc>https://particl3s.xyz/red_skull/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/reveal_effect/</loc>
   </url><url>
     <loc>https://particl3s.xyz/scythe/</loc>
   </url><url>

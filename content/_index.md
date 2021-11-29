@@ -5,11 +5,10 @@ bookToc: true
 ---
 {{< columns >}}
 ## Art
-
-[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](/shredder)
+[![2021-11-29-sophia-thumbnail-02.png](https://i.postimg.cc/TdJ81z6H/2021-11-29-sophia-thumbnail-02.png)](sophia)
 <--->
 ## 
-[![logo-2021-11-15-demon.png](https://i.postimg.cc/NGMzC6rJ/logo-2021-11-15-demon.png)](/demon)
+[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](/shredder)
 
 
 <--->
@@ -22,31 +21,31 @@ bookToc: true
 ## Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-contour.gif](https://i.postimg.cc/y7jY2L0P/c-contour.gif)](/contour/)  
+[![c-reveal-effect.gif](https://i.postimg.cc/B3YB9hHq/c-reveal-effect.gif)](/reveal_effect/)  
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
+[![c-contour.gif](https://i.postimg.cc/y7jY2L0P/c-contour.gif)](/contour/)  
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-curve-deformation.gif](https://i.postimg.cc/Df6LbqNg/c-curve-deformation.gif)](/curve_deformation/)  
+[![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
+[![c-curve-deformation.gif](https://i.postimg.cc/Df6LbqNg/c-curve-deformation.gif)](/curve_deformation/)  
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
+[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-hexagon.gif](https://i.postimg.cc/GtfSNrx9/c-hexagon.gif)](/hexagon/)  
+[![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
 {{< /tab >}}
 {{< tab "7" >}}
 [![c-plasma.gif](https://i.postimg.cc/RFSy5GJH/c-plasma.gif)](/plasma/)  
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
+[![c-organic-displacement.gif](https://i.postimg.cc/kMvLq134/c-organic-displacement.gif)](/organic_displacement/)  
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-organic-displacement.gif](https://i.postimg.cc/kMvLq134/c-organic-displacement.gif)](/organic_displacement/)  
+[![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
 {{< /tab >}}
 {{< /tabs >}}
 

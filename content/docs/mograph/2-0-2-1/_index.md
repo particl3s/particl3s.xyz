@@ -112,6 +112,8 @@
 {{< /details >}}
 
 {{< details "Nov" closed>}}
+2021.11.29  
+[![c-reveal-effect.gif](https://i.postimg.cc/B3YB9hHq/c-reveal-effect.gif)](/reveal_effect/)  
 2021.11.22  
 [![c-contour.gif](https://i.postimg.cc/y7jY2L0P/c-contour.gif)](/contour/)  
 2021.11.15  
