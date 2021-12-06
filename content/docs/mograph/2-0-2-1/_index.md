@@ -123,3 +123,8 @@
 2021.11.01  
 [![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
 {{< /details >}}
+
+{{< details "Dec" closed>}}
+2021.12.06  
+[![c-flow-map-03.gif](https://i.postimg.cc/w9tFjPKc/c-flow-map-03.gif)](/flow_map/)  
+{{< /details >}}
