@@ -125,6 +125,10 @@
 {{< /details >}}
 
 {{< details "Dec" closed>}}
+2021.12.12  
+[![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
 2021.12.06  
 [![c-flow-map-03.gif](https://i.postimg.cc/w9tFjPKc/c-flow-map-03.gif)](/flow_map/)  
 {{< /details >}}
+
+[Year End Compilation](/tutorial_land_tales_2)

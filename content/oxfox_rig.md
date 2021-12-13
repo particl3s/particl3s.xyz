@@ -72,8 +72,7 @@ Mouth Lock
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< details "Animation Example" closed >}}
-{{< /details >}}
+
 #
 #
 #

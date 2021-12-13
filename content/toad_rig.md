@@ -52,8 +52,7 @@ Croak
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< details "Animation Example" closed >}}
-{{< /details >}}
+
 #
 #
 #

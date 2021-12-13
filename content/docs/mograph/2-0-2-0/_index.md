@@ -40,3 +40,5 @@
 2020.12.06  
 [![c-fracture-torus.gif](https://i.postimg.cc/Jn6vC3XF/c-fracture-torus.gif)](/fracture_torus/)  
 {{< /details >}}
+
+[Year End Compilation](/tutorial_land_tales_1)

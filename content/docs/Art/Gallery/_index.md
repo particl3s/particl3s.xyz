@@ -3,7 +3,7 @@ title: Gallery
 weight: 2
 bookToc: false
 ---
-## Art {{< button relref="/docs/art/gallery/1" >}}1{{< /button >}} {{< button relref="/" >}}2{{< /button >}}
+## Art {{< button relref="/docs/art/gallery" >}}1{{< /button >}} {{< button relref="/docs/art/gallery/1" >}}2{{< /button >}} {{< button relref="/docs/art/gallery/2" >}}3{{< /button >}}
 
 
 {{< columns >}}

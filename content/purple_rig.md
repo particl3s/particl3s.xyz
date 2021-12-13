@@ -40,8 +40,7 @@ Isolate Rotation
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< details "Animation Example" closed >}}
-{{< /details >}}
+
 #
 #
 #

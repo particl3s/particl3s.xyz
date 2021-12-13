@@ -14,23 +14,26 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/repository/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/0005/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/posts/0004/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
-    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0003/</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
@@ -77,6 +80,8 @@
   </url><url>
     <loc>https://particl3s.xyz/cityscape/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/coast/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/colour_change/</loc>
   </url><url>
     <loc>https://particl3s.xyz/contour/</loc>
@@ -96,6 +101,8 @@
     <loc>https://particl3s.xyz/digimon/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/art/gallery/1/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/art/gallery/2/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/2-0-2-0/</loc>
   </url><url>
@@ -144,6 +151,8 @@
   </url><url>
     <loc>https://particl3s.xyz/icing/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/id_keys/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/infinite_flow/</loc>
   </url><url>
     <loc>https://particl3s.xyz/instance_multiple/</loc>
@@ -163,6 +172,8 @@
     <loc>https://particl3s.xyz/magic_circle/</loc>
   </url><url>
     <loc>https://particl3s.xyz/marching_squares/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/merchant/</loc>
   </url><url>
     <loc>https://particl3s.xyz/midi/</loc>
   </url><url>
@@ -222,6 +233,10 @@
   </url><url>
     <loc>https://particl3s.xyz/toad_rig/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://particl3s.xyz/tutorial_land_tales_1/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/tutorial_land_tales_2/</loc>
   </url><url>
     <loc>https://particl3s.xyz/unfold/</loc>
   </url><url>

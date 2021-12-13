@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avalanche</title>
+      <link>https://particl3s.xyz/posts/0005/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0005/</guid>
+      <description>If not for the absence of snow right now would be a-ok. Making deformations on a primate.</description>
+    </item>
+    
     <item>
       <title>Acme</title>
       <link>https://particl3s.xyz/posts/0004/</link>
@@ -147,6 +156,15 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
     
     <item>
       <title></title>
+      <link>https://particl3s.xyz/coast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/coast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://particl3s.xyz/colour_change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -232,8 +250,17 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/docs/art/gallery/1/</guid>
-      <description>Art 1  2  #              
+      <description>Art 1  2  3  #              
   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/docs/art/gallery/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/docs/art/gallery/2/</guid>
+      <description>Art 1  2  3  #             </description>
     </item>
     
     <item>
@@ -251,7 +278,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/dynamic_fluid_rig/</guid>
-      <description>   Tutorial  Return  </description>
+      <description>   Jiggly Bones | Starter File  Return  </description>
     </item>
     
     <item>
@@ -398,7 +425,7 @@ Fingers2
 Fk Switch3 
 Isolate Rotation4 
 Root &amp;amp; Palm5 
-Fingers Direct Deform Animation Example   #  #  #  #  #  #  #</description>
+Fingers Direct Deform Animation Example    #  #  #  #  #  #  #</description>
     </item>
     
     <item>
@@ -447,6 +474,15 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       
       <guid>https://particl3s.xyz/icing/</guid>
       <description>   ♫ Teleidofusion - みなこ  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/id_keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/id_keys/</guid>
+      <description>   ♫ Carlos Gardels - Bach - Book I - Prelude and Fugue No. 8 in E Flat Minor, BWV 853  Return  </description>
     </item>
     
     <item>
@@ -541,6 +577,15 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
     
     <item>
       <title></title>
+      <link>https://particl3s.xyz/merchant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/merchant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://particl3s.xyz/midi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -626,7 +671,7 @@ Ik Fk Arm12
 Fk Ik Leg13 
 Leg Isolate Rotation14 
 Hip Root15 
-Mouth Lock Animation Example   #  #  #  #  #  #  #</description>
+Mouth Lock #  #  #  #  #  #  #</description>
     </item>
     
     <item>
@@ -675,7 +720,7 @@ Fk Ik Switch5
 Fk Isolate Rotation6 
 Suspension7 
 Bottom Limit8 
-Isolate Rotation Animation Example   #  #  #  #  #  #  #</description>
+Isolate Rotation #  #  #  #  #  #  #</description>
     </item>
     
     <item>
@@ -829,7 +874,31 @@ Fk Ik Switch8
 Ik Ctrl9 
 Mouth Direct9 
 Root Hip10 
-Croak Animation Example   #  #  #  #  #  #  #</description>
+Croak #  #  #  #  #  #  #</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/tutorial_land_tales_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/tutorial_land_tales_1/</guid>
+      <description>   ♫ Loyalty Freak Music - Everyone Is So Alive
+♫ Bit Laden - Max Hardcore Chainsaw Party
+♫ Johnny Ripper - AK
+♫ почему коммутатор молчит - топот  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/tutorial_land_tales_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/tutorial_land_tales_2/</guid>
+      <description>   ♫ Ava Drumm - Canon in D Major (piano only)
+♫ Nick Didkovsky - Ice Cream Time
+♫ Zoliborz - Poincare Conjecture
+♫ Mirecourt Trio - Lloyd Rodgers Trio (1975)  Return  </description>
     </item>
     
     <item>

@@ -29,6 +29,7 @@ Fingers Direct Deform
 {{< /tabs >}}
 
 {{< details "Animation Example" closed >}}
+[![c-hand-animation.gif](https://i.postimg.cc/xndwfSKF/c-hand-animation.gif)](/hand_rig/)  
 {{< /details >}}
 #
 #
