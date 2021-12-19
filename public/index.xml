@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CC-0</title>
+      <link>https://particl3s.xyz/posts/0006/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0006/</guid>
+      <description>Updated licensing info on music 4 videos.</description>
+    </item>
+    
     <item>
       <title>Avalanche</title>
       <link>https://particl3s.xyz/posts/0005/</link>
@@ -67,8 +76,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/audio_thing/</guid>
-      <description>   ♫ The Kate Sessions - The Kate Sessions - Jan 2017-LIVE
-♫ Mors Ontologica - Shoes  Return  </description>
+      <description>   ♫ The Kate Sessions - The Kate Sessions - Jan 2017-LIVE CC-BY-NC-ND
+♫ Mors Ontologica - Shoes CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -77,7 +86,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/audio_vis/</guid>
-      <description>   ♫ The Silver Chords - Eyes Of Despair  Return  </description>
+      <description>   ♫ The Silver Chords - Eyes Of Despair CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -95,7 +104,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/berry/</guid>
-      <description>   ♫ Nicky Cook and Chris Andrews - Man in suit  Return  </description>
+      <description>   ♫ Nicky Cook and Chris Andrews - Man in suit CC-BY-SA  Return  </description>
     </item>
     
     <item>
@@ -113,7 +122,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/bombs_away/</guid>
-      <description>   ♫ The Black Atlantic - Fragile Meadow  Return  </description>
+      <description>   ♫ The Black Atlantic - Fragile Meadow CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -142,7 +151,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cards/</guid>
-      <description>   ♫ Wildlight - Quicksand  Return  </description>
+      <description>   ♫ Wildlight - Quicksand CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -151,7 +160,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cityscape/</guid>
-      <description>   ♫ Karina Buhr - Nassiria e Najaf  Return  </description>
+      <description>   ♫ Karina Buhr - Nassiria e Najaf CC-BY  Return  </description>
     </item>
     
     <item>
@@ -169,7 +178,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/colour_change/</guid>
-      <description>   ♫ voyageurs - Freak Cave  Return  </description>
+      <description>   ♫ voyageurs - Freak Cave CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -178,7 +187,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/contour/</guid>
-      <description>   ♫ Rom-Comm - Why Did I  Return  </description>
+      <description>   ♫ Rom-Comm - Why Did I CC-BY-SA  Return  </description>
     </item>
     
     <item>
@@ -196,7 +205,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cpu/</guid>
-      <description>   ♫ Blue Dot Sessions - Ray Gun - Take a Tiny Train  Return  </description>
+      <description>   ♫ Blue Dot Sessions - Ray Gun - Take a Tiny Train CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -205,7 +214,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cube_dynamic/</guid>
-      <description>   ♫ BrokeMC - The Discovery  Return  </description>
+      <description>   ♫ BrokeMC - The Discovery CC-BY  Return  </description>
     </item>
     
     <item>
@@ -214,7 +223,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cube_explode/</guid>
-      <description>   ♫ Sycamore Drive - Chills  Return  </description>
+      <description>   ♫ Sycamore Drive - Chills CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -223,7 +232,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/curve_deformation/</guid>
-      <description>   ♫ Mamma Cadela - Bohemia Sem Calcinha  Return  </description>
+      <description>   ♫ Mamma Cadela - Bohemia Sem Calcinha CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -287,7 +296,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/electric_field/</guid>
-      <description>   ♫ JFn&amp;rsquo;K - Back and to the Left.mp3  Return  </description>
+      <description>   ♫ JFn&amp;rsquo;K - Back and to the Left CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -305,7 +314,7 @@ Manual 1  Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/equaliser_circle/</guid>
-      <description>   ♫ Springtide - Paper Lanterns In The Dusk Ayla Nereo - Stars (Accoustic)♫  Return  </description>
+      <description>   ♫ Springtide - Paper Lanterns In The Dusk Ayla Nereo - Stars (Accoustic)♫ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -346,7 +355,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/flipping_book_pages/</guid>
-      <description>   ♫ Jelsonic - Lost Star  Return  </description>
+      <description>   ♫ Jelsonic - Lost Star CC-BY  Return  </description>
     </item>
     
     <item>
@@ -355,7 +364,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/flow_map/</guid>
-      <description>   ♫ Johnny Ripper - AK  Return  </description>
+      <description>   ♫ Johnny Ripper - AK CC-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -364,7 +373,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/force_field/</guid>
-      <description>   ♫ SK - Shayla - Calling for you  Return  </description>
+      <description>   ♫ SK - Shayla - Calling for you CC-BY  Return  </description>
     </item>
     
     <item>
@@ -373,7 +382,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fractals/</guid>
-      <description>   ♫ Burial at Sea - Barely There  Return  </description>
+      <description>   ♫ Burial at Sea - Barely There CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -382,7 +391,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fracture_torus/</guid>
-      <description>   ♫ Checkie Brown - Mary Roose CB 36  Return  </description>
+      <description>   ♫ Checkie Brown - Mary Roose CB 36 CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -391,7 +400,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/geonode_bounce/</guid>
-      <description>   ♫ Hi-Rez - The Remedy (Prod. Joel Johnston)  Return  </description>
+      <description>   ♫ Hi-Rez - The Remedy (Prod. Joel Johnston) CC-BY  Return  </description>
     </item>
     
     <item>
@@ -400,7 +409,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/grass_gen/</guid>
-      <description>   ♫ FRANKIE WAH - I Left My Fate (only guitar)  Return  </description>
+      <description>   ♫ FRANKIE WAH - I Left My Fate (only guitar) CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -409,7 +418,7 @@ Fk Arm Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/growth/</guid>
-      <description>   ♫ Dazie Mae - The Dice Man  Return  </description>
+      <description>   ♫ Dazie Mae - The Dice Man CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -434,7 +443,7 @@ Fingers Direct Deform Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/hexagon/</guid>
-      <description>   ♫ Kellee Maize Owl Time- Peaceburgh  Return  </description>
+      <description>   ♫ Kellee Maize Owl Time- Peaceburgh CC-BY  Return  </description>
     </item>
     
     <item>
@@ -464,7 +473,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/ice_spell/</guid>
-      <description>   ♫ Brunk - Floating  Return  </description>
+      <description>   ♫ Brunk - Floating CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -473,7 +482,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/icing/</guid>
-      <description>   ♫ Teleidofusion - みなこ  Return  </description>
+      <description>   ♫ Teleidofusion - みなこ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -482,7 +491,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/id_keys/</guid>
-      <description>   ♫ Carlos Gardels - Bach - Book I - Prelude and Fugue No. 8 in E Flat Minor, BWV 853  Return  </description>
+      <description>   ♫ Carlos Gardels - Bach - Book I - Prelude and Fugue No. 8 in E Flat Minor, BWV 853 CC-0  Return  </description>
     </item>
     
     <item>
@@ -500,7 +509,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/instance_multiple/</guid>
-      <description>   ♫ MC Menda - EnlaVariedasTalGusto (Intro)  Return  </description>
+      <description>   ♫ MC Menda - EnlaVariedasTalGusto (Intro) CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -509,7 +518,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/iris/</guid>
-      <description>   ♫ Forget the Whale - Clocks  Return  </description>
+      <description>   ♫ Forget the Whale - Clocks CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -527,7 +536,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lavalamp/</guid>
-      <description>   ♫ Teleidofusion - みなこ  Return  </description>
+      <description>   ♫ Teleidofusion - みなこ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -536,7 +545,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/leaf/</guid>
-      <description>   ♫ Novi Split - Clay Pigeons  Return  </description>
+      <description>   ♫ Novi Split - Clay Pigeons CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -545,7 +554,16 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lego/</guid>
-      <description>   ♫ Scott_Nice - Raio - Cuaq Scott Nice Remix  Return  </description>
+      <description>   ♫ Scott_Nice - Raio - Cuaq Scott Nice Remix CC-BY-NC-SA  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/looping_spiral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/looping_spiral/</guid>
+      <description>   ♫ Ryoma Maeda - Anti - Musics CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -563,7 +581,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/magic_circle/</guid>
-      <description>   ♫ Vienna Ditto - Little Fingers  Return  </description>
+      <description>   ♫ Vienna Ditto - Little Fingers CC-BY  Return  </description>
     </item>
     
     <item>
@@ -572,7 +590,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/marching_squares/</guid>
-      <description>   ♫ Michett - Zephyr&amp;rsquo;s Flight  Return  </description>
+      <description>   ♫ Michett - Zephyr&amp;rsquo;s Flight CC-BY  Return  </description>
     </item>
     
     <item>
@@ -590,7 +608,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/midi/</guid>
-      <description>   ♫ TuenStudios  Return  </description>
+      <description>   ♫ TuenStudios CC-0  Return  </description>
     </item>
     
     <item>
@@ -599,7 +617,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mocap/</guid>
-      <description>   ♫ Arrogalla Remixes King Kietu - Fregula Lo Western  Return  </description>
+      <description>   ♫ Arrogalla Remixes King Kietu - Fregula Lo Western CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -608,7 +626,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mograph/</guid>
-      <description>   ♫ Lex Villena - Origins  Return  </description>
+      <description>   ♫ Lex Villena - Origins CC-BY  Return  </description>
     </item>
     
     <item>
@@ -626,7 +644,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/music_test/</guid>
-      <description>   ♫ Michett - Zombi  Return  </description>
+      <description>   ♫ Michett - Zombi CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -635,7 +653,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/openvdb_fire/</guid>
-      <description>   ♫ The Dingees - Port Royal Sound  Return  </description>
+      <description>   ♫ The Dingees - Port Royal Sound CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -644,7 +662,7 @@ Hip &amp;amp; Slide Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/organic_displacement/</guid>
-      <description>   ♫ Geir Tjelta - Melodious  Return  </description>
+      <description>   ♫ Geir Tjelta - Melodious CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -680,7 +698,7 @@ Mouth Lock #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/plasma/</guid>
-      <description>   ♫ Sea Oleena - Sister Johnny Ripper Remix  Return  </description>
+      <description>   ♫ Sea Oleena - Sister Johnny Ripper Remix CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -729,7 +747,7 @@ Isolate Rotation #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/raccoon/</guid>
-      <description>   ♫ Ayla Nereo - Waterfall
+      <description>   ♫ Ayla Nereo - Waterfall CC-BY-NC-SA
 Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
     </item>
     
@@ -739,7 +757,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/real_time_fire/</guid>
-      <description>   ♫ Joe Marson - To The Shore  Return  </description>
+      <description>   ♫ Joe Marson - To The Shore CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -748,7 +766,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/red_skull/</guid>
-      <description>   ♫ Peg Simone - O Holy Night  Return  </description>
+      <description>   ♫ Peg Simone - O Holy Night CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -757,7 +775,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/reveal_effect/</guid>
-      <description>   ♫ Zebra - Harmony  Return  </description>
+      <description>   ♫ Zebra - Harmony CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -775,7 +793,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/shooting_stars/</guid>
-      <description>   ♫ Rico Zerone - Spheredivers  Return  </description>
+      <description>   ♫ Rico Zerone - Spheredivers CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -811,7 +829,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/soundblade/</guid>
-      <description>   ♫ The Rope River Blues Band - The Something Sound  Return  </description>
+      <description>   ♫ The Rope River Blues Band - The Something Sound CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -820,7 +838,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sperm/</guid>
-      <description>   ♫ Ketsa - Never-Give-Up  Return  </description>
+      <description>   ♫ Ketsa - Never-Give-Up CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -829,7 +847,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spline_loop/</guid>
-      <description>   ♫ Dadalu - Testeada  Return  </description>
+      <description>   ♫ Dadalu - Testeada CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -852,7 +870,7 @@ Squishy Root Animation Example    #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/stairwell/</guid>
-      <description>   ♫ Ghost Hunter - Whirlwind Dance  Return  </description>
+      <description>   ♫ Ghost Hunter - Whirlwind Dance CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -883,10 +901,10 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tutorial_land_tales_1/</guid>
-      <description>   ♫ Loyalty Freak Music - Everyone Is So Alive
-♫ Bit Laden - Max Hardcore Chainsaw Party
-♫ Johnny Ripper - AK
-♫ почему коммутатор молчит - топот  Return  </description>
+      <description>   ♫ Loyalty Freak Music - Everyone Is So Alive CC-0
+♫ Bit Laden - Max Hardcore Chainsaw Party CC-BY-NC-SA
+♫ Johnny Ripper - AK CC-NC-SA
+♫ почему коммутатор молчит - топот CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -895,10 +913,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tutorial_land_tales_2/</guid>
-      <description>   ♫ Ava Drumm - Canon in D Major (piano only)
-♫ Nick Didkovsky - Ice Cream Time
-♫ Zoliborz - Poincare Conjecture
-♫ Mirecourt Trio - Lloyd Rodgers Trio (1975)  Return  </description>
+      <description>   ♫ Ava Drumm - Canon in D Major (piano only) CC-0  Return  </description>
     </item>
     
     <item>
@@ -907,7 +922,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/unfold/</guid>
-      <description>   ♫ Anitek - Natural Form  Return  </description>
+      <description>   ♫ Anitek - Natural Form CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -916,8 +931,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vegetable_splash/</guid>
-      <description>   ♫ Lame Drivers - Lemme Get Those Numbers Down
-2x Speed Optimal  Return  </description>
+      <description>   ♫ Lame Drivers - Lemme Get Those Numbers Down CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -926,7 +940,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vine/</guid>
-      <description>   ♫ Ryoma Maeda - Fake Protest Song feat. Ema Grace  Return  </description>
+      <description>   ♫ Ryoma Maeda - Fake Protest Song feat. Ema Grace CC-BY  Return  </description>
     </item>
     
     <item>
@@ -935,7 +949,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vortex/</guid>
-      <description>   ♫ The Citadel - Zasiaty Hnev  Return  </description>
+      <description>   ♫ The Citadel - Zasiaty Hnev CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -944,7 +958,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wavy_band/</guid>
-      <description>   ♫ Volfoniq - Love Not Money feat. Solo Banton Sam  Return  </description>
+      <description>   ♫ Volfoniq - Love Not Money feat. Solo Banton Sam CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -953,7 +967,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wavy_curves/</guid>
-      <description>   ♫ Dom La Nena - Vivo Na Mare  Return  </description>
+      <description>   ♫ Dom La Nena - Vivo Na Mare CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -989,7 +1003,7 @@ Croak #  #  #  #  #  #  #</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/xmas_lights/</guid>
-      <description>   ♫ Baby Arm Sound System - Hypnotic Stagger  Return  </description>
+      <description>   ♫ Baby Arm Sound System - Hypnotic Stagger CC-BY-NC-ND  Return  </description>
     </item>
     
   </channel>

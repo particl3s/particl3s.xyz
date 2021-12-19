@@ -5,7 +5,7 @@ bookToc: true
 ---
 {{< columns >}}
 ## Art
-[![thumb-coast.png](https://i.postimg.cc/WjXxp7sp/thumb-coast.png)](/coast)
+[![logo-2021-11-15-mushroom.png](https://i.postimg.cc/BSJyH9ZG/logo-2021-11-15-mushroom.png)](/mushroom)
 <--->
 ## 
 
@@ -24,16 +24,16 @@ bookToc: true
 ## Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
+[![c-looping-spiral.gif](https://i.postimg.cc/2mrW4FmR/c-looping-spiral.gif)](/looping_spiral/)  
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-flow-map-03.gif](https://i.postimg.cc/w9tFjPKc/c-flow-map-03.gif)](/flow_map/)  
+[![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-reveal-effect.gif](https://i.postimg.cc/B3YB9hHq/c-reveal-effect.gif)](/reveal_effect/)  
+[![c-flow-map-03.gif](https://i.postimg.cc/w9tFjPKc/c-flow-map-03.gif)](/flow_map/)  
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-contour.gif](https://i.postimg.cc/y7jY2L0P/c-contour.gif)](/contour/)  
+[![c-reveal-effect.gif](https://i.postimg.cc/B3YB9hHq/c-reveal-effect.gif)](/reveal_effect/)  
 {{< /tab >}}
 {{< tab "5" >}}
 [![c-curve-deformation.gif](https://i.postimg.cc/Df6LbqNg/c-curve-deformation.gif)](/curve_deformation/)  

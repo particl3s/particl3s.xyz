@@ -125,6 +125,8 @@
 {{< /details >}}
 
 {{< details "Dec" closed>}}
+2021.12.19  
+[![c-looping-spiral.gif](https://i.postimg.cc/2mrW4FmR/c-looping-spiral.gif)](/looping_spiral/)  
 2021.12.12  
 [![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
 2021.12.06  
