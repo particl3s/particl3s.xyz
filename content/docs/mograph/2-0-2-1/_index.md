@@ -125,6 +125,8 @@
 {{< /details >}}
 
 {{< details "Dec" closed>}}
+2021.12.26  
+[![c-plant-growth.gif](https://i.postimg.cc/jTpdHZQM/c-plant-growth.gif)](/plant_growth/)  
 2021.12.19  
 [![c-looping-spiral.gif](https://i.postimg.cc/2mrW4FmR/c-looping-spiral.gif)](/looping_spiral/)  
 2021.12.12  
