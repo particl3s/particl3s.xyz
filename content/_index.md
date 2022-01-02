@@ -5,11 +5,11 @@ bookToc: true
 ---
 {{< columns >}}
 ## Art
-[![logo-keytree.png](https://i.postimg.cc/z5w5n5ff/logo-keytree.png)](/keytree)
+[![kabuki.png](https://i.postimg.cc/YMPRd3Q0/kabuki.png)](/kabuki)
+
 <--->
 ## 
-
-[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](/shredder)
+[![logo-keytree.png](https://i.postimg.cc/z5w5n5ff/logo-keytree.png)](/keytree)
 
 
 
@@ -24,10 +24,10 @@ bookToc: true
 ## Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-plant-growth.gif](https://i.postimg.cc/jTpdHZQM/c-plant-growth.gif)](/plant_growth/)  
+[![c-heart-curve.gif](https://i.postimg.cc/dsDDN82Q/c-heart-curve.gif)](/heart_curve/))  
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-looping-spiral.gif](https://i.postimg.cc/2mrW4FmR/c-looping-spiral.gif)](/looping_spiral/)  
+[![c-plant-growth.gif](https://i.postimg.cc/jTpdHZQM/c-plant-growth.gif)](/plant_growth/)  
 {{< /tab >}}
 {{< tab "3" >}}
 [![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
@@ -43,19 +43,20 @@ curve_deformation/)
 [![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
-{{< /tab >}}
-{{< tab "8" >}}
 [![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  
 {{< /tab >}}
+{{< tab "8" >}}
+[![c-fire-shader.gif](https://i.postimg.cc/7hktvw3w/c-fire-shader.gif)](/real_time_fire/)  
+{{< /tab >}}
 {{< tab "9" >}}
-[![c-iris.gif](https://i.postimg.cc/VN9q6PJh/c-iris.gif)](/iris/)  
+[![c-looping-spiral.gif](https://i.postimg.cc/2mrW4FmR/c-looping-spiral.gif)](/looping_spiral/)  
 {{< /tab >}}
 {{< /tabs >}}
 
 ## Merch.
 {{< tabs "uniqueid2" >}}
-{{< tab "Rigs" >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< tab "Horse" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
@@ -65,9 +66,6 @@ curve_deformation/)
 {{< /tab >}}
 {{< tab "Squishy" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
-{{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< tab "Purple" >}}
 [![purple-banner-01.png](https://i.postimg.cc/Df3XxpTc/purple-banner-01.png)](/purple_rig/)

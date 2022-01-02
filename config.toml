@@ -6,4 +6,4 @@ theme = "book"
 
 
 [params]
-BookTheme = 'light'
+BookTheme = 'dark'

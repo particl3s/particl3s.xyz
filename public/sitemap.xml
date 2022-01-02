@@ -17,9 +17,6 @@
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/0007/</loc>
-    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0007/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0006/</loc>
@@ -114,6 +114,8 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/2-0-2-1/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/docs/mograph/2-0-2-2/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/drawpile/</loc>
   </url><url>
     <loc>https://particl3s.xyz/dynamic_fluid_rig/</loc>
@@ -148,6 +150,8 @@
     <loc>https://particl3s.xyz/hand_rig/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://particl3s.xyz/heart_curve/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/hexagon/</loc>
   </url><url>
     <loc>https://particl3s.xyz/horse_rig/</loc>
@@ -164,6 +168,8 @@
     <loc>https://particl3s.xyz/instance_multiple/</loc>
   </url><url>
     <loc>https://particl3s.xyz/iris/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/kabuki/</loc>
   </url><url>
     <loc>https://particl3s.xyz/keyblade/</loc>
   </url><url>
