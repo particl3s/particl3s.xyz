@@ -1,6 +1,6 @@
 Oxfox
 
-[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/docs/repository/rigs/)
+[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
@@ -72,14 +72,6 @@ Mouth Lock
 {{< /tab >}}
 {{< /tabs >}}
 
-
-#
-#
-#
-#
-#
-#
-#
 
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/hXGwH)

@@ -1,6 +1,6 @@
 Horse
 
-[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/docs/repository/rigs/)
+[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
@@ -51,13 +51,7 @@ Hip & Slide
 {{< details "Animation Example" closed >}}
 [![c-horse-hurdle-3.gif](https://i.postimg.cc/ThM64p00/c-horse-hurdle-3.gif)]()
 {{< /details >}}
-#
-#
-#
-#
-#
-#
-#
+
 
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/MEIhbo)

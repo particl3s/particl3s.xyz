@@ -1,6 +1,6 @@
 Fish
 
-[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/docs/repository/rigs/)
+[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
@@ -59,13 +59,7 @@ Fk Arm
 {{< details "Animation Example" closed >}}
 [![c-fish-animation.gif](https://i.postimg.cc/nh1XqJVg/c-fish-animation.gif)]()
 {{< /details >}}
-#
-#
-#
-#
-#
-#
-#
+
 
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/ywWts)

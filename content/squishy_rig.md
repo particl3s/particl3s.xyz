@@ -1,6 +1,6 @@
 Squishy
 
-[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/docs/repository/rigs/)
+[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
@@ -23,13 +23,5 @@ Squishy Root
 {{< details "Animation Example" closed >}}
 [![c-animation-squishy-1.gif](https://i.postimg.cc/wBGTkxCf/c-animation-squishy-1.gif)]()
 {{< /details >}}
-#
-#
-#
-#
-#
-#
-#
-
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/rANuX)

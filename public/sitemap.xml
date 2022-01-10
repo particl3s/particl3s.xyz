@@ -2,17 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://particl3s.xyz/docs/about/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/docs/art/gallery/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/docs/repository/misc./</loc>
+    <loc>https://particl3s.xyz/docs/animation/openttd/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/docs/repository/rigs/</loc>
+    <loc>https://particl3s.xyz/docs/rigs/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/tutorials/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/docs/animation/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/art/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
-  </url><url>
-    <loc>https://particl3s.xyz/docs/repository/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
@@ -247,6 +251,8 @@
     <loc>https://particl3s.xyz/soundblade/</loc>
   </url><url>
     <loc>https://particl3s.xyz/sperm/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/spiral_tag/</loc>
   </url><url>
     <loc>https://particl3s.xyz/spline_loop/</loc>
   </url><url>

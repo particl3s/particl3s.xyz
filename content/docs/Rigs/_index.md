@@ -3,10 +3,11 @@ title: Rigs
 weight: 2
 bookToc: false
 ---
-## Blender Rigging
+## Blender Rigs
 
 {{< tabs "uniqueid" >}}
-{{< tab "Rigs" >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< tab "Horse" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
@@ -25,8 +26,5 @@ bookToc: false
 {{< /tab >}}
 {{< tab "Oxfox" >}}
 [![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
-{{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< /tabs >}}

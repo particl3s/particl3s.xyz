@@ -1,11 +1,8 @@
 ---
-title: Misc.
+title: Tutorials
 weight: 2
 bookToc: false
 ---
-
-## Games
-[![sky-ce.gif](https://i.postimg.cc/C5B3Fbrv/sky-ce.gif)](/sky_time/)
 
 ## Tutorials
 
@@ -18,12 +15,4 @@ Gimp Palettes In Drawpile
 <--->
 {{< /columns >}}
 
-#
-
-{{< details "Crypto" closed >}}
-[![brave-verified.png](https://i.postimg.cc/gYV77BX2/brave-verified.png)](/docs/repository/misc.)
-{{< /details >}}
-{{< details "Contact" closed >}}
-particl3s@protonmail.com
-{{< /details >}}
 

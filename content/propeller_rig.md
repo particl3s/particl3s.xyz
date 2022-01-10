@@ -1,6 +1,6 @@
 Propeller
 
-[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/docs/repository/rigs/)
+[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
@@ -15,13 +15,6 @@ Ctrl
 {{< details "Animation Example" closed >}}
 [![c-animation-propeller-3.gif](https://i.postimg.cc/sgmPvnfs/c-animation-propeller-3.gif)](https://postimg.cc/5XHQrSFR)
 {{< /details >}}
-#
-#
-#
-#
-#
-#
-#
 
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://postimg.cc/jWDVbvNp)
