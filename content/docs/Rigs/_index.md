@@ -6,15 +6,16 @@ bookToc: false
 ## Blender Rigs
 
 {{< tabs "uniqueid" >}}
+{{< tab "Fish" >}}
+[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/fish_rig/)
+{{< /tab >}}
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< tab "Horse" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
-{{< tab "Fish" >}}
-[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/fish_rig/)
-{{< /tab >}}
+
 {{< tab "Squishy" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
 {{< /tab >}}
