@@ -8,4 +8,6 @@
 [![c-spiral-tag.gif](https://i.postimg.cc/KFmK6QV0/c-spiral-tag.gif)](/spiral_tag/)  
 2022.01.16  
 [![c-burning-paper.gif](https://i.postimg.cc/dq3ytpDR/c-burning-paper.gif)](/burning_paper/)  
+2022.01.22  
+[![c-ascii.gif](https://i.postimg.cc/XnbB9hP0/c-ascii.gif)](/ascii/)  
 {{< /details >}}
