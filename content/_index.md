@@ -4,17 +4,16 @@ type: docs
 bookToc: true
 ---
 {{< columns >}}
+<--->
+
+<--->
+
+<--->
 Blender 
-<--->
-Art 
-<--->
-Animation
-<--->
-Mental Health
 {{< /columns >}}
 {{< columns >}}
 Art
-[![logo-2021-11-15-demon.png](https://i.postimg.cc/NGMzC6rJ/logo-2021-11-15-demon.png)](/demon)
+[![kabuki.png](https://i.postimg.cc/YMPRd3Q0/kabuki.png)](/kabuki)
 
 <--->
 ## 
@@ -30,13 +29,13 @@ Art
 
 {{< /columns >}}
 
-Blender Rigs
+Rigs
 {{< tabs "uniqueid2" >}}
-{{< tab "Oxfox" >}}
-[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
-{{< /tab >}}
 {{< tab "Fish" >}}
 [![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/fish_rig/)
+{{< /tab >}}
+{{< tab "Oxfox" >}}
+[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
 {{< /tab >}}
 {{< tab "Squishy" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
@@ -57,28 +56,28 @@ Blender Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-ascii.gif](https://i.postimg.cc/XnbB9hP0/c-ascii.gif)](/ascii/)  
+[![c-roller-coaster.gif](https://i.postimg.cc/rM8xsK7G/c-roller-coaster.gif)](/roller_coaster/)  
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-burning-paper.gif](https://i.postimg.cc/dq3ytpDR/c-burning-paper.gif)](/burning_paper/)  
+[![c-ascii.gif](https://i.postimg.cc/XnbB9hP0/c-ascii.gif)](/ascii/)  
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-spiral-tag.gif](https://i.postimg.cc/KFmK6QV0/c-spiral-tag.gif)](/spiral_tag/)  
+[![c-burning-paper.gif](https://i.postimg.cc/dq3ytpDR/c-burning-paper.gif)](/burning_paper/)  
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-heart-curve.gif](https://i.postimg.cc/dsDDN82Q/c-heart-curve.gif)](/heart_curve/)  
+[![c-spiral-tag.gif](https://i.postimg.cc/KFmK6QV0/c-spiral-tag.gif)](/spiral_tag/)  
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-plant-growth.gif](https://i.postimg.cc/jTpdHZQM/c-plant-growth.gif)](/plant_growth/)  
+[![c-heart-curve.gif](https://i.postimg.cc/dsDDN82Q/c-heart-curve.gif)](/heart_curve/)  
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
+[![c-plant-growth.gif](https://i.postimg.cc/jTpdHZQM/c-plant-growth.gif)](/plant_growth/)  
 {{< /tab >}}
 {{< tab "7" >}}
 [![c-reveal-effect.gif](https://i.postimg.cc/B3YB9hHq/c-reveal-effect.gif)](/reveal_effect/)  
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-another-audio-thing.gif](https://i.postimg.cc/G3y18Ccj/c-another-audio-thing.gif)](/audio_thing/)  
+[![c-room.gif](https://i.postimg.cc/QjvxV3kb/c-room.gif)](/id_keys/)  
 {{< /tab >}}
 {{< tab "9" >}}
 [![c-card-thumb.gif](https://i.postimg.cc/vQNYckBZ/c-card-thumb.gif)](/cards/)  

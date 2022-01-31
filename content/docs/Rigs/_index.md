@@ -15,7 +15,6 @@ bookToc: false
 {{< tab "Horse" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
-
 {{< tab "Squishy" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
 {{< /tab >}}
@@ -29,3 +28,4 @@ bookToc: false
 [![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
 {{< /tab >}}
 {{< /tabs >}}
+

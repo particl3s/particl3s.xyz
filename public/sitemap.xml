@@ -6,31 +6,33 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/art/gallery/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/docs/animation/openttd/</loc>
-  </url><url>
     <loc>https://particl3s.xyz/docs/rigs/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/tutorials/</loc>
-  </url><url>
-    <loc>https://particl3s.xyz/docs/animation/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/art/</loc>
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0009/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/posts/0008/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://particl3s.xyz/tags/rigging/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
@@ -40,9 +42,6 @@
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0006/</loc>
-    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0005/</loc>
@@ -248,6 +247,8 @@
     <loc>https://particl3s.xyz/reveal_effect/</loc>
   </url><url>
     <loc>https://particl3s.xyz/rig_gp/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/roller_coaster/</loc>
   </url><url>
     <loc>https://particl3s.xyz/scythe/</loc>
   </url><url>

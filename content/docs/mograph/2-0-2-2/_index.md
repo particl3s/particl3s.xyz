@@ -10,4 +10,6 @@
 [![c-burning-paper.gif](https://i.postimg.cc/dq3ytpDR/c-burning-paper.gif)](/burning_paper/)  
 2022.01.22  
 [![c-ascii.gif](https://i.postimg.cc/XnbB9hP0/c-ascii.gif)](/ascii/)  
+2022.01.31  
+[![c-roller-coaster.gif](https://i.postimg.cc/rM8xsK7G/c-roller-coaster.gif)](/roller_coaster/)  
 {{< /details >}}
