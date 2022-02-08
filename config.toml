@@ -2,6 +2,7 @@ googleAnalytics = "UA-209498349-1"
 baseURL = "https://particl3s.xyz/"
 languageCode = "en-us"
 title = "particl3s.xyz"
+
 theme = "book"
 
 

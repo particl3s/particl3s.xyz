@@ -13,3 +13,7 @@
 2022.01.31  
 [![c-roller-coaster.gif](https://i.postimg.cc/rM8xsK7G/c-roller-coaster.gif)](/roller_coaster/)  
 {{< /details >}}
+
+{{< details "Feb" closed>}}
+[![c_ball_circle.gif](https://i.postimg.cc/3361MvYB/c_ball_circle.gif)](/ball_circle/)  
+{{< /details >}}
