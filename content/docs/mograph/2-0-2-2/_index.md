@@ -15,5 +15,8 @@
 {{< /details >}}
 
 {{< details "Feb" closed>}}
+2022.02.07  
 [![c_ball_circle.gif](https://i.postimg.cc/3361MvYB/c_ball_circle.gif)](/ball_circle/)  
+2022.02.14  
+[![c-lightning-gn.gif](https://i.postimg.cc/RMX4nDyX/c-lightning-gn.gif)](/bolt/)  
 {{< /details >}}

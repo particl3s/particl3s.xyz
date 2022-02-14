@@ -30,5 +30,5 @@ Worm Gear Rig
 
 <--->
 [![c-cloth-flower.gif](https://i.postimg.cc/L4F2rdL9/c-cloth-flower.gif)](/cloth_flower)  
-Cloth Flower  
+Cloth Flower Tutorial  
 {{< /columns >}}

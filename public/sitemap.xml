@@ -14,14 +14,20 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0010/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>https://particl3s.xyz/tags/rigging/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0007/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
@@ -77,11 +80,15 @@
   </url><url>
     <loc>https://particl3s.xyz/audio_vis/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/ball_circle/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/balloon/</loc>
   </url><url>
     <loc>https://particl3s.xyz/berry/</loc>
   </url><url>
     <loc>https://particl3s.xyz/blood_moon/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/bolt/</loc>
   </url><url>
     <loc>https://particl3s.xyz/bombs_away/</loc>
   </url><url>
@@ -289,6 +296,8 @@
     <loc>https://particl3s.xyz/vegetable_splash/</loc>
   </url><url>
     <loc>https://particl3s.xyz/vine/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/voodoo/</loc>
   </url><url>
     <loc>https://particl3s.xyz/vortex/</loc>
   </url><url>
