@@ -19,4 +19,6 @@
 [![c_ball_circle.gif](https://i.postimg.cc/3361MvYB/c_ball_circle.gif)](/ball_circle/)  
 2022.02.14  
 [![c-lightning-gn.gif](https://i.postimg.cc/RMX4nDyX/c-lightning-gn.gif)](/bolt/)  
+2022.02.20  
+[![c-fireworks.gif](https://i.postimg.cc/knhVGK84/c-fireworks.gif)](/fireworks/)  
 {{< /details >}}
