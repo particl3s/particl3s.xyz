@@ -21,4 +21,6 @@
 [![c-lightning-gn.gif](https://i.postimg.cc/RMX4nDyX/c-lightning-gn.gif)](/bolt/)  
 2022.02.20  
 [![c-fireworks.gif](https://i.postimg.cc/knhVGK84/c-fireworks.gif)](/fireworks/)  
+2022.02.28  
+[![c-water-filter.gif](https://i.postimg.cc/KZq81PCV/c-water-filter.gif)](/fluid_text/)  
 {{< /details >}}
