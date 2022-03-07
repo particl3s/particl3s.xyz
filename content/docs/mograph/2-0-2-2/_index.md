@@ -24,3 +24,8 @@
 2022.02.28  
 [![c-water-filter.gif](https://i.postimg.cc/KZq81PCV/c-water-filter.gif)](/fluid_text/)  
 {{< /details >}}
+
+{{< details "Mar" closed>}}
+2022.03.05  
+[![c-fake-fluid.gif](https://i.postimg.cc/Dv5DBDCx/c-fake-fluid.gif)](/fake_fluid)  
+{{< /details >}}
