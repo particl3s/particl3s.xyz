@@ -28,4 +28,6 @@
 {{< details "Mar" closed>}}
 2022.03.05  
 [![c-fake-fluid.gif](https://i.postimg.cc/Dv5DBDCx/c-fake-fluid.gif)](/fake_fluid)  
+2022.03.13  
+[![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)
 {{< /details >}}
