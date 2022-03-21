@@ -14,26 +14,29 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/0012/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0011/</loc>
     <lastmod>2022-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://particl3s.xyz/posts/0010/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0009/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
@@ -247,6 +250,8 @@
     <loc>https://particl3s.xyz/plasma/</loc>
   </url><url>
     <loc>https://particl3s.xyz/procedural_fire/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/procedural_swimming/</loc>
   </url><url>
     <loc>https://particl3s.xyz/propeller_rig/</loc>
     <priority>0</priority>

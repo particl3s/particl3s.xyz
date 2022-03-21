@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bzzt</title>
+      <link>https://particl3s.xyz/posts/0012/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0012/</guid>
+      <description>Looking into alternative tech providers, spring cleaning!</description>
+    </item>
+    
     <item>
       <title>Chlorophyll</title>
       <link>https://particl3s.xyz/posts/0011/</link>
@@ -909,6 +918,17 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/procedural_fire/</guid>
       <description>   ♫ K. Sparks - Drift  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/procedural_swimming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/procedural_swimming/</guid>
+      <description>   ♫ Saddle-Sore by Ketsao CC-BY-NC-ND
+Original Tutorial
+ Return  </description>
     </item>
     
     <item>

@@ -29,5 +29,7 @@
 2022.03.05  
 [![c-fake-fluid.gif](https://i.postimg.cc/Dv5DBDCx/c-fake-fluid.gif)](/fake_fluid)  
 2022.03.13  
-[![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)
+[![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)  
+2022.03.20  
+[![c-swimming.gif](https://i.postimg.cc/4X5QZd95/c-swimming.gif)](/procedural_swimming/)  
 {{< /details >}}
