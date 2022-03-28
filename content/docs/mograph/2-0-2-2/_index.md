@@ -32,4 +32,6 @@
 [![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)  
 2022.03.20  
 [![c-swimming.gif](https://i.postimg.cc/4X5QZd95/c-swimming.gif)](/procedural_swimming/)  
+2022.03.27  
+[![c-dynamic-outlines-web.gif](https://i.postimg.cc/cWPJbfLS/c-dynamic-outlines-web.gif)](dynamic_outlines)  
 {{< /details >}}
