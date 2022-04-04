@@ -33,5 +33,12 @@
 2022.03.20  
 [![c-swimming.gif](https://i.postimg.cc/4X5QZd95/c-swimming.gif)](/procedural_swimming/)  
 2022.03.27  
-[![c-dynamic-outlines-web.gif](https://i.postimg.cc/cWPJbfLS/c-dynamic-outlines-web.gif)](dynamic_outlines)  
+[![c-dynamic-outlines-web.gif](https://i.postimg.cc/cWPJbfLS/c-dynamic-outlines-web.gif)](/dynamic_outlines)  
 {{< /details >}}
+
+{{< details "Mar" closed>}}
+2022.04.03  
+[![c-tearing-effect-web.gif](https://i.postimg.cc/k7JwvMJz/c-tearing-effect-web.gif)](/tearing_effect)
+{{< /details >}}
+
+

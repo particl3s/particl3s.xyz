@@ -6,22 +6,22 @@ bookToc: false
 ## Blender Rigs
 
 {{< tabs "uniqueid" >}}
-{{< tab "Fish" >}}
+{{< tab "Aquatic Monster" >}}
 [![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/fish_rig/)
 {{< /tab >}}
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
-{{< tab "Horse" >}}
+{{< tab "Pony" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
 {{< tab "Squishy" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/squishy_rig/)
 {{< /tab >}}
-{{< tab "Purple" >}}
+{{< tab "Robot" >}}
 [![purple-banner-01.png](https://i.postimg.cc/Df3XxpTc/purple-banner-01.png)](/purple_rig/)
 {{< /tab >}}
-{{< tab "Toad" >}}
+{{< tab "Amphibian" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/toad_rig/)
 {{< /tab >}}
 {{< tab "Oxfox" >}}
