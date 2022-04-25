@@ -16,7 +16,7 @@ Art
 
 <--->
 ## 
-[![kabuki.png](https://i.postimg.cc/YMPRd3Q0/kabuki.png)](kabuki)
+[![logo-2021-11-15-lotus.png](https://i.postimg.cc/vQrk4Hsz/logo-2021-11-15-lotus.png)](lotus)
 
 
 <--->
@@ -29,6 +29,9 @@ Art
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Squishy" >}}
+[![banner-squishy.png](https://i.postimg.cc/W2nXB7g1/banner-squishy.png)](/squishy_rig/)
+{{< /tab >}}
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
@@ -47,39 +50,36 @@ Rigs
 {{< tab "Aquatic Monster" >}}
 [![banner-fish.png](https://i.postimg.cc/nFWYxSzp/banner-fish.png)](/fish_rig/)
 {{< /tab >}}
-{{< tab "Squishy" >}}
-[![banner-squishy.png](https://i.postimg.cc/W2nXB7g1/banner-squishy.png)](/squishy_rig/)
-{{< /tab >}}
 {{< /tabs >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-moving-points.gif](https://i.postimg.cc/VmFTC1TH/c-moving-points.gif)](moving_points)
+[![c-text-pop.gif](https://i.postimg.cc/4ZkhdNth/c-text-pop.gif)](text_pop)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-fake-caustics.gif](https://i.postimg.cc/cxZc7bK1/c-fake-caustics.gif)](fake_caustics)
+[![c-moving-points.gif](https://i.postimg.cc/VmFTC1TH/c-moving-points.gif)](moving_points)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-tearing-effect-web.gif](https://i.postimg.cc/k7JwvMJz/c-tearing-effect-web.gif)](tearing_effect)
+[![c-fake-caustics.gif](https://i.postimg.cc/cxZc7bK1/c-fake-caustics.gif)](fake_caustics)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-dynamic-outlines-web.gif](https://i.postimg.cc/cWPJbfLS/c-dynamic-outlines-web.gif)](dynamic_outlines)
+[![c-tearing-effect-web.gif](https://i.postimg.cc/k7JwvMJz/c-tearing-effect-web.gif)](tearing_effect)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-swimming.gif](https://i.postimg.cc/4X5QZd95/c-swimming.gif)](/procedural_swimming/)
+[![c-dynamic-outlines-web.gif](https://i.postimg.cc/cWPJbfLS/c-dynamic-outlines-web.gif)](dynamic_outlines)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)
+[![c-swimming.gif](https://i.postimg.cc/4X5QZd95/c-swimming.gif)](/procedural_swimming/)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-fake-fluid.gif](https://i.postimg.cc/Dv5DBDCx/c-fake-fluid.gif)](/fake_fluid/)
+[![c-rubics-cube.gif](https://i.postimg.cc/hSbyfnrv/c-rubics-cube.gif)](/rubics_cube/)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-water-filter.gif](https://i.postimg.cc/KZq81PCV/c-water-filter.gif)](/fluid_text/)
+[![c-fake-fluid.gif](https://i.postimg.cc/Dv5DBDCx/c-fake-fluid.gif)](/fake_fluid/)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-fireworks.gif](https://i.postimg.cc/knhVGK84/c-fireworks.gif)](/fireworks/)  
+[![c-water-filter.gif](https://i.postimg.cc/KZq81PCV/c-water-filter.gif)](/fluid_text/)
 {{< /tab >}}
 {{< /tabs >}}
 

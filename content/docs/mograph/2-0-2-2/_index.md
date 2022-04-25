@@ -43,6 +43,8 @@
 [![c-fake-caustics.gif](https://i.postimg.cc/cxZc7bK1/c-fake-caustics.gif)](fake_caustics)  
 2022.04.17  
 [![c-moving-points.gif](https://i.postimg.cc/VmFTC1TH/c-moving-points.gif)](moving_points)  
+2022.04.24  
+[![c-text-pop.gif](https://i.postimg.cc/4ZkhdNth/c-text-pop.gif)](text_pop)  
 {{< /details >}}
 
 
