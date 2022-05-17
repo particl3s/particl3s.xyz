@@ -49,5 +49,9 @@
 
 {{< details "May" closed>}}
 2022.05.01  
-[![c-smoke-trail.gif](https://i.postimg.cc/B3zBZBhm/c-smoke-trail.gif)](smoke_trail)
+[![c-smoke-trail.gif](https://i.postimg.cc/B3zBZBhm/c-smoke-trail.gif)](smoke_trail)  
+2022.05.08  
+[![c-mosaic.gif](https://i.postimg.cc/bYP5TcKy/c-mosaic.gif)](mosaic)  
+2022.05.15  
+[![c-audio-synth.gif](https://i.postimg.cc/qp4s5177/c-audio-synth.gif)](audio_synth)  
 {{< /details >}}
