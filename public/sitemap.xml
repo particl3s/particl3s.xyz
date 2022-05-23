@@ -15,16 +15,19 @@
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0016/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0015/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
@@ -139,6 +142,8 @@
     <loc>https://particl3s.xyz/cube_dynamic/</loc>
   </url><url>
     <loc>https://particl3s.xyz/cube_explode/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/curl_noise/</loc>
   </url><url>
     <loc>https://particl3s.xyz/curve_deformation/</loc>
   </url><url>

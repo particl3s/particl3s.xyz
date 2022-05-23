@@ -54,4 +54,6 @@
 [![c-mosaic.gif](https://i.postimg.cc/bYP5TcKy/c-mosaic.gif)](mosaic)  
 2022.05.15  
 [![c-audio-synth.gif](https://i.postimg.cc/qp4s5177/c-audio-synth.gif)](audio_synth)  
+2022.05.23  
+[![c-curl-noise.gif](https://i.postimg.cc/Fm45HdGL/c-curl-noise.gif)](curl_noise)  
 {{< /details >}}
