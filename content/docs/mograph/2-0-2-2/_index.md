@@ -59,3 +59,8 @@
 2022.05.29  
 [![c-portal.gif](https://i.postimg.cc/KFp4LdfP/c-portal.gif)](portal)  
 {{< /details >}}
+
+{{< details "June" closed>}}
+2022.06.05  
+[![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)  
+{{< /details >}}
