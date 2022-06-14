@@ -63,4 +63,6 @@
 {{< details "June" closed>}}
 2022.06.05  
 [![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)  
+2022.06.13  
+[![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](interactive_snow)  
 {{< /details >}}
