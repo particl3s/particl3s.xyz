@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slice of Life</title>
+      <link>https://particl3s.xyz/posts/0018/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0018/</guid>
+      <description>User interface is sorely off in much of open source, same with backwards compatibility. Jamming a Snes cartridge into a n64.</description>
+    </item>
+    
     <item>
       <title>Candles</title>
       <link>https://particl3s.xyz/posts/0017/</link>
@@ -167,6 +176,51 @@
       
       <guid>https://particl3s.xyz/posts/0000/</guid>
       <description>Site is Live!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/amphibian_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/amphibian_rig/</guid>
+      <description>Toad
+
+Manual 1 
+Squishy Head2 
+Eye Scale3 
+Mouth4 
+Fk Foot5 
+Stomach6 
+Eye Ctrl7 
+Fk Ik Switch8 
+Ik Ctrl9 
+Mouth Direct9 
+Root Hip10 
+Croak</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/aquatic_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/aquatic_rig/</guid>
+      <description>Fish
+
+Manual 1 
+Blink2 
+Jaw Stretch3 
+Direct Eye Ctrl4 
+Indirect Fin Ctrl5 
+Direct Mouth Ctrl6 
+Fin Waddle7 
+Root8 
+Teeth9 
+Ik Arm10 
+Individual Eye Ctrl11 
+Mouth12 
+Fk Arm Animation Example</description>
     </item>
     
     <item>
@@ -574,29 +628,6 @@ Original Tutorial
     
     <item>
       <title></title>
-      <link>https://particl3s.xyz/fish_rig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://particl3s.xyz/fish_rig/</guid>
-      <description>Fish
-
-Manual 1 
-Blink2 
-Jaw Stretch3 
-Direct Eye Ctrl4 
-Indirect Fin Ctrl5 
-Direct Mouth Ctrl6 
-Fin Waddle7 
-Root8 
-Teeth9 
-Ik Arm10 
-Individual Eye Ctrl11 
-Mouth12 
-Fk Arm Animation Example</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://particl3s.xyz/flipping_book_pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -968,6 +999,15 @@ Original Tutorial
     
     <item>
       <title></title>
+      <link>https://particl3s.xyz/moss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/moss/</guid>
+      <description>   Original Tutorial  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://particl3s.xyz/moving_points/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1002,6 +1042,20 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/openvdb_fire/</guid>
       <description>   ♫ The Dingees - Port Royal Sound CC-BY-NC-SA  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/orange_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/orange_rig/</guid>
+      <description>Squishy
+
+Manual 1 
+Appendage2 
+Eye3 
+Squishy Root Animation Example</description>
     </item>
     
     <item>
@@ -1304,20 +1358,6 @@ Original Tutorial
     
     <item>
       <title></title>
-      <link>https://particl3s.xyz/squishy_rig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://particl3s.xyz/squishy_rig/</guid>
-      <description>Squishy
-
-Manual 1 
-Appendage2 
-Eye3 
-Squishy Root Animation Example</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://particl3s.xyz/srabble_dabble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1354,28 +1394,6 @@ Original Tutorial
       <description>   ♫ To Believe and Break by Mid-Air Machine CC-BY-SA
 Original Tutorial
  Return  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://particl3s.xyz/toad_rig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://particl3s.xyz/toad_rig/</guid>
-      <description>Toad
-
-Manual 1 
-Squishy Head2 
-Eye Scale3 
-Mouth4 
-Fk Foot5 
-Stomach6 
-Eye Ctrl7 
-Fk Ik Switch8 
-Ik Ctrl9 
-Mouth Direct9 
-Root Hip10 
-Croak</description>
     </item>
     
     <item>

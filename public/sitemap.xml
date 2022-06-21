@@ -14,16 +14,19 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0018/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0017/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
@@ -94,6 +97,12 @@
   </url><url>
     <loc>https://particl3s.xyz/posts/0000/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/amphibian_rig/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://particl3s.xyz/aquatic_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/ascii/</loc>
   </url><url>
@@ -186,9 +195,6 @@
   </url><url>
     <loc>https://particl3s.xyz/fireworks/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/fish_rig/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://particl3s.xyz/flipping_book_pages/</loc>
   </url><url>
     <loc>https://particl3s.xyz/flow_map/</loc>
@@ -267,6 +273,8 @@
   </url><url>
     <loc>https://particl3s.xyz/mosaic/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/moss/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/moving_points/</loc>
   </url><url>
     <loc>https://particl3s.xyz/mushroom/</loc>
@@ -274,6 +282,9 @@
     <loc>https://particl3s.xyz/music_test/</loc>
   </url><url>
     <loc>https://particl3s.xyz/openvdb_fire/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/orange_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/organic_displacement/</loc>
   </url><url>
@@ -334,9 +345,6 @@
   </url><url>
     <loc>https://particl3s.xyz/spline_tracer/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/squishy_rig/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://particl3s.xyz/srabble_dabble/</loc>
   </url><url>
     <loc>https://particl3s.xyz/stairwell/</loc>
@@ -344,9 +352,6 @@
     <loc>https://particl3s.xyz/tearing_effect/</loc>
   </url><url>
     <loc>https://particl3s.xyz/text_pop/</loc>
-  </url><url>
-    <loc>https://particl3s.xyz/toad_rig/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/tutorial_land_tales_1/</loc>
   </url><url>
