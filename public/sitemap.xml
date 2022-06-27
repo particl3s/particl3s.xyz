@@ -14,11 +14,20 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/0019/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/tech/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0018/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
@@ -27,9 +36,6 @@
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0017/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0016/</loc>
@@ -184,6 +190,8 @@
     <loc>https://particl3s.xyz/electric_field/</loc>
   </url><url>
     <loc>https://particl3s.xyz/empty_dust/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/energy_fx/</loc>
   </url><url>
     <loc>https://particl3s.xyz/equaliser_circle/</loc>
   </url><url>

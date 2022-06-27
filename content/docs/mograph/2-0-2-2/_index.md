@@ -67,4 +67,6 @@
 [![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](/interactive_snow)  
 2022.06.19  
 [![c-moss.gif](https://i.postimg.cc/nFT1BDMp/c-moss.gif)](/moss)  
+2022.06.27  
+[![c-energy-fx.gif](https://i.postimg.cc/6wp9XsdP/c-energy-fx.gif)](/energy_fx)  
 {{< /details >}}

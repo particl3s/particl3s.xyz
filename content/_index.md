@@ -17,11 +17,11 @@ Art
 
 <--->
 ## 
-[![lgoo11.png](https://i.postimg.cc/9W4XqJBR/lgoo11.png)](scythe)
+[![thumb_coast_1.png](https://i.postimg.cc/QXd0y2Wp/thumb_coast_1.png)](coast)
 <--->
-[![wing_logo.png](https://i.postimg.cc/7xsrLTJR/wing_logo.png)](winged_female)
-## 
 
+## 
+[![2021-11-29-sophia-thumbnail.png](https://i.postimg.cc/t9sHkv3Y/2021-11-29-sophia-thumbnail.png)](sophia)
 
 <--->
 
@@ -30,6 +30,9 @@ Art
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Oxfox" >}}
+[![banner-oxfox.png](https://i.postimg.cc/R9jQbYyT/banner-oxfox.png)](/oxfox_rig/)
+{{< /tab >}}
 {{< tab "Amphibian" >}}
 [![banner-toad.png](https://i.postimg.cc/yKpT0xTt/banner-toad.png)](/amphibian_rig/))
 {{< /tab >}}
@@ -48,9 +51,7 @@ Rigs
 {{< tab "Robot" >}}
 [![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
 {{< /tab >}}
-{{< tab "Oxfox" >}}
-[![banner-oxfox.png](https://i.postimg.cc/R9jQbYyT/banner-oxfox.png)](/oxfox_rig/)
-{{< /tab >}}
+
 
 
 
@@ -63,31 +64,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-moss.gif](https://i.postimg.cc/nFT1BDMp/c-moss.gif)](moss)
+[![c-energy-fx.gif](https://i.postimg.cc/6wp9XsdP/c-energy-fx.gif)](energy_fx)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](interactive_snow)
+[![c-moss.gif](https://i.postimg.cc/nFT1BDMp/c-moss.gif)](moss)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)
+[![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](interactive_snow)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-portal.gif](https://i.postimg.cc/KFp4LdfP/c-portal.gif)](portal)
+[![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-curl-noise.gif](https://i.postimg.cc/Fm45HdGL/c-curl-noise.gif)](curl_noise)
+[![c-portal.gif](https://i.postimg.cc/KFp4LdfP/c-portal.gif)](portal)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-audio-synth.gif](https://i.postimg.cc/qp4s5177/c-audio-synth.gif)](audio_synth)
+[![c-curl-noise.gif](https://i.postimg.cc/Fm45HdGL/c-curl-noise.gif)](curl_noise)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-mosaic.gif](https://i.postimg.cc/bYP5TcKy/c-mosaic.gif)](mosaic)
+[![c-audio-synth.gif](https://i.postimg.cc/qp4s5177/c-audio-synth.gif)](audio_synth)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-smoke-trail.gif](https://i.postimg.cc/B3zBZBhm/c-smoke-trail.gif)](smoke_trail)
+[![c-mosaic.gif](https://i.postimg.cc/bYP5TcKy/c-mosaic.gif)](mosaic)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-text-pop.gif](https://i.postimg.cc/4ZkhdNth/c-text-pop.gif)](text_pop)
+[![c-smoke-trail.gif](https://i.postimg.cc/B3zBZBhm/c-smoke-trail.gif)](smoke_trail)
 {{< /tab >}}
 {{< /tabs >}}
 
