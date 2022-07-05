@@ -534,7 +534,7 @@ Original Tutorial
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/docs/art/gallery/3/</guid>
-      <description>Art 1  2  3  4  #             </description>
+      <description>Art 1  2  3  4  #              </description>
     </item>
     
     <item>
@@ -923,6 +923,15 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/lightning/</guid>
       <description>   ♫ Sergey Cheremisinov - By The Winds CC-BY-NC  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/lion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/lion/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1412,6 +1421,17 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/text_pop/</guid>
       <description>   ♫ To Believe and Break by Mid-Air Machine CC-BY-SA
+Original Tutorial
+ Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/traffic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/traffic/</guid>
+      <description>   ♫ Riddim Of My Heart [Recycled] by EQuBE CC-BY-NC-ND
 Original Tutorial
  Return  </description>
     </item>

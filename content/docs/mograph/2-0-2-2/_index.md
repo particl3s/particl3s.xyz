@@ -70,3 +70,10 @@
 2022.06.27  
 [![c-energy-fx.gif](https://i.postimg.cc/6wp9XsdP/c-energy-fx.gif)](/energy_fx)  
 {{< /details >}}
+
+{{< details "July" closed>}}
+2022.07.03  
+[![c-traffic.gif](https://i.postimg.cc/MWQJDs65/c-traffic.gif)](/traffic)  
+{{< /details >}}
+
+
