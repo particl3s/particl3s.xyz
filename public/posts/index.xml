@@ -6,7 +6,16 @@
     <description>Recent content in News on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Highway of Information</title>
+      <link>https://particl3s.xyz/posts/0020/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0020/</guid>
+      <description>The network was down yesterday for a day, really brings life into perspective. People connected to the web 24/7 must have a tough time staying grounded.</description>
+    </item>
+    
     <item>
       <title>Battery</title>
       <link>https://particl3s.xyz/posts/0019/</link>

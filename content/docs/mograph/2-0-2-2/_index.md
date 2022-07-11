@@ -74,6 +74,8 @@
 {{< details "July" closed>}}
 2022.07.03  
 [![c-traffic.gif](https://i.postimg.cc/MWQJDs65/c-traffic.gif)](/traffic)  
+2022.07.10  
+[![c-laser.gif](https://i.postimg.cc/5JkqvJyw/c-laser.gif)](/laser)  
 {{< /details >}}
 
 

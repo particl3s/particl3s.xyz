@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Highway of Information</title>
+      <link>https://particl3s.xyz/posts/0020/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0020/</guid>
+      <description>The network was down yesterday for a day, really brings life into perspective. People connected to the web 24/7 must have a tough time staying grounded.</description>
+    </item>
+    
     <item>
       <title>Battery</title>
       <link>https://particl3s.xyz/posts/0019/</link>
@@ -387,6 +396,25 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/cards/</guid>
       <description>   ♫ Wildlight - Quicksand CC-BY-NC-SA  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/ceiling_fan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/ceiling_fan/</guid>
+      <description>Purple Bot
+
+Manual 1 
+Transform2 
+Ik, Fk Layers3 
+Vehicle Roll4 
+Fk Ik Switch5 
+Fk Isolate Rotation6 
+Suspension7 
+Bottom Limit8 
+Isolate Rotation</description>
     </item>
     
     <item>
@@ -887,6 +915,17 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/knitting/</guid>
       <description>   ♫ Punk Rock Opera - Guitar Lesssons (Reprise) CC-BY  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/laser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/laser/</guid>
+      <description>   ♫ Golden Snake by Jessie Evans CC-BY-NC-NA
+Original Tutorial
+ Return  </description>
     </item>
     
     <item>
