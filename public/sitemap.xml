@@ -14,16 +14,25 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/posts/0020/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0021/</loc>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0020/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/tech/</loc>
@@ -34,9 +43,6 @@
   </url><url>
     <loc>https://particl3s.xyz/posts/0018/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0017/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
@@ -54,9 +60,6 @@
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0012/</loc>
-    <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0011/</loc>
@@ -388,6 +391,8 @@
     <loc>https://particl3s.xyz/voronoi/</loc>
   </url><url>
     <loc>https://particl3s.xyz/vortex/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/waves/</loc>
   </url><url>
     <loc>https://particl3s.xyz/wavy_band/</loc>
   </url><url>

@@ -76,6 +76,8 @@
 [![c-traffic.gif](https://i.postimg.cc/MWQJDs65/c-traffic.gif)](/traffic)  
 2022.07.10  
 [![c-laser.gif](https://i.postimg.cc/5JkqvJyw/c-laser.gif)](/laser)  
+2022.07.17  
+[![c-waves.gif](https://i.postimg.cc/xj8zWC93/c-waves.gif)](waves)  
 {{< /details >}}
 
 

@@ -31,6 +31,9 @@ Art
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
 {{< tab "Pony" >}}
 [![banner-horse.png](https://i.postimg.cc/c0wMqmNG/banner-horse.png)](/horse_rig/)
 {{< /tab >}}
@@ -49,9 +52,7 @@ Rigs
 {{< tab "Orange" >}}
 [![banner-squishy.png](https://i.postimg.cc/W2nXB7g1/banner-squishy.png)](/orange_rig/)
 {{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
-{{< /tab >}}
+
 
 
 
@@ -67,31 +68,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-laser.gif](https://i.postimg.cc/5JkqvJyw/c-laser.gif)](laser)
+[![c-waves.gif](https://i.postimg.cc/xj8zWC93/c-waves.gif)](waves)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-traffic.gif](https://i.postimg.cc/MWQJDs65/c-traffic.gif)](traffic)
+[![c-laser.gif](https://i.postimg.cc/5JkqvJyw/c-laser.gif)](laser)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-energy-fx.gif](https://i.postimg.cc/6wp9XsdP/c-energy-fx.gif)](energy_fx)
+[![c-traffic.gif](https://i.postimg.cc/MWQJDs65/c-traffic.gif)](traffic)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-moss.gif](https://i.postimg.cc/nFT1BDMp/c-moss.gif)](moss)
+[![c-energy-fx.gif](https://i.postimg.cc/6wp9XsdP/c-energy-fx.gif)](energy_fx)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](interactive_snow)
+[![c-moss.gif](https://i.postimg.cc/nFT1BDMp/c-moss.gif)](moss)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)
+[![c-interactive-snow.gif](https://i.postimg.cc/qkT03dd4/c-interactive-snow.gif)](interactive_snow)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-portal.gif](https://i.postimg.cc/KFp4LdfP/c-portal.gif)](portal)
+[![c-voronoi-tower-1.gif](https://i.postimg.cc/L2Bg0prr/c-voronoi-tower-1.gif)](voronoi)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-curl-noise.gif](https://i.postimg.cc/Fm45HdGL/c-curl-noise.gif)](curl_noise)
+[![c-portal.gif](https://i.postimg.cc/KFp4LdfP/c-portal.gif)](portal)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-audio-synth.gif](https://i.postimg.cc/qp4s5177/c-audio-synth.gif)](audio_synth)
+[![c-curl-noise.gif](https://i.postimg.cc/Fm45HdGL/c-curl-noise.gif)](curl_noise)
 {{< /tab >}}
 {{< /tabs >}}
 
