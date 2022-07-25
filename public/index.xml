@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upload</title>
+      <link>https://particl3s.xyz/posts/0022/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0022/</guid>
+      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;rsquo;em out!</description>
+    </item>
+    
     <item>
       <title>Chromarinara</title>
       <link>https://particl3s.xyz/posts/0021/</link>
@@ -375,7 +384,7 @@ Original Tutorial
       <guid>https://particl3s.xyz/boomerang_rig/</guid>
       <description>Boomerang
 
-Manual 1  Animation Example    #  #  #  #  #  #  #</description>
+Manual spin</description>
     </item>
     
     <item>
@@ -409,30 +418,25 @@ Original Tutorial
     
     <item>
       <title></title>
-      <link>https://particl3s.xyz/ceiling_fan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://particl3s.xyz/ceiling_fan/</guid>
-      <description>Purple Bot
-
-Manual 1 
-Transform2 
-Ik, Fk Layers3 
-Vehicle Roll4 
-Fk Ik Switch5 
-Fk Isolate Rotation6 
-Suspension7 
-Bottom Limit8 
-Isolate Rotation</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://particl3s.xyz/cityscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cityscape/</guid>
       <description>   ♫ Karina Buhr - Nassiria e Najaf CC-BY  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/claw_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/claw_rig/</guid>
+      <description>Claw
+
+Manual 1 
+Pincers2 
+Stretch &amp;amp; Auto Grip3 
+Rotation</description>
     </item>
     
     <item>
@@ -975,6 +979,17 @@ Original Tutorial
     
     <item>
       <title></title>
+      <link>https://particl3s.xyz/linecolour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/linecolour/</guid>
+      <description>   ♫ Arpanauts by Eric Skiff CC-BY
+Original Tutorial
+ Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://particl3s.xyz/lion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1061,6 +1076,27 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/mograph/</guid>
       <description>   ♫ Lex Villena - Origins CC-BY  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/monkey_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/monkey_rig/</guid>
+      <description>Monkey
+
+Manual 1 
+Arm Isolate Rotation2 
+Chew3 
+Ear4 
+Eye5 
+Ik-Fk6 
+Leg Isolate Rotation7 
+Mouth8 
+Tie9 
+Tie Isolate Rotation10 
+Tux Isolate Rotation 11 Second Club Animation Mentor I got last place^^.</description>
     </item>
     
     <item>
@@ -1503,6 +1539,17 @@ Original Tutorial
       
       <guid>https://particl3s.xyz/tutorial_land_tales_2/</guid>
       <description>   ♫ Ava Drumm - Canon in D Major (piano only) CC-0  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/umbrella_rig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/umbrella_rig/</guid>
+      <description>Umbrella
+
+Manual 1 2 3 4</description>
     </item>
     
     <item>

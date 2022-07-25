@@ -14,19 +14,25 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/rigging/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0022/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0021/</loc>
-    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
@@ -72,9 +78,6 @@
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0008/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/rigging/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0007/</loc>
@@ -149,10 +152,10 @@
   </url><url>
     <loc>https://particl3s.xyz/cards/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/ceiling_fan/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://particl3s.xyz/cityscape/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/claw_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/cloth_flower/</loc>
   </url><url>
@@ -272,6 +275,8 @@
   </url><url>
     <loc>https://particl3s.xyz/lightning/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/linecolour/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/lion/</loc>
   </url><url>
     <loc>https://particl3s.xyz/looping_spiral/</loc>
@@ -291,6 +296,9 @@
     <loc>https://particl3s.xyz/mocap/</loc>
   </url><url>
     <loc>https://particl3s.xyz/mograph/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/monkey_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/mosaic/</loc>
   </url><url>
@@ -379,6 +387,9 @@
     <loc>https://particl3s.xyz/tutorial_land_tales_1/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tutorial_land_tales_2/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/umbrella_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/unfold/</loc>
   </url><url>

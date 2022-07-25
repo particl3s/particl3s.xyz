@@ -6,20 +6,13 @@ Boomerang
 {{< tab "Manual" >}}
 
 {{< /tab >}}
-{{< tab "1" >}}
+{{< tab "spin" >}}
+[![c-boomerang.gif](https://i.postimg.cc/6BWvD7Pk/c-boomerang.gif)]()
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< details "Animation Example" closed >}}
-[![horse.gif](https://i.postimg.cc/qMYNpbDj/horse.gif)](https://postimg.cc/tY3q55jx)
-{{< /details >}}
-#
-#
-#
-#
-#
-#
-#
+{{< vimeo 732380365 >}}
 
 
-[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://postimg.cc/jWDVbvNp)
+
+[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/boomerang_rig)

@@ -5,6 +5,24 @@ bookToc: false
 ---
 ## Blender Rigs
 
+{{< tabs "uniqueid2" >}}
+{{< tab "Boomerang" >}}
+[![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)
+{{< /tab >}}
+{{< tab "Claw" >}}
+[![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
+{{< /tab >}}
+{{< tab "Monkey" >}}
+[![screenshot-2022-07-22.png](https://i.postimg.cc/GdrNFZJK/screenshot-2022-07-22.png)](/monkey_rig/)
+{{< /tab >}}
+{{< tab "Propeller" >}}
+[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
+{{< /tab >}}
+{{< tab "Umbrella" >}}
+[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< /tab >}}
+{{< /tabs >}}
+
 {{< tabs "uniqueid" >}}
 {{< tab "Aquatic Monster" >}}
 [![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)

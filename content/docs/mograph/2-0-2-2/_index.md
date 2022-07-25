@@ -77,7 +77,9 @@
 2022.07.10  
 [![c-laser.gif](https://i.postimg.cc/5JkqvJyw/c-laser.gif)](/laser)  
 2022.07.17  
-[![c-waves.gif](https://i.postimg.cc/xj8zWC93/c-waves.gif)](waves)  
+[![c-waves.gif](https://i.postimg.cc/xj8zWC93/c-waves.gif)](/waves)  
+2022.07.24  
+[![c-wireframe.gif](https://i.postimg.cc/8TF71zQ4/c-wireframe.gif)](/linecolour)  
 {{< /details >}}
 
 

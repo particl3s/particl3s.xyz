@@ -6,7 +6,16 @@
     <description>Recent content in News on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upload</title>
+      <link>https://particl3s.xyz/posts/0022/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0022/</guid>
+      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;rsquo;em out!</description>
+    </item>
+    
     <item>
       <title>Chromarinara</title>
       <link>https://particl3s.xyz/posts/0021/</link>

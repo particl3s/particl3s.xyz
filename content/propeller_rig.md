@@ -17,4 +17,4 @@ Ctrl
 {{< /details >}}
 
 
-[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://postimg.cc/jWDVbvNp)
+[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/ceiling_fan)
