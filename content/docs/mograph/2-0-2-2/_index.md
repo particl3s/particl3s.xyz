@@ -80,6 +80,8 @@
 [![c-waves.gif](https://i.postimg.cc/xj8zWC93/c-waves.gif)](/waves)  
 2022.07.24  
 [![c-wireframe.gif](https://i.postimg.cc/8TF71zQ4/c-wireframe.gif)](/linecolour)  
+2022.07.31  
+[![c-domino.gif](https://i.postimg.cc/05ywTGZt/c-domino.gif)](/domino)  
 {{< /details >}}
 
 

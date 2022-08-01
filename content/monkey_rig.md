@@ -49,11 +49,5 @@ Tux Isolate Rotation
 {{< /tabs >}}
 
 
-{{< details "11 Second Club" closed >}}
-[Animation Mentor](https://www.11secondclub.com/competitions/february22/entry/f3Succ)
-I got last place^^.
-{{< /details >}}
-{{< vimeo 731998540 >}}
-
 
 [![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/monkey_rig)
