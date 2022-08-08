@@ -85,3 +85,7 @@
 {{< /details >}}
 
 
+{{< details "Aug" closed>}}
+2022.08.08  
+[![c-spray-tan.gif](https://i.postimg.cc/2rvWY9mt/c-spray-tan.gif)](/spray_tan)  
+{{< /details >}}

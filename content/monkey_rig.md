@@ -11,38 +11,34 @@ Monkey
 Arm Isolate Rotation
 {{< /tab >}}
 {{< tab "2" >}}
-[![chew.gif](https://i.postimg.cc/fWLwSpHT/chew.gif)](/monkey_rig)  
-Chew
-{{< /tab >}}
-{{< tab "3" >}}
 [![ear.gif](https://i.postimg.cc/CwfxNywR/ear.gif)](/monkey_rig)  
 Ear
 {{< /tab >}}
-{{< tab "4" >}}
+{{< tab "3" >}}
 [![eye.gif](https://i.postimg.cc/Bq9Q7hvM/eye.gif)](/monkey_rig)  
 Eye
 {{< /tab >}}
-{{< tab "5" >}}
+{{< tab "4" >}}
 [![ik-fk.gif](https://i.postimg.cc/mRbhG6yn/ik-fk.gif)](/monkey_rig)  
 Ik-Fk
 {{< /tab >}}
-{{< tab "6" >}}
+{{< tab "5" >}}
 [![leg-isolate-rotation.gif](https://i.postimg.cc/6tPQn6xs/leg-isolate-rotation.gif)](/monkey_rig)  
 Leg Isolate Rotation
 {{< /tab >}}
-{{< tab "7" >}}
+{{< tab "6" >}}
 [![mouth.gif](https://i.postimg.cc/3YNRk46C/mouth.gif)](/monkey_rig)  
 Mouth
 {{< /tab >}}
-{{< tab "8" >}}
+{{< tab "7" >}}
 [![tie-ctrl.gif](https://i.postimg.cc/WNSN3TwH/tie-ctrl.gif)](/monkey_rig)  
 Tie
 {{< /tab >}}
-{{< tab "9" >}}
+{{< tab "8" >}}
 [![tie-isolate-rotation.gif](https://i.postimg.cc/fwcWGxtZ/tie-isolate-rotation.gif)](/monkey_rig)  
 Tie Isolate Rotation
 {{< /tab >}}
-{{< tab "10" >}}
+{{< tab "9" >}}
 [![tux-isolate-rotation.gif](https://i.postimg.cc/GLb3dHGD/tux-isolate-rotation.gif)](/monkey_rig)  
 Tux Isolate Rotation
 {{< /tab >}}
