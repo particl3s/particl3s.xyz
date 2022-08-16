@@ -37,7 +37,7 @@ bookToc: false
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
 {{< /tab >}}
 {{< tab "Robot" >}}
-[![purple-banner-01.png](https://i.postimg.cc/Df3XxpTc/purple-banner-01.png)](/purple_rig/)
+[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
 {{< /tab >}}
 {{< tab "Amphibian" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)

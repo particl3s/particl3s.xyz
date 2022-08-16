@@ -1,6 +1,6 @@
 Purple Bot
 
-[![purple-banner-01.png](https://i.postimg.cc/Df3XxpTc/purple-banner-01.png)](/docs/rigs/)
+[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/docs/rigs/)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Manual" >}}
