@@ -90,4 +90,7 @@
 [![c-spray-tan.gif](https://i.postimg.cc/2rvWY9mt/c-spray-tan.gif)](/spray_tan)  
 2022.08.14  
 [![c-abstract.gif](https://i.postimg.cc/5xx6bHrD/c-abstract.gif)](/abstract)  
+2022.08.22  
+[![c-beginner-fields2.gif](https://i.postimg.cc/WjBWLG44/c-beginner-fields2.gif)](/beginner_fields)  
+
 {{< /details >}}
