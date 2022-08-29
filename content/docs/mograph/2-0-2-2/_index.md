@@ -92,5 +92,7 @@
 [![c-abstract.gif](https://i.postimg.cc/5xx6bHrD/c-abstract.gif)](/abstract)  
 2022.08.22  
 [![c-beginner-fields2.gif](https://i.postimg.cc/WjBWLG44/c-beginner-fields2.gif)](/beginner_fields)  
+2022.08.28  
+[![c-noise-flow.gif](https://i.postimg.cc/3rx2mmP5/c-noise-flow.gif)](/noise_flow)  
 
 {{< /details >}}

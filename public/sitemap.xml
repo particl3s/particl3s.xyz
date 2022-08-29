@@ -14,16 +14,22 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/posts/0023/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0024/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0023/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>https://particl3s.xyz/posts/0022/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0021/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
@@ -318,6 +321,8 @@
     <loc>https://particl3s.xyz/mushroom/</loc>
   </url><url>
     <loc>https://particl3s.xyz/music_test/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/noise_flow/</loc>
   </url><url>
     <loc>https://particl3s.xyz/openvdb_fire/</loc>
   </url><url>
