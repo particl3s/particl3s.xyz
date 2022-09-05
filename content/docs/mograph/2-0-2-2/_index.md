@@ -94,5 +94,9 @@
 [![c-beginner-fields2.gif](https://i.postimg.cc/WjBWLG44/c-beginner-fields2.gif)](/beginner_fields)  
 2022.08.28  
 [![c-noise-flow.gif](https://i.postimg.cc/3rx2mmP5/c-noise-flow.gif)](/noise_flow)  
+{{< /details >}}
 
+{{< details "Sep" closed>}}
+2022.09.05  
+[![c-grass.gif](https://i.postimg.cc/HHvNSjKY/c-grass.gif)](/grass_abr)  
 {{< /details >}}
