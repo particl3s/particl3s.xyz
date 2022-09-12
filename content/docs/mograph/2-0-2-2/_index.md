@@ -99,4 +99,6 @@
 {{< details "Sep" closed>}}
 2022.09.05  
 [![c-grass.gif](https://i.postimg.cc/HHvNSjKY/c-grass.gif)](/grass_abr)  
+2022.09.12  
+[![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](/floating_leaf)  
 {{< /details >}}
