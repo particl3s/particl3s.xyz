@@ -17,18 +17,21 @@
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/posts/0025/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0026/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0025/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0024/</loc>
@@ -314,6 +317,8 @@
   </url><url>
     <loc>https://particl3s.xyz/midi/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/mimic/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/mocap/</loc>
   </url><url>
     <loc>https://particl3s.xyz/mograph/</loc>
@@ -332,6 +337,10 @@
     <loc>https://particl3s.xyz/music_test/</loc>
   </url><url>
     <loc>https://particl3s.xyz/noise_flow/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/openrct2_00/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/openttd_00/</loc>
   </url><url>
     <loc>https://particl3s.xyz/openvdb_fire/</loc>
   </url><url>

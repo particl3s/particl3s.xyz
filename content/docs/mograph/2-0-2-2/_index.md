@@ -101,4 +101,6 @@
 [![c-grass.gif](https://i.postimg.cc/HHvNSjKY/c-grass.gif)](/grass_abr)  
 2022.09.12  
 [![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](/floating_leaf)  
+2022.09.18  
+[![c-mimic.gif](https://i.postimg.cc/VwTv1kff/c-mimic.gif)](/mimic)  
 {{< /details >}}
