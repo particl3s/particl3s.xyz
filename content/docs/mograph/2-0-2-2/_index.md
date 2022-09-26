@@ -103,4 +103,6 @@
 [![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](/floating_leaf)  
 2022.09.18  
 [![c-mimic.gif](https://i.postimg.cc/VwTv1kff/c-mimic.gif)](/mimic)  
+2022.09.25  
+[![c-wind-leaf.gif](https://i.postimg.cc/mLGqX3N6/c-wind-leaf.gif)](/wind_leaf)  
 {{< /details >}}

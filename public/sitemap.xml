@@ -16,19 +16,28 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/posts/0027/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/tech/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://particl3s.xyz/posts/0026/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0025/</loc>
@@ -38,9 +47,6 @@
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0023/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/rigging/</loc>
@@ -53,9 +59,6 @@
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0020/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/tech/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0019/</loc>
@@ -442,6 +445,8 @@
     <loc>https://particl3s.xyz/wavy_band/</loc>
   </url><url>
     <loc>https://particl3s.xyz/wavy_curves/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/wind_leaf/</loc>
   </url><url>
     <loc>https://particl3s.xyz/winged_female/</loc>
   </url><url>
