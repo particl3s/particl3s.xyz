@@ -104,5 +104,10 @@
 2022.09.18  
 [![c-mimic.gif](https://i.postimg.cc/VwTv1kff/c-mimic.gif)](/mimic)  
 2022.09.25  
-[![c-wind-leaf.gif](https://i.postimg.cc/mLGqX3N6/c-wind-leaf.gif)](/wind_leaf)  
+[![c-wind-leaf.gif](https://i.postimg.cc/mLGqX3N6/c-wind-leaf.gif)](/wind_leaf)
+{{< /details >}}
+
+{{< details "Oct" closed>}}
+2022.10.04  
+[![c-wired.gif](https://i.postimg.cc/kJkKszM8/c-wired.gif)](/wired)  
 {{< /details >}}
