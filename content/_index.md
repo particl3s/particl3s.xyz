@@ -15,7 +15,7 @@ Blender
 Art
 
 <--->
-[![witch-logo.png](https://i.postimg.cc/BJ0vjvj2/witch-logo.png)](witch)
+[![witch-logo.png](https://i.postimg.cc/BJ0vjvj2/witch-logo.png)](sorceress)
 
 <--->
 
