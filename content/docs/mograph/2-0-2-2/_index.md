@@ -110,4 +110,6 @@
 {{< details "Oct" closed>}}
 2022.10.04  
 [![c-wired.gif](https://i.postimg.cc/kJkKszM8/c-wired.gif)](/wired)  
+2022.10.11  
+[![c-sticky-notes.gif](https://i.postimg.cc/HpkPzQJH/c-sticky-notes.gif)](/sticky_notes)  
 {{< /details >}}
