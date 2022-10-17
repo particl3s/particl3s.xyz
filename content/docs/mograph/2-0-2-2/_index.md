@@ -112,4 +112,6 @@
 [![c-wired.gif](https://i.postimg.cc/kJkKszM8/c-wired.gif)](/wired)  
 2022.10.11  
 [![c-sticky-notes.gif](https://i.postimg.cc/HpkPzQJH/c-sticky-notes.gif)](/sticky_notes)  
+2022.10.17  
+[![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](/rice/)  
 {{< /details >}}
