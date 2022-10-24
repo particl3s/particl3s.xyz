@@ -114,4 +114,6 @@
 [![c-sticky-notes.gif](https://i.postimg.cc/HpkPzQJH/c-sticky-notes.gif)](/sticky_notes)  
 2022.10.17  
 [![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](/rice/)  
+2022.10.23  
+[![c-water-splash3.gif](https://i.postimg.cc/HHtpD5wq/c-water-splash3.gif)](/water_splash/)  
 {{< /details >}}

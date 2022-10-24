@@ -17,7 +17,7 @@ Art
 
 <--->
 
-[![wing_logo.png](https://i.postimg.cc/7xsrLTJR/wing_logo.png)](winged_female)
+[![2021-11-29-sophia-thumbnail-02.png](https://i.postimg.cc/TdJ81z6H/2021-11-29-sophia-thumbnail-02.png)](sophia)
 <--->
 
 
@@ -25,11 +25,13 @@ Art
 
 <--->
 
-[![logo-2021-11-15-mushroom.png](https://i.postimg.cc/BSJyH9ZG/logo-2021-11-15-mushroom.png)](mushroom)
 {{< /columns >}}
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Robot" >}}
+[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
+{{< /tab >}}
 {{< tab "Claw" >}}
 [![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
 {{< /tab >}}
@@ -41,9 +43,6 @@ Rigs
 {{< /tab >}}
 {{< tab "Umbrella" >}}
 [![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
-{{< /tab >}}
-{{< tab "Orange" >}}
-[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
 {{< /tab >}}
 {{< tab "Aquatic" >}}
 [![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
@@ -64,31 +63,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](rice)
+[![c-water-splash3.gif](https://i.postimg.cc/HHtpD5wq/c-water-splash3.gif)](water_splash)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-sticky-notes.gif](https://i.postimg.cc/HpkPzQJH/c-sticky-notes.gif)](sticky_notes)
+[![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](rice)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-wired.gif](https://i.postimg.cc/kJkKszM8/c-wired.gif)](wired)
+[![c-sticky-notes.gif](https://i.postimg.cc/HpkPzQJH/c-sticky-notes.gif)](sticky_notes)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-wind-leaf.gif](https://i.postimg.cc/mLGqX3N6/c-wind-leaf.gif)](wind_leaf)
+[![c-wired.gif](https://i.postimg.cc/kJkKszM8/c-wired.gif)](wired)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-mimic.gif](https://i.postimg.cc/VwTv1kff/c-mimic.gif)](mimic)
+[![c-wind-leaf.gif](https://i.postimg.cc/mLGqX3N6/c-wind-leaf.gif)](wind_leaf)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](floating_leaf)
+[![c-mimic.gif](https://i.postimg.cc/VwTv1kff/c-mimic.gif)](mimic)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-grass.gif](https://i.postimg.cc/HHvNSjKY/c-grass.gif)](grass_abr)
+[![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](floating_leaf)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-noise-flow.gif](https://i.postimg.cc/3rx2mmP5/c-noise-flow.gif)](noise_flow)
+[![c-grass.gif](https://i.postimg.cc/HHvNSjKY/c-grass.gif)](grass_abr)
 {{< /tab >}}
 {{< tab "9" >}}
-![c-beginner-fields2.gif](https://i.postimg.cc/WjBWLG44/c-beginner-fields2.gif)
+[![c-noise-flow.gif](https://i.postimg.cc/3rx2mmP5/c-noise-flow.gif)](noise_flow)
 {{< /tab >}}
 {{< /tabs >}}
 
