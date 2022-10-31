@@ -116,4 +116,6 @@
 [![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](/rice/)  
 2022.10.23  
 [![c-water-splash3.gif](https://i.postimg.cc/HHtpD5wq/c-water-splash3.gif)](/water_splash/)  
+2022.10.31  
+[![c-fracture-mobius.gif](https://i.postimg.cc/PXwc7c4G/c-fracture-mobius.gif)](/fracture_stone/)  
 {{< /details >}}
