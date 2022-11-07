@@ -119,3 +119,9 @@
 2022.10.31  
 [![c-fracture-mobius.gif](https://i.postimg.cc/PXwc7c4G/c-fracture-mobius.gif)](/fracture_stone/)  
 {{< /details >}}
+
+{{< details "Nov" closed>}}
+2022.11.06  
+[![c-flower.gif](https://i.postimg.cc/Z4WP3sSp/c-flower.gif)](texture_fx)  
+{{< /details >}}
+
