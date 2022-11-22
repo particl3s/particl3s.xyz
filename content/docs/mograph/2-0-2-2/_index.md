@@ -122,8 +122,10 @@
 
 {{< details "Nov" closed>}}
 2022.11.06  
-[![c-flower.gif](https://i.postimg.cc/Z4WP3sSp/c-flower.gif)](texture_fx)  
-2022.11.14  
-[![c-noisy-curves.gif](https://i.postimg.cc/KGjHkYK7/c-noisy-curves.gif)](noisy_curve)  
+[![c-flower.gif](https://i.postimg.cc/Z4WP3sSp/c-flower.gif)](/texture_fx/)  
+2022.11.14    
+[![c-noisy-curves.gif](https://i.postimg.cc/KGjHkYK7/c-noisy-curves.gif)](/noisy_curve/)  
+ 2022.11.20  
+[![2022-11-20-c-lasers.gif](https://i.postimg.cc/B4h1MYyZ/2022-11-20-c-lasers.gif)](/acurate_laser/)  
 {{< /details >}}
 
