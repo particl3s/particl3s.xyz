@@ -127,5 +127,7 @@
 [![c-noisy-curves.gif](https://i.postimg.cc/KGjHkYK7/c-noisy-curves.gif)](/noisy_curve/)  
  2022.11.20  
 [![2022-11-20-c-lasers.gif](https://i.postimg.cc/B4h1MYyZ/2022-11-20-c-lasers.gif)](/acurate_laser/)  
+2022.11.27  
+[![c-txt-fx2.gif](https://i.postimg.cc/HYyfkXTM/c-txt-fx2.gif)](/txt_fx/)  
 {{< /details >}}
 

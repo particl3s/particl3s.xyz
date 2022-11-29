@@ -10,8 +10,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![dp-2.gif](https://i.postimg.cc/8DQW9Kxw/dp-2.gif)](/docs/open-source/)  
-Lots of gr8 memories with Drawpile.
+[![c-universal-joint.gif](https://i.postimg.cc/hSwknpRg/c-universal-joint.gif)](/docs/open-source/)
 <--->
 
 {{< /columns >}}
