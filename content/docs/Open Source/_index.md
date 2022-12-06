@@ -10,7 +10,8 @@ bookToc: false
 
 
 {{< columns >}}
-[![c-universal-joint.gif](https://i.postimg.cc/hSwknpRg/c-universal-joint.gif)](/docs/open-source/)
+[![2015-11-25-rup.gif](https://i.postimg.cc/KFyQfJY3/2015-11-25-rup.gif)](/docs/open-source/)
+
 <--->
 
 {{< /columns >}}
