@@ -136,4 +136,6 @@
 [![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)](/simulation_string/)  
 2022.12.12  
 [![c-triangle-fan-2.gif](https://i.postimg.cc/jsHxXpP1/c-triangle-fan-2.gif)](/triangle_fan/)  
-{{< /details >}}
+2022.12.19  
+[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](/sim_fluid/)  
+{{< /details >}}Art

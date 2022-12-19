@@ -10,7 +10,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![2015-11-25-rup.gif](https://i.postimg.cc/KFyQfJY3/2015-11-25-rup.gif)](/docs/open-source/)
+[![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](/rice/)
 
 <--->
 
