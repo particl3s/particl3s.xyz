@@ -10,7 +10,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![c-linux-rice.gif](https://i.postimg.cc/dvwv5ct9/c-linux-rice.gif)](/rice/)
+[![openttd-001.gif](https://i.postimg.cc/NY8Y91J2/openttd-001.gif)](/)
 
 <--->
 
