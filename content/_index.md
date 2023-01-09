@@ -14,47 +14,43 @@ Blender
 {{< /columns >}}
 Art
 {{< columns >}}
-[![thumb-coast.png](https://i.postimg.cc/WjXxp7sp/thumb-coast.png)](coast)
+
+
+<--->
+
 
 <--->
 
 
 <--->
 
-
-
-<--->
-
+[![wizard.png](https://i.postimg.cc/TxkhWbd0/wizard.png)](wizard)
 {{< /columns >}}
 
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Orange" >}}
+[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
+{{< /tab >}}
+{{< tab "Boomerang" >}}
+[![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)
+{{< /tab >}}
+{{< tab "Aquatic" >}}
+[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
+{{< /tab >}}
+{{< tab "Umbrella" >}}
+[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< /tab >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
 {{< tab "Claw" >}}
 [![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
 {{< /tab >}}
 {{< tab "Propeller" >}}
 [![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
 {{< /tab >}}
-{{< tab "Boomerang" >}}
-[![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)
-{{< /tab >}}
-{{< tab "Oxfox" >}}
-[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
-{{< /tab >}}
-{{< tab "Pony" >}}
-[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
-{{< /tab >}}
-{{< tab "Orange" >}}
-[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
-{{< /tab >}}
-
-
-
-
-
-
-
 
 
 
@@ -65,16 +61,16 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
+[![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](spring_fling_extreme)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
+[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
+[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
 {{< /tab >}}
 {{< tab "4" >}}
-![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)
+[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
 {{< /tab >}}
 {{< tab "5" >}}
 [![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)](simulation_string)
