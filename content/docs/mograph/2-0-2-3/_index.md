@@ -8,5 +8,7 @@
 [![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](/spring_fling_extreme/)  
 2023.01.15  
 [![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](/caduceus/)  
+2023.01.22  
+[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](/displaced_type/)  
 {{< /details >}}
 
