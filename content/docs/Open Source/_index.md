@@ -15,5 +15,5 @@ bookToc: false
 <--->
 
 {{< /columns >}}
+[![loop.gif](https://i.postimg.cc/zDN9Q40z/loop.gif)](/)
 
-[![whoaaa.png](https://i.postimg.cc/NBNvrTBq/whoaaa.png)](/)

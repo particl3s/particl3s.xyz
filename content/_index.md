@@ -19,7 +19,7 @@ Art
 <--->
 
 <--->
-[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](shredder)
+[![logo_mechanical_arm(01).png](https://i.postimg.cc/dJh5GVLR/logo_mechanical_arm(01).png)](mechanical_arm)
 
 <--->
 
@@ -29,6 +29,13 @@ Art
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Umbrella" >}}
+[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< /tab >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
+
 {{< tab "Pony" >}}
 [![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
@@ -37,12 +44,6 @@ Rigs
 {{< /tab >}}
 {{< tab "Orange" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
-{{< /tab >}}
-{{< tab "Umbrella" >}}
-[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
-{{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
 {{< tab "Claw" >}}
 [![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
@@ -58,31 +59,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](displaced_type)
+[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](type_formation)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](caduceus)
+[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](displaced_type)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](spring_fling_extreme)
+[![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](caduceus)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
+[![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](spring_fling_extreme)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
+[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
+[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)](simulation_string)
+[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-txt-fx2.gif](https://i.postimg.cc/HYyfkXTM/c-txt-fx2.gif)](txt_fx)
+[![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)](simulation_string)
 {{< /tab >}}
 {{< tab "9" >}}
-[![2022-11-20-c-lasers.gif](https://i.postimg.cc/B4h1MYyZ/2022-11-20-c-lasers.gif)](acurate_laser)
+[![c-txt-fx2.gif](https://i.postimg.cc/HYyfkXTM/c-txt-fx2.gif)](txt_fx)
 {{< /tab >}}
 {{< /tabs >}}
 

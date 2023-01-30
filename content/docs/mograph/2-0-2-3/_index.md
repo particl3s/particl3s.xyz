@@ -10,5 +10,7 @@
 [![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](/caduceus/)  
 2023.01.22  
 [![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](/displaced_type/)  
+2023.01.29  
+[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](/type_formation/)  
 {{< /details >}}
 
