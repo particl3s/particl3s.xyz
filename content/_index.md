@@ -19,7 +19,7 @@ Art
 <--->
 
 <--->
-[![witch_logo_dark.png](https://i.postimg.cc/33FxmHGV/witch_logo_dark.png)](sorceress)
+[![seti-logo-1.png](https://i.postimg.cc/mRRsn9Zb/seti-logo-1.png)](seti)
 
 <--->
 
@@ -29,24 +29,25 @@ Art
 Rigs
 
 {{< tabs "uniqueid2" >}}
-{{< tab "Claw" >}}
-[![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
+{{< tab "Monkey" >}}
+[![screenshot-2022-07-22.png](https://i.postimg.cc/GdrNFZJK/screenshot-2022-07-22.png)](/monkey_rig/)
 {{< /tab >}}
 {{< tab "Umbrella" >}}
 [![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
 {{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< tab "Robot" >}}
+[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
 {{< /tab >}}
-{{< tab "Pony" >}}
-[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
+{{< tab "Gecko" >}}
+[![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)
+{{< /tab >}}
+{{< tab "Fan" >}}
+[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
 {{< /tab >}}
 {{< tab "Aquatic" >}}
 [![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
 {{< /tab >}}
-{{< tab "Orange" >}}
-[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
-{{< /tab >}}
+
 
 
 
@@ -59,31 +60,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-procedural-snow.gif](https://i.postimg.cc/ChcFyXrF/c-procedural-snow.gif)](procedural_snow)
+[![2023-02-12-handwriting-3.gif](https://i.postimg.cc/WN0sk62y/2023-02-12-handwriting-3.gif)](handwriting)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](type_formation)
+[![c-procedural-snow.gif](https://i.postimg.cc/ChcFyXrF/c-procedural-snow.gif)](procedural_snow)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](displaced_type)
+[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](type_formation)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](caduceus)
+[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](displaced_type)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](spring_fling_extreme)
+[![c-caduceus-2.gif](https://i.postimg.cc/SSwHss4K/c-caduceus-2.gif)](caduceus)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
+[![c-spring-fling.gif](https://i.postimg.cc/YMmLT11T/c-spring-fling.gif)](spring_fling_extreme)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
+[![c-fireworks-2.gif](https://i.postimg.cc/jxkTRR38/c-fireworks-2.gif)](fireworks_2023)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
+[![c-plexus-2.gif](https://i.postimg.cc/VYQ9sqP0/c-plexus-2.gif)](plexus_n)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-simulation-string-1.gif](https://i.postimg.cc/FrkLkkX4/c-simulation-string-1.gif)](simulation_string)
+[![c-simulation-fluid.gif](https://i.postimg.cc/fZq9sSX7/c-simulation-fluid.gif)](sim_fluid)
 {{< /tab >}}
 {{< /tabs >}}
 

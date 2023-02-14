@@ -14,3 +14,9 @@
 [![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](/type_formation/)  
 {{< /details >}}
 
+{{< details "Feb" closed>}}
+2023.02.06  
+[![c-procedural-snow.gif](https://i.postimg.cc/ChcFyXrF/c-procedural-snow.gif)](/procedural_snow/)  
+2023.02.12  
+[![2023-02-12-handwriting-3.gif](https://i.postimg.cc/WN0sk62y/2023-02-12-handwriting-3.gif)](/handwriting/)  
+{{< /details >}}
