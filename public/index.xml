@@ -6,13 +6,22 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Frostbite</title>
+      <title>Normie Tier</title>
       <link>https://particl3s.xyz/posts/0035/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/posts/0035/</guid>
+      <description>Back to reality.</description>
+    </item>
+    
+    <item>
+      <title>Frostbite</title>
+      <link>https://particl3s.xyz/posts/0036/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0036/</guid>
       <description>Locked myself in for the past month for new years, it was great. Just an all around healing and sleeping and eating awesome time as temperatures dropped 20 below 0 celsius.</description>
     </item>
     
@@ -1449,6 +1458,15 @@ Return </description>
       
       <guid>https://particl3s.xyz/procedural_fire/</guid>
       <description> ♫ K. Sparks - Drift Return </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/procedural_icicle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/procedural_icicle/</guid>
+      <description> Tutorial Return </description>
     </item>
     
     <item>

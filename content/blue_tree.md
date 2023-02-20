@@ -1,4 +1,4 @@
 ---
 bookHidden: true
 ---
-[![blue-tree.png](https://i.postimg.cc/MWFtdLhY/blue-tree.png)](/docs/art/gallery/2)
+[![blue-tree-cutout.png](https://i.postimg.cc/Bq6M53w6/blue-tree-cutout.png)](/docs/art/gallery/2)
