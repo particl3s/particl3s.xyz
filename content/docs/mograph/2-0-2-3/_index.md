@@ -21,4 +21,6 @@
 [![2023-02-12-handwriting-3.gif](https://i.postimg.cc/WN0sk62y/2023-02-12-handwriting-3.gif)](/handwriting/)  
 2023.02.19  
 [![c-icicle-3.gif](https://i.postimg.cc/4JcXrDmq/c-icicle-3.gif)](/procedural_icicle/)  
+2023.02.26  
+[![c-bastion.gif](https://i.postimg.cc/cscBM1Nc/c-bastion.gif)](/bastion/)  
 {{< /details >}}
