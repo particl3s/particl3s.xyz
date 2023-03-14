@@ -27,5 +27,7 @@
 
 {{< details "Mar" closed>}}
 2023.03.05  
-[![c-disintegration.gif](https://i.postimg.cc/HdN0NqfQ/c-disintegration.gif)](/sim_disintegration/)
+[![c-disintegration.gif](https://i.postimg.cc/HdN0NqfQ/c-disintegration.gif)](/sim_disintegration/)  
+2023.03.12  
+[![c-soft-body-1.gif](https://i.postimg.cc/gmQd5V8B/c-soft-body-1.gif)](/soft_body/)
 {{< /details >}}
