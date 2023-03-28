@@ -32,4 +32,6 @@
 [![c-soft-body-1.gif](https://i.postimg.cc/gmQd5V8B/c-soft-body-1.gif)](/soft_body/)  
 2023.03.18  
 [![c-collision.gif](https://i.postimg.cc/JRn6KLDN/c-collision.gif)](/particle_collision/)  
+2023.03.26  
+[![c-inflated-objects.gif](https://i.postimg.cc/s3R7sC97/c-inflated-objects.gif)](/inflated_objects/)
 {{< /details >}}

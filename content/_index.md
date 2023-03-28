@@ -18,9 +18,9 @@ Art
 
 <--->
 
-[![logo_keytree.png](https://i.postimg.cc/z5w5n5ff/logo_keytree.png)](keytree)
+[![thumb-coast.png](https://i.postimg.cc/WjXxp7sp/thumb-coast.png)](coast)
 <--->
-[![logo-2021-11-15-mushroom.png](https://i.postimg.cc/BSJyH9ZG/logo-2021-11-15-mushroom.png)](mushroom)
+
 <--->
 
 
@@ -28,22 +28,24 @@ Art
 
 Rigs
 
-{{< tabs "uniqueid2" >}}{{< tab "Aquatic" >}}
-[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
-{{< /tab >}}{{< tab "Gecko" >}}
+{{< tabs "uniqueid2" >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
+{{< tab "Orange" >}}
+[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
+{{< /tab >}}
+{{< tab "Gecko" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)
 {{< /tab >}}
-{{< tab "Robot" >}}
-[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
+{{< tab "Boom" >}}
+[![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)
 {{< /tab >}}
-{{< tab "Umbrella" >}}
-[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< tab "Claw" >}}
+[![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
 {{< /tab >}}
-{{< tab "Fan" >}}
-[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
-{{< /tab >}}
-{{< tab "Monkey" >}}
-[![screenshot-2022-07-22.png](https://i.postimg.cc/GdrNFZJK/screenshot-2022-07-22.png)](/monkey_rig/)
+{{< tab "Pony" >}}
+[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
 
 
@@ -59,31 +61,31 @@ Rigs
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-collision.gif](https://i.postimg.cc/JRn6KLDN/c-collision.gif)](particle_collision)
+[![c-inflated-objects.gif](https://i.postimg.cc/s3R7sC97/c-inflated-objects.gif)](inflated_objects)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-soft-body-1.gif](https://i.postimg.cc/gmQd5V8B/c-soft-body-1.gif)](soft_body)
+[![c-collision.gif](https://i.postimg.cc/JRn6KLDN/c-collision.gif)](particle_collision)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-disintegration.gif](https://i.postimg.cc/HdN0NqfQ/c-disintegration.gif)](sim_disintegration)
+[![c-soft-body-1.gif](https://i.postimg.cc/gmQd5V8B/c-soft-body-1.gif)](soft_body)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-bastion.gif](https://i.postimg.cc/cscBM1Nc/c-bastion.gif)](bastion)
+[![c-disintegration.gif](https://i.postimg.cc/HdN0NqfQ/c-disintegration.gif)](sim_disintegration)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-icicle-3.gif](https://i.postimg.cc/4JcXrDmq/c-icicle-3.gif)](procedural_icicle)
+[![c-bastion.gif](https://i.postimg.cc/cscBM1Nc/c-bastion.gif)](bastion)
 {{< /tab >}}
 {{< tab "6" >}}
-[![2023-02-12-handwriting-3.gif](https://i.postimg.cc/WN0sk62y/2023-02-12-handwriting-3.gif)](handwriting)
+[![c-icicle-3.gif](https://i.postimg.cc/4JcXrDmq/c-icicle-3.gif)](procedural_icicle)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-procedural-snow.gif](https://i.postimg.cc/ChcFyXrF/c-procedural-snow.gif)](procedural_snow)
+[![2023-02-12-handwriting-3.gif](https://i.postimg.cc/WN0sk62y/2023-02-12-handwriting-3.gif)](handwriting)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](type_formation)
+[![c-procedural-snow.gif](https://i.postimg.cc/ChcFyXrF/c-procedural-snow.gif)](procedural_snow)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-displaced-type-3.gif](https://i.postimg.cc/NsPcjZqb/c-displaced-type-3.gif)](displaced_type)
+[![c-type-formation2.gif](https://i.postimg.cc/qkxRQ3jP/c-type-formation2.gif)](type_formation)
 {{< /tab >}}
 {{< /tabs >}}
 
