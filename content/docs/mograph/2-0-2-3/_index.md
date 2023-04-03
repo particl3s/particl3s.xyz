@@ -35,3 +35,8 @@
 2023.03.26  
 [![c-inflated-objects.gif](https://i.postimg.cc/s3R7sC97/c-inflated-objects.gif)](/inflated_objects/)
 {{< /details >}}
+
+{{< details "Apr" closed>}}
+2023.04.03  
+[![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](fractal_growth)
+{{< /details >}}
