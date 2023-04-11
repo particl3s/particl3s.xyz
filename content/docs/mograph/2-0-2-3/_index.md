@@ -38,5 +38,7 @@
 
 {{< details "Apr" closed>}}
 2023.04.03  
-[![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](fractal_growth)
+[![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](/fractal_growth/)  
+2023.04.09  
+[![c-destroy.gif](https://i.postimg.cc/szbwjfR6/c-destroy.gif)](/destroy/)
 {{< /details >}}
