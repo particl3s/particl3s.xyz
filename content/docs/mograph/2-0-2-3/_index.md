@@ -40,5 +40,9 @@
 2023.04.03  
 [![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](/fractal_growth/)  
 2023.04.09  
-[![c-destroy.gif](https://i.postimg.cc/szbwjfR6/c-destroy.gif)](/destroy/)
+[![c-destroy.gif](https://i.postimg.cc/szbwjfR6/c-destroy.gif)](/destroy/)  
+2023.04.17  
+[![c-zipper.gif](https://i.postimg.cc/q4mnp184/c-zipper.gif)](/)  
+2023.04.24  
+[![2023-04-24-logo.gif](https://i.postimg.cc/DvVMSFbT/2023-04-24-logo.gif)](/logo_reveal/)  
 {{< /details >}}

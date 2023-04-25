@@ -15,4 +15,4 @@ bookToc: false
 <--->
 
 {{< /columns >}}
-[![screenshot-2022-09-26.png](https://i.postimg.cc/rcHmYp7J/screenshot-2022-09-26.png)](/)
+[![2022-09-18-go-karts.png](https://i.postimg.cc/PtBCtF2S/2022-09-18-go-karts.png)](/)
