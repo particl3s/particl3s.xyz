@@ -15,4 +15,25 @@ bookToc: false
 <--->
 
 {{< /columns >}}
-[![2023-02-12-open-source.png](https://i.postimg.cc/gmQtC9yv/2023-02-12-open-source.png)](/)
+
+
+
+{{< columns >}}
+[![blenderlogosocket.png](https://i.postimg.cc/SmTfDxb2/blenderlogosocket.png)](https://www.blender.org/)
+<--->
+
+<--->
+
+<--->
+
+<--->
+<--->
+<--->
+
+
+<--->
+<--->
+<--->
+<--->
+
+{{< /columns >}}

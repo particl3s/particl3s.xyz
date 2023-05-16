@@ -6,7 +6,16 @@
     <description>Recent content in News on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corrupted Hard Drive</title>
+      <link>https://particl3s.xyz/posts/0041/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0041/</guid>
+      <description>A decade old external hard drive went skynet yesterday and lost hundreds of gigabityes of data. No biggie since backups of backups are commonplace now. Everything is fine and the HD has been formatted to exFat which has no file size limit. Remember to do thorough backups!</description>
+    </item>
+    
     <item>
       <title>Suzume No Tojimari</title>
       <link>https://particl3s.xyz/posts/0040/</link>
