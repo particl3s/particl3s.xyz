@@ -244,6 +244,9 @@
   </url><url>
     <loc>https://particl3s.xyz/cube_explode/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/cup_rig/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://particl3s.xyz/curl_noise/</loc>
   </url><url>
     <loc>https://particl3s.xyz/curve_deformation/</loc>
@@ -563,6 +566,8 @@
     <loc>https://particl3s.xyz/wired/</loc>
   </url><url>
     <loc>https://particl3s.xyz/wireframe/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/wireframe_mesh/</loc>
   </url><url>
     <loc>https://particl3s.xyz/wizard/</loc>
   </url><url>
