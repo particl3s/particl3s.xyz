@@ -24,7 +24,7 @@ Art
 {{< columns >}}
 
 <--->
-[![lgoo10.png](https://i.postimg.cc/GcZLPGMM/lgoo10.png)](blood_moon)
+[![seti_logo_1.png](https://i.postimg.cc/mRRsn9Zb/seti_logo_1.png)](seti)
 <--->
 
 <--->
@@ -35,31 +35,31 @@ Art
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-wireframe-mesh-5.gif](https://i.postimg.cc/JRv3hm0Q/c-wireframe-mesh-5.gif)](wireframe_mesh)
+[![c-rain-4.gif](https://i.postimg.cc/nZ9XmM5j/c-rain-4.gif)](rain)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-tracking-1.gif](https://i.postimg.cc/zzfv92YR/c-tracking-1.gif)](tracking)
+[![c-wireframe-mesh-5.gif](https://i.postimg.cc/JRv3hm0Q/c-wireframe-mesh-5.gif)](wireframe_mesh)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-tornado-2.gif](https://i.postimg.cc/Sq5y3cCt/c-tornado-2.gif)](tornado)
+[![c-tracking-1.gif](https://i.postimg.cc/zzfv92YR/c-tracking-1.gif)](tracking)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-blood-flow.gif](https://i.postimg.cc/D7zLhCnh/c-blood-flow.gif)](blood_flow)
+[![c-tornado-2.gif](https://i.postimg.cc/Sq5y3cCt/c-tornado-2.gif)](tornado)
 {{< /tab >}}
 {{< tab "5" >}}
-[![2023-04-24-logo.gif](https://i.postimg.cc/DvVMSFbT/2023-04-24-logo.gif)](logo_reveal)
+[![c-blood-flow.gif](https://i.postimg.cc/D7zLhCnh/c-blood-flow.gif)](blood_flow)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-zipper.gif](https://i.postimg.cc/q4mnp184/c-zipper.gif)](/)
+[![2023-04-24-logo.gif](https://i.postimg.cc/DvVMSFbT/2023-04-24-logo.gif)](logo_reveal)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-destroy.gif](https://i.postimg.cc/szbwjfR6/c-destroy.gif)](destroy)
+[![c-zipper.gif](https://i.postimg.cc/q4mnp184/c-zipper.gif)](/)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](fractal_growth)
+[![c-destroy.gif](https://i.postimg.cc/szbwjfR6/c-destroy.gif)](destroy)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-inflated-objects.gif](https://i.postimg.cc/s3R7sC97/c-inflated-objects.gif)](inflated_objects)
+[![c-fractal-growth.gif](https://i.postimg.cc/JMPgj5r2/c-fractal-growth.gif)](fractal_growth)
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -67,6 +67,12 @@ Mograph
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Hand" >}}
+[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
+{{< /tab >}}
+{{< tab "Orange" >}}
+[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
+{{< /tab >}}
 {{< tab "Gecko" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)
 {{< /tab >}}
@@ -79,13 +85,6 @@ Rigs
 {{< tab "Oxfox" >}}
 [![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
 {{< /tab >}}
-{{< tab "Hand" >}}
-[![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
-{{< /tab >}}
-{{< tab "Orange" >}}
-[![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
-{{< /tab >}}
-
 {{< /tabs >}}
 
 
