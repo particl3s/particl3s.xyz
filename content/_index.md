@@ -11,31 +11,11 @@ bookToc: true
 
 
 
-{{< columns >}}
-<--->
-
-<--->
-
-<--->
-Blender
-
-{{< /columns >}}
-Art
-{{< columns >}}
-
-<--->
-[![seti_logo_1.png](https://i.postimg.cc/mRRsn9Zb/seti_logo_1.png)](seti)
-<--->
-
-<--->
-
-
-{{< /columns >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-rain-4.gif](https://i.postimg.cc/nZ9XmM5j/c-rain-4.gif)](rain)
+[![c_rain_4.gif](https://i.postimg.cc/nZ9XmM5j/c_rain_4.gif)](rain)
 {{< /tab >}}
 {{< tab "2" >}}
 [![c-wireframe-mesh-5.gif](https://i.postimg.cc/JRv3hm0Q/c-wireframe-mesh-5.gif)](wireframe_mesh)
@@ -64,9 +44,14 @@ Mograph
 {{< /tabs >}}
 
 
+
+
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Pony" >}}
+[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
+{{< /tab >}}
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
@@ -75,9 +60,6 @@ Rigs
 {{< /tab >}}
 {{< tab "Gecko" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)
-{{< /tab >}}
-{{< tab "Pony" >}}
-[![horse-banner-03.png](https://i.postimg.cc/4NGv4W0x/horse-banner-03.png)](/horse_rig/)
 {{< /tab >}}
 {{< tab "Umbrella" >}}
 [![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
@@ -89,6 +71,26 @@ Rigs
 
 
 
+{{< columns >}}
+<--->
+
+<--->
+
+<--->
+Blender
+
+{{< /columns >}}
+Art
+{{< columns >}}
+
+<--->
+
+<--->
+
+<--->
+
+[![logo-2021-11-15-lotus.png](https://i.postimg.cc/vQrk4Hsz/logo-2021-11-15-lotus.png)](lotus)
+{{< /columns >}}
 
 
 
