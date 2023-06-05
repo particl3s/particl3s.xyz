@@ -59,3 +59,8 @@
 2023.05.28  
 [![c-rain-4.gif](https://i.postimg.cc/nZ9XmM5j/c-rain-4.gif)](/rain/)
 {{< /details >}}
+
+{{< details "June" closed>}}
+2023.06.05  
+[![c-wire-3.gif](https://i.postimg.cc/kCyz9LbY/c-wire-3.gif)](/abstract_wire/)
+{{< /details >}}
