@@ -19,8 +19,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![2015-11-15-d1.gif](https://i.postimg.cc/JmVHSzSG/2015-11-15-d1.gif)](/)
-<--->
+[![blenderlogosocket.png](https://i.postimg.cc/SmTfDxb2/blenderlogosocket.png)](https://blender.org)
 
 <--->
 
