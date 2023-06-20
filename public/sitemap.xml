@@ -16,16 +16,22 @@
   </url><url>
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
-    <loc>https://particl3s.xyz/posts/0041/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/posts/0042/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/tech/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0041/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
@@ -71,9 +77,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0028/</loc>
-    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/tech/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0027/</loc>
@@ -173,6 +176,8 @@
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/abstract/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/abstract_spline/</loc>
   </url><url>
     <loc>https://particl3s.xyz/abstract_wire/</loc>
   </url><url>

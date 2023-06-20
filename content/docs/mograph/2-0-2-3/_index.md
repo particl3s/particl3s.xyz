@@ -64,5 +64,7 @@
 2023.06.05  
 [![c-wire-3.gif](https://i.postimg.cc/kCyz9LbY/c-wire-3.gif)](/abstract_wire/)  
 2023.06.10  
-[![c-unfold-spline-3.gif](https://i.postimg.cc/7qmJ6XMk/c-unfold-spline-3.gif)](/unwind_spline/)
+[![c-unfold-spline-3.gif](https://i.postimg.cc/7qmJ6XMk/c-unfold-spline-3.gif)](/unwind_spline/)  
+2023.06.16  
+[![c-abstract-spline-1.gif](https://i.postimg.cc/WjVJn7cL/c-abstract-spline-1.gif)](/abstract_spline/)  
 {{< /details >}}

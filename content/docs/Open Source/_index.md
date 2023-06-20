@@ -19,7 +19,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![blenderlogosocket.png](https://i.postimg.cc/SmTfDxb2/blenderlogosocket.png)](https://blender.org)
+[![drawpile.gif](https://i.postimg.cc/jKXZvLCT/drawpile.gif)](https://drawpile.net)
 
 <--->
 
