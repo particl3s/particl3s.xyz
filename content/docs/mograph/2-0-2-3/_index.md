@@ -67,4 +67,6 @@
 [![c-unfold-spline-3.gif](https://i.postimg.cc/7qmJ6XMk/c-unfold-spline-3.gif)](/unwind_spline/)  
 2023.06.16  
 [![c-abstract-spline-1.gif](https://i.postimg.cc/WjVJn7cL/c-abstract-spline-1.gif)](/abstract_spline/)  
+2023.06.23  
+[![c-vid-tex-anim-3.gif](https://i.postimg.cc/MzRWBzjq/c-vid-tex-anim-3.gif)](/video_texture_anim/)
 {{< /details >}}

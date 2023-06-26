@@ -388,6 +388,8 @@
   </url><url>
     <loc>https://particl3s.xyz/lotus/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/mage/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/magic_circle/</loc>
   </url><url>
     <loc>https://particl3s.xyz/marching_squares/</loc>
@@ -475,6 +477,9 @@
   </url><url>
     <loc>https://particl3s.xyz/rig_gp/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/rodent_rig/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://particl3s.xyz/roller_coaster/</loc>
   </url><url>
     <loc>https://particl3s.xyz/rubics_cube/</loc>
@@ -554,6 +559,8 @@
   </url><url>
     <loc>https://particl3s.xyz/vegetable_splash/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/video_texture_anim/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/vine/</loc>
   </url><url>
     <loc>https://particl3s.xyz/voodoo/</loc>
@@ -579,8 +586,6 @@
     <loc>https://particl3s.xyz/wireframe/</loc>
   </url><url>
     <loc>https://particl3s.xyz/wireframe_mesh/</loc>
-  </url><url>
-    <loc>https://particl3s.xyz/wizard/</loc>
   </url><url>
     <loc>https://particl3s.xyz/worm_gear/</loc>
   </url><url>
