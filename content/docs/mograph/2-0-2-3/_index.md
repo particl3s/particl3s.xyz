@@ -70,3 +70,8 @@
 2023.06.23  
 [![c-vid-tex-anim-3.gif](https://i.postimg.cc/MzRWBzjq/c-vid-tex-anim-3.gif)](/video_texture_anim/)
 {{< /details >}}
+
+{{< details "July" closed>}}
+2023.07.04  
+[![c-infinite-rain-2.gif](https://i.postimg.cc/y1mq9v8L/c-infinite-rain-2.gif)](/infinite_rain/)
+{{< /details >}}

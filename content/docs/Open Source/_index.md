@@ -7,7 +7,7 @@ bookToc: false
 ## Open Source
 
 
-[![2023-06-20-openttd-02b.gif](https://i.postimg.cc/R9Krmb9W/2023-06-20-openttd-02b.gif)](https://postimg.cc/Z0QLJrPs)
+[![dp-2.gif](https://i.postimg.cc/8DQW9Kxw/dp-2.gif)](https://drawpile.net)
 
 {{< columns >}}
 

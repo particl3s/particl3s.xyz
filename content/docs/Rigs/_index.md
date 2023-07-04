@@ -5,6 +5,25 @@ bookToc: false
 ---
 ## Blender Rigs
 
+{{< tabs "uniqueid3" >}}
+{{< tab "Rodent" >}}
+[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
+{{< /tab >}}
+{{< tab "Cup" >}}
+[![screenshot-2023-04-30-8.png](https://i.postimg.cc/4ZHRbjvd/screenshot-2023-04-30-8.png)](/cup_rig/)
+{{< /tab >}}
+{{< tab "Misfit" >}}
+[![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
+{{< /tab >}}
+{{< tab "Quad Mesh" >}}
+[![screenshot-2023-06-30-1.png](https://i.postimg.cc/kC1JqkvM/screenshot-2023-06-30-1.png)](/quad_mesh_rig/)
+{{< /tab >}}
+{{< tab "Jellybean" >}}
+[![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
+{{< /tab >}}
+{{< /tabs >}}
+
+
 {{< tabs "uniqueid2" >}}
 {{< tab "Boomerang" >}}
 [![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)

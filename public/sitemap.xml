@@ -352,6 +352,8 @@
   </url><url>
     <loc>https://particl3s.xyz/infinite_flow/</loc>
   </url><url>
+    <loc>https://particl3s.xyz/infinite_rain/</loc>
+  </url><url>
     <loc>https://particl3s.xyz/inflated_objects/</loc>
   </url><url>
     <loc>https://particl3s.xyz/instance_multiple/</loc>
@@ -359,6 +361,9 @@
     <loc>https://particl3s.xyz/interactive_snow/</loc>
   </url><url>
     <loc>https://particl3s.xyz/iris/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/jellybean_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/kabuki/</loc>
   </url><url>
@@ -401,6 +406,9 @@
     <loc>https://particl3s.xyz/midi/</loc>
   </url><url>
     <loc>https://particl3s.xyz/mimic/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/misfit_rig/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/mocap/</loc>
   </url><url>
@@ -461,6 +469,9 @@
     <loc>https://particl3s.xyz/psy_shield/</loc>
   </url><url>
     <loc>https://particl3s.xyz/purple_rig/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://particl3s.xyz/quad_mesh_rig/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://particl3s.xyz/raccoon/</loc>
@@ -545,6 +556,8 @@
     <loc>https://particl3s.xyz/tutorial_land_tales_1/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tutorial_land_tales_2/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/tv/</loc>
   </url><url>
     <loc>https://particl3s.xyz/txt_fx/</loc>
   </url><url>

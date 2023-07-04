@@ -1,4 +1,4 @@
-Purple Bot
+Rodent 
 
 [![screenshot-2023-04-17-1.png](https://i.postimg.cc/0xwvQyG2/screenshot-2023-04-17-1.png)](/docs/rigs/)
 
@@ -54,4 +54,4 @@ Tail
 
 
 
-[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/hDOtG)
+[![Gumroad-Logo.png](https://i.postimg.cc/FKZh0BKH/Gumroad-Logo.png)](https://particl3s.gumroad.com/l/chunky_cheese)
