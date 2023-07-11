@@ -4,7 +4,7 @@ bookHidden: true
 
 {{< vimeo 842052448 >}}
 {{< hint info >}}
-♫ She Gets All That She Wants by Ignatz [CC-By-NC-ND](/home/rudra/Documents/2022.10.06_olive/195_blender_2023.05.29_abstract/abstract_wire.txt)
+♫ She Gets All That She Wants by Ignatz [CC-By-NC-ND](https://freemusicarchive.org/music/Ignatz/God_Damn_I_Hate_The_Blues_1178/She_Gets_All_That_She_Wants/)
 
 [Source Tutorial] (https://youtu.be/HeTt89EZ_EM)
 {{< /hint >}}
