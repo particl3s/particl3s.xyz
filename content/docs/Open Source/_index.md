@@ -7,7 +7,8 @@ bookToc: false
 ## Open Source
 
 
-[![dp-2.gif](https://i.postimg.cc/8DQW9Kxw/dp-2.gif)](https://drawpile.net)
+
+[![screenshot-2023-06-23-scale.png](https://i.postimg.cc/jRP8DPJd/screenshot-2023-06-23-scale.png)](https://openrct2.org/)
 
 {{< columns >}}
 
