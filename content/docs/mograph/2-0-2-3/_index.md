@@ -75,5 +75,7 @@
 2023.07.04  
 [![c-infinite-rain-2.gif](https://i.postimg.cc/y1mq9v8L/c-infinite-rain-2.gif)](/infinite_rain/)  
 2023.07.09  
-[![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](/dissolve_text/)
+[![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](/dissolve_text/)  
+2023.07.23  
+[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](/procedural_clouds/)
 {{< /details >}}
