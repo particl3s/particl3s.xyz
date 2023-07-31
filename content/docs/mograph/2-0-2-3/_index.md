@@ -77,5 +77,7 @@
 2023.07.09  
 [![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](/dissolve_text/)  
 2023.07.23  
-[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](/procedural_clouds/)
+[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](/procedural_clouds/)  
+2023.07.30  
+[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](/mograph_hdri/)
 {{< /details >}}
