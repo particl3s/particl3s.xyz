@@ -81,3 +81,9 @@
 2023.07.30  
 [![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](/mograph_hdri/)
 {{< /details >}}
+
+
+{{< details "Aug" closed>}}
+2023.08.06  
+[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](/lattice_grid/)
+{{< /details >}}
