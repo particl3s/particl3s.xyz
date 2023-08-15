@@ -6,7 +6,16 @@
     <description>Recent content in News on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distro</title>
+      <link>https://particl3s.xyz/posts/0044/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0044/</guid>
+      <description>My oh my the last month has been busy, a lot less sleep and worthwhile drawing. In the midsts of that ended up having a operating system burn out. Not to worry though, it&amp;rsquo;s been replaced. Now it&amp;rsquo;s on a Debian based system without any integration issue. My first one actually, rather fascinating moving from an Aur base to something else.</description>
+    </item>
+    
     <item>
       <title>Chroma Corps</title>
       <link>https://particl3s.xyz/posts/0043/</link>
@@ -202,7 +211,7 @@
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/posts/0022/</guid>
-      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;rsquo;em out!</description>
+      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;lsquo;em out!</description>
     </item>
     
     <item>
@@ -337,7 +346,7 @@
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/posts/0007/</guid>
-      <description>Happy New Year! </description>
+      <description>Happy New Year!</description>
     </item>
     
     <item>

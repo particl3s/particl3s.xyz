@@ -6,7 +6,16 @@
     <description>Recent content in particles.xyz on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distro</title>
+      <link>https://particl3s.xyz/posts/0044/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0044/</guid>
+      <description>My oh my the last month has been busy, a lot less sleep and worthwhile drawing. In the midsts of that ended up having a operating system burn out. Not to worry though, it&amp;rsquo;s been replaced. Now it&amp;rsquo;s on a Debian based system without any integration issue. My first one actually, rather fascinating moving from an Aur base to something else.</description>
+    </item>
+    
     <item>
       <title>Chroma Corps</title>
       <link>https://particl3s.xyz/posts/0043/</link>
@@ -202,7 +211,7 @@
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/posts/0022/</guid>
-      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;rsquo;em out!</description>
+      <description>There&amp;rsquo;s been some rigs added to the repo, all are compatible with 2.8x and up. Please check &amp;lsquo;em out!</description>
     </item>
     
     <item>
@@ -337,7 +346,7 @@
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/posts/0007/</guid>
-      <description>Happy New Year! </description>
+      <description>Happy New Year!</description>
     </item>
     
     <item>
@@ -409,9 +418,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/abstract/</guid>
-      <description> ♫ Nuclear Waste by Tough Darts! CC-BY-NC-SA
+      <description>   ♫ Nuclear Waste by Tough Darts! CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -420,7 +429,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/abstract_spline/</guid>
-      <description> Source Tutorial Return </description>
+      <description>   Source Tutorial  Return  </description>
     </item>
     
     <item>
@@ -429,7 +438,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/abstract_wire/</guid>
-      <description> Tutorial Return </description>
+      <description>    Tutorial  Return  </description>
     </item>
     
     <item>
@@ -438,9 +447,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/acurate_laser/</guid>
-      <description> {3d Structure ](https://skfb.ly/oyOoC)by gozdemri &amp;ldquo;PUBG | Church&amp;rdquo; (https://skfb.ly/oyOoC) by gozdemrl is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+      <description>   {3d Structure ](https://skfb.ly/oyOoC)by gozdemri &amp;ldquo;PUBG | Church&amp;rdquo; (https://skfb.ly/oyOoC) by gozdemrl is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -450,7 +459,19 @@ Return </description>
       
       <guid>https://particl3s.xyz/amphibian_rig/</guid>
       <description>Toad
-Manual 1 Squishy Head 2 Eye Scale 3 Mouth 4 Fk Foot 5 Stomach 6 Eye Ctrl 7 Fk Ik Switch 8 Ik Ctrl 9 Mouth Direct 9 Root Hip 10 Croak </description>
+
+Manual 1 
+Squishy Head2 
+Eye Scale3 
+Mouth4 
+Fk Foot5 
+Stomach6 
+Eye Ctrl7 
+Fk Ik Switch8 
+Ik Ctrl9 
+Mouth Direct9 
+Root Hip10 
+Croak</description>
     </item>
     
     <item>
@@ -460,7 +481,20 @@ Manual 1 Squishy Head 2 Eye Scale 3 Mouth 4 Fk Foot 5 Stomach 6 Eye Ctrl 7 Fk Ik
       
       <guid>https://particl3s.xyz/aquatic_rig/</guid>
       <description>Fish
-Manual 1 Blink 2 Jaw Stretch 3 Direct Eye Ctrl 4 Indirect Fin Ctrl 5 Direct Mouth Ctrl 6 Fin Waddle 7 Root 8 Teeth 9 Ik Arm 10 Individual Eye Ctrl 11 Mouth 12 Fk Arm Animation Example </description>
+
+Manual 1 
+Blink2 
+Jaw Stretch3 
+Direct Eye Ctrl4 
+Indirect Fin Ctrl5 
+Direct Mouth Ctrl6 
+Fin Waddle7 
+Root8 
+Teeth9 
+Ik Arm10 
+Individual Eye Ctrl11 
+Mouth12 
+Fk Arm Animation Example</description>
     </item>
     
     <item>
@@ -469,9 +503,9 @@ Manual 1 Blink 2 Jaw Stretch 3 Direct Eye Ctrl 4 Indirect Fin Ctrl 5 Direct Mout
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/ascii/</guid>
-      <description> ♫ Spoek Mathambo - Venison Fingers CC-BY-NC-ND
+      <description>   ♫ Spoek Mathambo - Venison Fingers CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -480,9 +514,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/audio_synth/</guid>
-      <description> ♫ Perfect like you by Black Pudding Poetry CC-BY-NC-ND
+      <description>   ♫ Perfect like you by Black Pudding Poetry CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -491,8 +525,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/audio_thing/</guid>
-      <description> ♫ The Kate Sessions - The Kate Sessions - Jan 2017-LIVE CC-BY-NC-ND
-♫ Mors Ontologica - Shoes CC-BY-NC-SA Return </description>
+      <description>   ♫ The Kate Sessions - The Kate Sessions - Jan 2017-LIVE CC-BY-NC-ND
+♫ Mors Ontologica - Shoes CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -501,7 +535,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/audio_vis/</guid>
-      <description> ♫ The Silver Chords - Eyes Of Despair CC-BY-NC-ND Return </description>
+      <description>   ♫ The Silver Chords - Eyes Of Despair CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -510,9 +544,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/ball_circle/</guid>
-      <description> ♫ Small Tall Order - Poison in the Water CC-BY-NC-SA
+      <description>   ♫ Small Tall Order - Poison in the Water CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -521,7 +555,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/balloon/</guid>
-      <description> ♫ Fsforo - Cochabamba Return </description>
+      <description>   ♫ Fsforo - Cochabamba  Return  </description>
     </item>
     
     <item>
@@ -530,8 +564,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/bastion/</guid>
-      <description> Game Ready Samurai Katana by roma1n
-Tutorial Return </description>
+      <description>   Game Ready Samurai Katana by roma1n
+Tutorial  Return  </description>
     </item>
     
     <item>
@@ -540,9 +574,9 @@ Tutorial Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/beginner_fields/</guid>
-      <description> ♫ Essentuki 1917 by Janne Nummela CC-BY-NC-SA
+      <description>   ♫ Essentuki 1917 by Janne Nummela CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -551,7 +585,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/berry/</guid>
-      <description> ♫ Nicky Cook and Chris Andrews - Man in suit CC-BY-SA Return </description>
+      <description>   ♫ Nicky Cook and Chris Andrews - Man in suit CC-BY-SA  Return  </description>
     </item>
     
     <item>
@@ -569,9 +603,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/blood_flow/</guid>
-      <description> ♫ Side A by Filet Mignon CC-BY-SA
+      <description>   ♫ Side A by Filet Mignon CC-BY-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -598,9 +632,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/bolt/</guid>
-      <description> ♫ ИЗ-ПОД ЗЕМЛИ - Тату CC-BY-NC-SA
+      <description>   ♫ ИЗ-ПОД ЗЕМЛИ - Тату CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -609,7 +643,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/bombs_away/</guid>
-      <description> ♫ The Black Atlantic - Fragile Meadow CC-BY-NC-SA Return </description>
+      <description>   ♫ The Black Atlantic - Fragile Meadow CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -619,7 +653,8 @@ Return </description>
       
       <guid>https://particl3s.xyz/boomerang_rig/</guid>
       <description>Boomerang
-Manual spin </description>
+
+Manual spin</description>
     </item>
     
     <item>
@@ -628,7 +663,7 @@ Manual spin </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/bubble/</guid>
-      <description>Has a patch of white at the end, editing tried and tested. ♫ Lex Villena - Origins CC-BY Return </description>
+      <description>Has a patch of white at the end, editing tried and tested.   ♫ Lex Villena - Origins CC-BY  Return  </description>
     </item>
     
     <item>
@@ -637,9 +672,9 @@ Manual spin </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/burning_paper/</guid>
-      <description> ♫ Lord SC - Winter Mute CC-BY-NC-SA
+      <description>   ♫ Lord SC - Winter Mute CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -648,7 +683,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/caduceus/</guid>
-      <description> Tutorial by MaxEdge Return </description>
+      <description>   Tutorial by MaxEdge  Return  </description>
     </item>
     
     <item>
@@ -657,7 +692,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cards/</guid>
-      <description> ♫ Wildlight - Quicksand CC-BY-NC-SA Return </description>
+      <description>   ♫ Wildlight - Quicksand CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -666,7 +701,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cityscape/</guid>
-      <description> ♫ Karina Buhr - Nassiria e Najaf CC-BY Return </description>
+      <description>   ♫ Karina Buhr - Nassiria e Najaf CC-BY  Return  </description>
     </item>
     
     <item>
@@ -676,7 +711,11 @@ Return </description>
       
       <guid>https://particl3s.xyz/claw_rig/</guid>
       <description>Claw
-Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
+
+Manual 1 
+Pincers2 
+Stretch &amp;amp; Auto Grip3 
+Rotation</description>
     </item>
     
     <item>
@@ -685,7 +724,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cloth_flower/</guid>
-      <description> Return </description>
+      <description>    Return  </description>
     </item>
     
     <item>
@@ -703,7 +742,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/colour_change/</guid>
-      <description> ♫ voyageurs - Freak Cave CC-BY-NC Return </description>
+      <description>   ♫ voyageurs - Freak Cave CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -712,7 +751,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/contour/</guid>
-      <description> ♫ Rom-Comm - Why Did I CC-BY-SA Return </description>
+      <description>   ♫ Rom-Comm - Why Did I CC-BY-SA  Return  </description>
     </item>
     
     <item>
@@ -730,7 +769,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cpu/</guid>
-      <description> ♫ Blue Dot Sessions - Ray Gun - Take a Tiny Train CC-BY-NC Return </description>
+      <description>   ♫ Blue Dot Sessions - Ray Gun - Take a Tiny Train CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -739,7 +778,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cube_dynamic/</guid>
-      <description> ♫ BrokeMC - The Discovery CC-BY Return </description>
+      <description>   ♫ BrokeMC - The Discovery CC-BY  Return  </description>
     </item>
     
     <item>
@@ -748,7 +787,7 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/cube_explode/</guid>
-      <description> ♫ Sycamore Drive - Chills CC-BY-NC-SA Return </description>
+      <description>   ♫ Sycamore Drive - Chills CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -758,7 +797,8 @@ Manual 1 Pincers 2 Stretch &amp;amp; Auto Grip 3 Rotation </description>
       
       <guid>https://particl3s.xyz/cup_rig/</guid>
       <description>Glass
-Manual 1 2 3 4 5 </description>
+
+Manual 1 2 3 4 5</description>
     </item>
     
     <item>
@@ -767,9 +807,9 @@ Manual 1 2 3 4 5 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/curl_noise/</guid>
-      <description> ♫ Keep Your Lamp Trimmed And Burning [traditional] by Billy Childish CC-BY-NC-SA
+      <description>   ♫ Keep Your Lamp Trimmed And Burning [traditional] by Billy Childish CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -778,7 +818,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/curve_deformation/</guid>
-      <description> ♫ Mamma Cadela - Bohemia Sem Calcinha CC-BY-NC-ND Return </description>
+      <description>   ♫ Mamma Cadela - Bohemia Sem Calcinha CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -796,7 +836,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/destroy/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -810,11 +850,20 @@ Return </description>
     
     <item>
       <title></title>
+      <link>https://particl3s.xyz/digital_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/digital_break/</guid>
+      <description>   Source Tutorial  Return  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://particl3s.xyz/displaced_type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/displaced_type/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -823,7 +872,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/dissolve_text/</guid>
-      <description> Source Tutorial Return </description>
+      <description>   Source Tutorial  Return  </description>
     </item>
     
     <item>
@@ -832,7 +881,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/docs/art/gallery/1/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description>Art 1  2  3  4  #              
+  </description>
     </item>
     
     <item>
@@ -841,7 +891,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/docs/art/gallery/2/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description>Art 1  2  3  4  #              
+  </description>
     </item>
     
     <item>
@@ -850,7 +901,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/docs/art/gallery/3/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description>Art 1  2  3  4  #              
+  </description>
     </item>
     
     <item>
@@ -859,7 +911,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/domino/</guid>
-      <description> ♫ Sea Oleena - Sister Johnny Ripper Remix CC-BY-NC-SA Return </description>
+      <description>   ♫ Sea Oleena - Sister Johnny Ripper Remix CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -868,7 +920,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/drawpile/</guid>
-      <description> ♫ 505 - Balibulu CC-BY-NC-SA Return </description>
+      <description>   ♫ 505 - Balibulu CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -877,7 +929,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/dynamic_fluid_rig/</guid>
-      <description> Jiggly Bones | Starter File Return </description>
+      <description>   Jiggly Bones | Starter File  Return  </description>
     </item>
     
     <item>
@@ -886,9 +938,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/dynamic_outlines/</guid>
-      <description> ♫ Adaptation (Instrumental) by Anthem of Rain CC-BY
+      <description>   ♫ Adaptation (Instrumental) by Anthem of Rain CC-BY
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -897,7 +949,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/electric_field/</guid>
-      <description> ♫ JFn&amp;rsquo;K - Back and to the Left CC-BY-NC-ND Return </description>
+      <description>   ♫ JFn&amp;rsquo;K - Back and to the Left CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -906,7 +958,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/empty_dust/</guid>
-      <description> ♫ Bud Melvin - Funky Conveyor Belt CC-BY-NC-SA Return </description>
+      <description>   ♫ Bud Melvin - Funky Conveyor Belt CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -915,9 +967,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/energy_fx/</guid>
-      <description> ♫ We Wouldn&amp;rsquo;t Want It Any Other Way (Débruit remix) by Meanest Man Contest CC-BY-NC
+      <description>   ♫ We Wouldn&amp;rsquo;t Want It Any Other Way (Débruit remix) by Meanest Man Contest CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -926,7 +978,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/equaliser_circle/</guid>
-      <description> ♫ Springtide - Paper Lanterns In The Dusk Ayla Nereo - Stars (Accoustic)♫ CC-BY-NC-SA Return </description>
+      <description>   ♫ Springtide - Paper Lanterns In The Dusk Ayla Nereo - Stars (Accoustic)♫ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -935,7 +987,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/expand_helix/</guid>
-      <description> ♫ Keshco - Play For Your People (music hall singalong) CC-BY-SA Return </description>
+      <description>   ♫ Keshco - Play For Your People (music hall singalong) CC-BY-SA  Return  </description>
     </item>
     
     <item>
@@ -944,9 +996,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fake_caustics/</guid>
-      <description> ♫ Start? by Yeah You CC-BY-NC-SA
+      <description>   ♫ Start? by Yeah You CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -955,9 +1007,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fake_fluid/</guid>
-      <description> ♫ Changes by Jim Hall CC-BY
+      <description>   ♫ Changes by Jim Hall CC-BY
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -966,9 +1018,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fireworks/</guid>
-      <description> ♫ Summer Wars (Azureflux Remix) by Rhythmics &amp;amp; Cat Like Thief CC-BY-NC-SA ♫ Awesome by The Soft Pink Truth CC-BY-NC
+      <description>   ♫ Summer Wars (Azureflux Remix) by Rhythmics &amp;amp; Cat Like Thief CC-BY-NC-SA ♫ Awesome by The Soft Pink Truth CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -977,7 +1029,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fireworks_2023/</guid>
-      <description> ♫ Zun Zun Egui - Brown Mao Tutorial by Cartesian Caramel Return </description>
+      <description>   ♫ Zun Zun Egui - Brown Mao Tutorial by Cartesian Caramel  Return  </description>
     </item>
     
     <item>
@@ -986,7 +1038,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/flipping_book_pages/</guid>
-      <description> ♫ Jelsonic - Lost Star CC-BY Return </description>
+      <description>   ♫ Jelsonic - Lost Star CC-BY  Return  </description>
     </item>
     
     <item>
@@ -995,9 +1047,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/floating_leaf/</guid>
-      <description> ♫ New World Order - Vol 2 (vocals: Revolushan) by Corty CC-BY-NC-ND
+      <description>   ♫ New World Order - Vol 2 (vocals: Revolushan) by Corty CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1006,9 +1058,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/flow_map/</guid>
-      <description> ♫ Johnny Ripper - AK CC-NC-SA
+      <description>   ♫ Johnny Ripper - AK CC-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1017,9 +1069,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fluid_text/</guid>
-      <description> ♫ Changes by Jim Hall CC-BY
+      <description>   ♫ Changes by Jim Hall CC-BY
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1028,7 +1080,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/force_field/</guid>
-      <description> ♫ SK - Shayla - Calling for you CC-BY Return </description>
+      <description>   ♫ SK - Shayla - Calling for you CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1037,10 +1089,10 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fractal_growth/</guid>
-      <description> CC-BY-NC-ND
+      <description>   CC-BY-NC-ND
 ♫ Summer Smiles by Henry Homesweet
 Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1049,7 +1101,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fractals/</guid>
-      <description> ♫ Burial at Sea - Barely There CC-BY-NC-ND Return </description>
+      <description>   ♫ Burial at Sea - Barely There CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1058,7 +1110,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fracture_stone/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1067,7 +1119,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/fracture_torus/</guid>
-      <description> ♫ Checkie Brown - Mary Roose CB 36 CC-BY-NC-ND Return </description>
+      <description>   ♫ Checkie Brown - Mary Roose CB 36 CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1076,7 +1128,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/geonode_bounce/</guid>
-      <description> ♫ Hi-Rez - The Remedy (Prod. Joel Johnston) CC-BY Return </description>
+      <description>   ♫ Hi-Rez - The Remedy (Prod. Joel Johnston) CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1085,9 +1137,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/grass_abr/</guid>
-      <description> ♫ Winter Sun by Black Flamingo CC-BY-NC-ND
+      <description>   ♫ Winter Sun by Black Flamingo CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1096,7 +1148,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/grass_gen/</guid>
-      <description> ♫ FRANKIE WAH - I Left My Fate (only guitar) CC-BY-NC-ND Return </description>
+      <description>   ♫ FRANKIE WAH - I Left My Fate (only guitar) CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1105,7 +1157,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/growth/</guid>
-      <description> ♫ Dazie Mae - The Dice Man CC-BY-NC-ND Return </description>
+      <description>   ♫ Dazie Mae - The Dice Man CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1115,7 +1167,13 @@ Return </description>
       
       <guid>https://particl3s.xyz/hand_rig/</guid>
       <description>Hand
-Manual 1 Fingers 2 Fk Switch 3 Isolate Rotation 4 Root &amp;amp; Palm 5 Fingers Direct Deform Animation Example </description>
+
+Manual 1 
+Fingers2 
+Fk Switch3 
+Isolate Rotation4 
+Root &amp;amp; Palm5 
+Fingers Direct Deform Animation Example</description>
     </item>
     
     <item>
@@ -1124,7 +1182,7 @@ Manual 1 Fingers 2 Fk Switch 3 Isolate Rotation 4 Root &amp;amp; Palm 5 Fingers 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/handwriting/</guid>
-      <description> ♫Shto Mi E Milo by Yale Women&amp;rsquo;s Slavic Chorus CC-BY-NC-ND Original Tutorial Return </description>
+      <description>   ♫Shto Mi E Milo by Yale Women&amp;rsquo;s Slavic Chorus CC-BY-NC-ND Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1133,9 +1191,9 @@ Manual 1 Fingers 2 Fk Switch 3 Isolate Rotation 4 Root &amp;amp; Palm 5 Fingers 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/heart_curve/</guid>
-      <description> ♫ SKGB - Awake CC-BY-SA
+      <description>   ♫ SKGB - Awake CC-BY-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1144,7 +1202,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/hexagon/</guid>
-      <description> ♫ Kellee Maize Owl Time- Peaceburgh CC-BY Return </description>
+      <description>   ♫ Kellee Maize Owl Time- Peaceburgh CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1154,7 +1212,18 @@ Return </description>
       
       <guid>https://particl3s.xyz/horse_rig/</guid>
       <description>Horse
-Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isolate Rotation Neck 5 Ik &amp;lt;&amp;mdash;&amp;mdash;-&amp;gt; Fk Switch 6 Pole Targets 7 Ik Foot Roll 8 Root 9 Spine 10 Hip &amp;amp; Slide Animation Example </description>
+
+Manual 1 
+Isolate Rotation Front Legs2 
+Isolate Rotation Rear Legs3 
+Neck4 
+Isolate Rotation Neck5 
+Ik &amp;lt;&amp;mdash;&amp;mdash;-&amp;gt; Fk Switch6 
+Pole Targets7 
+Ik Foot Roll8 
+Root9 
+Spine10 
+Hip &amp;amp; Slide Animation Example</description>
     </item>
     
     <item>
@@ -1163,7 +1232,7 @@ Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/ice_spell/</guid>
-      <description> ♫ Brunk - Floating CC-BY-NC-SA Return </description>
+      <description>   ♫ Brunk - Floating CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1172,7 +1241,7 @@ Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/icing/</guid>
-      <description> ♫ Teleidofusion - みなこ CC-BY-NC-SA Return </description>
+      <description>   ♫ Teleidofusion - みなこ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1181,7 +1250,7 @@ Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/id_keys/</guid>
-      <description> ♫ Carlos Gardels - Bach - Book I - Prelude and Fugue No. 8 in E Flat Minor, BWV 853 CC-0 Return </description>
+      <description>   ♫ Carlos Gardels - Bach - Book I - Prelude and Fugue No. 8 in E Flat Minor, BWV 853 CC-0  Return  </description>
     </item>
     
     <item>
@@ -1190,7 +1259,7 @@ Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/infinite_flow/</guid>
-      <description> ♫ The Shivers - Untitled CC-BY-NC-SA Return </description>
+      <description>   ♫ The Shivers - Untitled CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1199,9 +1268,9 @@ Manual 1 Isolate Rotation Front Legs 2 Isolate Rotation Rear Legs 3 Neck 4 Isola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/infinite_rain/</guid>
-      <description> ♫ She Gets All That She Wants by Ignatz CC-By-NC-ND
+      <description>   ♫ She Gets All That She Wants by Ignatz CC-By-NC-ND
 [Source Tutorial] (https://youtu.be/HeTt89EZ_EM)
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1210,7 +1279,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/infinity_wars_proof_of_concept/</guid>
-      <description> Infinity Wars Classic is a Digital CTCG (Complete Trading Card Game) with simultaneous turn gameplay. Steam Return </description>
+      <description>   Infinity Wars Classic is a Digital CTCG (Complete Trading Card Game) with simultaneous turn gameplay. Steam  Return  </description>
     </item>
     
     <item>
@@ -1219,7 +1288,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/inflated_objects/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1228,7 +1297,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/instance_multiple/</guid>
-      <description> ♫ MC Menda - EnlaVariedasTalGusto (Intro) CC-BY-NC-SA Return </description>
+      <description>   ♫ MC Menda - EnlaVariedasTalGusto (Intro) CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1237,9 +1306,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/interactive_snow/</guid>
-      <description> ♫ Don&amp;rsquo;t Let The Crows Take Your Sight by Thee Moths CC-BY-NC-SA
+      <description>   ♫ Don&amp;rsquo;t Let The Crows Take Your Sight by Thee Moths CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1248,7 +1317,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/iris/</guid>
-      <description> ♫ Forget the Whale - Clocks CC-BY-NC Return </description>
+      <description>   ♫ Forget the Whale - Clocks CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1258,7 +1327,15 @@ Return </description>
       
       <guid>https://particl3s.xyz/jellybean_rig/</guid>
       <description>Jellybean
-Manual 1 Glasses 2 Glasses Direct 3 Isolate Rotation 4 Mouth 5 Mouth Direct 6 Stretch 7 Tongue </description>
+
+Manual 1 
+Glasses2 
+Glasses Direct3 
+Isolate Rotation4 
+Mouth5 
+Mouth Direct6 
+Stretch7 
+Tongue</description>
     </item>
     
     <item>
@@ -1294,7 +1371,7 @@ Manual 1 Glasses 2 Glasses Direct 3 Isolate Rotation 4 Mouth 5 Mouth Direct 6 St
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/knitting/</guid>
-      <description> ♫ Punk Rock Opera - Guitar Lesssons (Reprise) CC-BY Return </description>
+      <description>   ♫ Punk Rock Opera - Guitar Lesssons (Reprise) CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1303,9 +1380,9 @@ Manual 1 Glasses 2 Glasses Direct 3 Isolate Rotation 4 Mouth 5 Mouth Direct 6 St
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/laser/</guid>
-      <description> ♫ Golden Snake by Jessie Evans CC-BY-NC-NA
+      <description>   ♫ Golden Snake by Jessie Evans CC-BY-NC-NA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1314,7 +1391,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lattice_grid/</guid>
-      <description> Source Tutorial Return </description>
+      <description>   Source Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1323,7 +1400,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lavalamp/</guid>
-      <description> ♫ Teleidofusion - みなこ CC-BY-NC-SA Return </description>
+      <description>   ♫ Teleidofusion - みなこ CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1332,7 +1409,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/leaf/</guid>
-      <description> ♫ Novi Split - Clay Pigeons CC-BY-NC Return </description>
+      <description>   ♫ Novi Split - Clay Pigeons CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1341,7 +1418,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lego/</guid>
-      <description> ♫ Scott_Nice - Raio - Cuaq Scott Nice Remix CC-BY-NC-SA Return </description>
+      <description>   ♫ Scott_Nice - Raio - Cuaq Scott Nice Remix CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1350,7 +1427,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/lightning/</guid>
-      <description> ♫ Sergey Cheremisinov - By The Winds CC-BY-NC Return </description>
+      <description>   ♫ Sergey Cheremisinov - By The Winds CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1359,9 +1436,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/linecolour/</guid>
-      <description> ♫ Arpanauts by Eric Skiff CC-BY
+      <description>   ♫ Arpanauts by Eric Skiff CC-BY
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1379,7 +1456,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/logo_reveal/</guid>
-      <description> Original Tutorial Return </description>
+      <description> Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1388,7 +1465,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/looping_spiral/</guid>
-      <description> ♫ Ryoma Maeda - Anti - Musics CC-BY-NC Return </description>
+      <description>   ♫ Ryoma Maeda - Anti - Musics CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1415,7 +1492,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/magic_circle/</guid>
-      <description> ♫ Vienna Ditto - Little Fingers CC-BY Return </description>
+      <description>   ♫ Vienna Ditto - Little Fingers CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1424,7 +1501,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/marching_squares/</guid>
-      <description> ♫ Michett - Zephyr&amp;rsquo;s Flight CC-BY Return </description>
+      <description>   ♫ Michett - Zephyr&amp;rsquo;s Flight CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1451,7 +1528,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/midi/</guid>
-      <description> ♫ TuenStudios CC-0 Return </description>
+      <description>   ♫ TuenStudios CC-0  Return  </description>
     </item>
     
     <item>
@@ -1460,9 +1537,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mimic/</guid>
-      <description> ♫ Identity Crisis by Eaters CC-BY
+      <description>   ♫ Identity Crisis by Eaters CC-BY
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1472,7 +1549,13 @@ Return </description>
       
       <guid>https://particl3s.xyz/misfit_rig/</guid>
       <description>Misfit
-Manual 1 Body 2 Fk arm 3 Leg 4 Mouth 5 Squishy </description>
+
+Manual 1 
+Body2 
+Fk arm3 
+Leg4 
+Mouth5 
+Squishy</description>
     </item>
     
     <item>
@@ -1481,7 +1564,7 @@ Manual 1 Body 2 Fk arm 3 Leg 4 Mouth 5 Squishy </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mocap/</guid>
-      <description> ♫ Arrogalla Remixes King Kietu - Fregula Lo Western CC-BY-NC-ND Return </description>
+      <description>   ♫ Arrogalla Remixes King Kietu - Fregula Lo Western CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1490,7 +1573,7 @@ Manual 1 Body 2 Fk arm 3 Leg 4 Mouth 5 Squishy </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mograph/</guid>
-      <description> ♫ Lex Villena - Origins CC-BY Return </description>
+      <description>   ♫ Lex Villena - Origins CC-BY  Return  </description>
     </item>
     
     <item>
@@ -1499,7 +1582,7 @@ Manual 1 Body 2 Fk arm 3 Leg 4 Mouth 5 Squishy </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mograph_hdri/</guid>
-      <description> Source Tutorial Return </description>
+      <description>   Source Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1509,7 +1592,17 @@ Manual 1 Body 2 Fk arm 3 Leg 4 Mouth 5 Squishy </description>
       
       <guid>https://particl3s.xyz/monkey_rig/</guid>
       <description>Monkey
-Manual 1 Arm Isolate Rotation 2 Ear 3 Eye 4 Ik-Fk 5 Leg Isolate Rotation 6 Mouth 7 Tie 8 Tie Isolate Rotation 9 Tux Isolate Rotation </description>
+
+Manual 1 
+Arm Isolate Rotation2 
+Ear3 
+Eye4 
+Ik-Fk5 
+Leg Isolate Rotation6 
+Mouth7 
+Tie8 
+Tie Isolate Rotation9 
+Tux Isolate Rotation</description>
     </item>
     
     <item>
@@ -1518,9 +1611,9 @@ Manual 1 Arm Isolate Rotation 2 Ear 3 Eye 4 Ik-Fk 5 Leg Isolate Rotation 6 Mouth
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/mosaic/</guid>
-      <description> ♫ Trailer Trash by McCafferty CC-BY-NC-ND
+      <description>   ♫ Trailer Trash by McCafferty CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1529,7 +1622,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/moss/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1538,9 +1631,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/moving_points/</guid>
-      <description> ♫ The Elixir by Physical Plant CC-BY-NC
+      <description>   ♫ The Elixir by Physical Plant CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1558,7 +1651,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/music_test/</guid>
-      <description> ♫ Michett - Zombi CC-BY-NC Return </description>
+      <description>   ♫ Michett - Zombi CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1567,10 +1660,10 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/noise_flow/</guid>
-      <description> ♫ La Desdenosa by Lucky Dragons CC-BY-NC-SA
+      <description>   ♫ La Desdenosa by Lucky Dragons CC-BY-NC-SA
 Original Tutorial
 &amp;ldquo;Facial Rig test.&amp;rdquo; by bayuitra
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1579,7 +1672,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/noisy_curve/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1606,7 +1699,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/openvdb_fire/</guid>
-      <description> ♫ The Dingees - Port Royal Sound CC-BY-NC-SA Return </description>
+      <description>   ♫ The Dingees - Port Royal Sound CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1616,7 +1709,11 @@ Return </description>
       
       <guid>https://particl3s.xyz/orange_rig/</guid>
       <description>Squishy
-Manual 1 Appendage 2 Eye 3 Squishy Root Animation Example </description>
+
+Manual 1 
+Appendage2 
+Eye3 
+Squishy Root Animation Example</description>
     </item>
     
     <item>
@@ -1625,7 +1722,7 @@ Manual 1 Appendage 2 Eye 3 Squishy Root Animation Example </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/organic_displacement/</guid>
-      <description> ♫ Geir Tjelta - Melodious CC-BY-NC-SA Return </description>
+      <description>   ♫ Geir Tjelta - Melodious CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1635,7 +1732,24 @@ Manual 1 Appendage 2 Eye 3 Squishy Root Animation Example </description>
       
       <guid>https://particl3s.xyz/oxfox_rig/</guid>
       <description>Oxfox
-Manual 1 Neck Stretch 2 Spine 3 Shoulder 4 Eye 5 Mouth 6 Neck Isolate Rotation 7 Hands 8 Face Direct Deform 9 Ear Wiggle 9 Eye Blink 10 Fk Arm Isolate Rotation 11 Ik Fk Arm 12 Fk Ik Leg 13 Leg Isolate Rotation 14 Hip Root 15 Mouth Lock </description>
+
+Manual 1 
+Neck Stretch2 
+Spine3 
+Shoulder4 
+Eye5 
+Mouth6 
+Neck Isolate Rotation7 
+Hands8 
+Face Direct Deform9 
+Ear Wiggle9 
+Eye Blink10 
+Fk Arm Isolate Rotation11 
+Ik Fk Arm12 
+Fk Ik Leg13 
+Leg Isolate Rotation14 
+Hip Root15 
+Mouth Lock</description>
     </item>
     
     <item>
@@ -1644,7 +1758,7 @@ Manual 1 Neck Stretch 2 Spine 3 Shoulder 4 Eye 5 Mouth 6 Neck Isolate Rotation 7
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/particle_collision/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1653,9 +1767,9 @@ Manual 1 Neck Stretch 2 Spine 3 Shoulder 4 Eye 5 Mouth 6 Neck Isolate Rotation 7
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/plant_growth/</guid>
-      <description> ♫ Mekons - Now We Have The Bomb CC-BY-NC-ND
+      <description>   ♫ Mekons - Now We Have The Bomb CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1664,7 +1778,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/plasma/</guid>
-      <description> ♫ Sea Oleena - Sister Johnny Ripper Remix CC-BY-NC-SA Return </description>
+      <description>   ♫ Sea Oleena - Sister Johnny Ripper Remix CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1673,7 +1787,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/plexus_n/</guid>
-      <description> Tutorial by Entagma Return </description>
+      <description>   Tutorial by Entagma  Return  </description>
     </item>
     
     <item>
@@ -1682,9 +1796,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/portal/</guid>
-      <description> ♫ I Disown You by Kathleen Martin CC-BY-NC-SA
+      <description>   ♫ I Disown You by Kathleen Martin CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1693,7 +1807,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/procedural_clouds/</guid>
-      <description> [Source Tutorial] (https://youtu.be/_34LQI1ZMxI) Return </description>
+      <description>   [Source Tutorial] (https://youtu.be/_34LQI1ZMxI)  Return  </description>
     </item>
     
     <item>
@@ -1702,7 +1816,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/procedural_fire/</guid>
-      <description> ♫ K. Sparks - Drift Return </description>
+      <description>   ♫ K. Sparks - Drift  Return  </description>
     </item>
     
     <item>
@@ -1711,7 +1825,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/procedural_icicle/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1720,7 +1834,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/procedural_snow/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1729,9 +1843,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/procedural_swimming/</guid>
-      <description> ♫ Saddle-Sore by Ketsao CC-BY-NC-ND
+      <description>   ♫ Saddle-Sore by Ketsao CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1741,7 +1855,9 @@ Return </description>
       
       <guid>https://particl3s.xyz/propeller_rig/</guid>
       <description>Propeller
-Manual 1 Ctrl Animation Example </description>
+
+Manual 1 
+Ctrl Animation Example</description>
     </item>
     
     <item>
@@ -1750,7 +1866,7 @@ Manual 1 Ctrl Animation Example </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/psy_shield/</guid>
-      <description> ♫ Frequency Decree - Sometimes CC-BY-NC-SA Return </description>
+      <description>   ♫ Frequency Decree - Sometimes CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1760,7 +1876,16 @@ Manual 1 Ctrl Animation Example </description>
       
       <guid>https://particl3s.xyz/purple_rig/</guid>
       <description>Purple Bot
-Manual 1 Transform 2 Ik, Fk Layers 3 Vehicle Roll 4 Fk Ik Switch 5 Fk Isolate Rotation 6 Suspension 7 Bottom Limit 8 Isolate Rotation </description>
+
+Manual 1 
+Transform2 
+Ik, Fk Layers3 
+Vehicle Roll4 
+Fk Ik Switch5 
+Fk Isolate Rotation6 
+Suspension7 
+Bottom Limit8 
+Isolate Rotation</description>
     </item>
     
     <item>
@@ -1770,7 +1895,10 @@ Manual 1 Transform 2 Ik, Fk Layers 3 Vehicle Roll 4 Fk Ik Switch 5 Fk Isolate Ro
       
       <guid>https://particl3s.xyz/quad_mesh_rig/</guid>
       <description>Quad Mesh
-Manual 1 Leg 2 Body </description>
+
+Manual 1 
+Leg2 
+Body</description>
     </item>
     
     <item>
@@ -1779,8 +1907,8 @@ Manual 1 Leg 2 Body </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/raccoon/</guid>
-      <description> ♫ Ayla Nereo - Waterfall CC-BY-NC-SA
-Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
+      <description>   ♫ Ayla Nereo - Waterfall CC-BY-NC-SA
+Avatrass &amp;lt;&amp;ndash; .fbx data  Return  </description>
     </item>
     
     <item>
@@ -1789,7 +1917,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/rain/</guid>
-      <description> Original Tutorial Return </description>
+      <description>    Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1798,7 +1926,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/real_time_fire/</guid>
-      <description> ♫ Joe Marson - To The Shore CC-BY-NC-ND Return </description>
+      <description>   ♫ Joe Marson - To The Shore CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1807,7 +1935,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/red_skull/</guid>
-      <description> ♫ Peg Simone - O Holy Night CC-BY-NC-SA Return </description>
+      <description>   ♫ Peg Simone - O Holy Night CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1816,7 +1944,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/reveal_effect/</guid>
-      <description> ♫ Zebra - Harmony CC-BY-NC-ND Return </description>
+      <description>   ♫ Zebra - Harmony CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -1825,7 +1953,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/rice/</guid>
-      <description> ♫ a. piano #4 by Art of Flying CC-BY-ND-SA Return </description>
+      <description>   ♫ a. piano #4 by Art of Flying CC-BY-ND-SA  Return  </description>
     </item>
     
     <item>
@@ -1834,7 +1962,7 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/rig_gp/</guid>
-      <description> Blender Conference Return </description>
+      <description>   Blender Conference  Return  </description>
     </item>
     
     <item>
@@ -1844,7 +1972,19 @@ Avatrass &amp;lt;&amp;ndash; .fbx data Return </description>
       
       <guid>https://particl3s.xyz/rodent_rig/</guid>
       <description>Rodent
-Manual 1 Ear 2 Eye 3 Face 4 Front leg 5 Global local 6 Hind leg 7 Ik 8 Isolate Rotation 9 Spine 10 Stomach 11 Tail </description>
+
+Manual 1 
+Ear2 
+Eye3 
+Face4 
+Front leg5 
+Global local6 
+Hind leg7 
+Ik8 
+Isolate Rotation9 
+Spine10 
+Stomach11 
+Tail</description>
     </item>
     
     <item>
@@ -1853,9 +1993,9 @@ Manual 1 Ear 2 Eye 3 Face 4 Front leg 5 Global local 6 Hind leg 7 Ik 8 Isolate R
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/roller_coaster/</guid>
-      <description> ♫ Beggars and Felons by Power und Beauty CC-BY-NC-SA
+      <description>   ♫ Beggars and Felons by Power und Beauty CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1864,9 +2004,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/rubics_cube/</guid>
-      <description> ♫ Art House by Serge Quadrado CC-BY-NC
+      <description>   ♫ Art House by Serge Quadrado CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1893,7 +2033,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/shooting_stars/</guid>
-      <description> ♫ Rico Zerone - Spheredivers CC-BY-NC-SA Return </description>
+      <description>   ♫ Rico Zerone - Spheredivers CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1911,8 +2051,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sim_disintegration/</guid>
-      <description> Grenade CC-Attribution
-Tutorial Return </description>
+      <description>   Grenade CC-Attribution
+Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1921,7 +2061,7 @@ Tutorial Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sim_fluid/</guid>
-      <description> Tutorial by Thinking Penguin Return </description>
+      <description>   Tutorial by Thinking Penguin  Return  </description>
     </item>
     
     <item>
@@ -1930,9 +2070,9 @@ Tutorial Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/simulation_string/</guid>
-      <description> ♫ Mavi Sepet by Hayvanlar Alemi CC-BY-NC-SA
+      <description>   ♫ Mavi Sepet by Hayvanlar Alemi CC-BY-NC-SA
 3D Singh VFX
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1941,7 +2081,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sky_time/</guid>
-      <description> ♫ Borrtex - You Me - Soft Piano Live CC-BY-NC Return </description>
+      <description>   ♫ Borrtex - You Me - Soft Piano Live CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -1950,9 +2090,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/smoke_trail/</guid>
-      <description> ♫ Live at Monty Hall by Laura Stevenson CC-BY-NC-ND
+      <description>   ♫ Live at Monty Hall by Laura Stevenson CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -1961,7 +2101,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/soft_body/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -1988,7 +2128,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/soundblade/</guid>
-      <description> ♫ The Rope River Blues Band - The Something Sound CC-BY-NC-SA Return </description>
+      <description>   ♫ The Rope River Blues Band - The Something Sound CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -1997,7 +2137,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sperm/</guid>
-      <description> ♫ Ketsa - Never-Give-Up CC-BY-NC-ND Return </description>
+      <description>   ♫ Ketsa - Never-Give-Up CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -2006,9 +2146,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spiral_tag/</guid>
-      <description> ♫ Circus Marcus - Ce caractère inhumain CC-BY-NC
+      <description>   ♫ Circus Marcus - Ce caractère inhumain CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2017,7 +2157,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spline_loop/</guid>
-      <description> ♫ Dadalu - Testeada CC-BY-NC-SA Return </description>
+      <description>   ♫ Dadalu - Testeada CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2026,7 +2166,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spline_tracer/</guid>
-      <description> ♫ Meydän - Interplanetary Forest CC-BY Return </description>
+      <description>   ♫ Meydän - Interplanetary Forest CC-BY  Return  </description>
     </item>
     
     <item>
@@ -2035,11 +2175,11 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spray_tan/</guid>
-      <description> ♫ St James Infirmary Blues by Bluesraiders CC-BY-NC-ND
+      <description>   ♫ St James Infirmary Blues by Bluesraiders CC-BY-NC-ND
 Original Tutorial
 Dried Yellow Rose by Erik CC-BY
 Frank by Misterdevious CC-BY-NC-SA
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2048,7 +2188,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/spring_fling_extreme/</guid>
-      <description> Last year was fun, let&amp;rsquo;s have another one! Return </description>
+      <description>   Last year was fun, let&amp;rsquo;s have another one!  Return  </description>
     </item>
     
     <item>
@@ -2057,7 +2197,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/srabble_dabble/</guid>
-      <description> ♫ ♫ Anitek - Natural Form CC-BY-NC-SA Return </description>
+      <description>   ♫ ♫ Anitek - Natural Form CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2066,7 +2206,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/stairwell/</guid>
-      <description> ♫ Ghost Hunter - Whirlwind Dance CC-BY-NC-SA Return </description>
+      <description>   ♫ Ghost Hunter - Whirlwind Dance CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2075,9 +2215,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/sticky_notes/</guid>
-      <description> ♫ TrumPutinLand by John Lopker CC-BY-NC
+      <description>   ♫ TrumPutinLand by John Lopker CC-BY-NC
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2086,9 +2226,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tearing_effect/</guid>
-      <description> ♫ where by Dlay CC-BY-NC-ND
+      <description>   ♫ where by Dlay CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2097,9 +2237,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/text_pop/</guid>
-      <description> ♫ To Believe and Break by Mid-Air Machine CC-BY-SA
+      <description>   ♫ To Believe and Break by Mid-Air Machine CC-BY-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2108,7 +2248,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/texture_fx/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2117,7 +2257,8 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tornado/</guid>
-      <description> Original Tutorial Return </description>
+      <description>     
+Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2127,7 +2268,9 @@ Return </description>
       
       <guid>https://particl3s.xyz/tracking/</guid>
       <description>
-Original Tutorial Return </description>
+
+
+Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2136,9 +2279,9 @@ Original Tutorial Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/traffic/</guid>
-      <description> ♫ Riddim Of My Heart [Recycled] by EQuBE CC-BY-NC-ND
+      <description>   ♫ Riddim Of My Heart [Recycled] by EQuBE CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2147,7 +2290,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/triangle_fan/</guid>
-      <description> Tutorial by Thinking Penguin Return </description>
+      <description>   Tutorial by Thinking Penguin  Return  </description>
     </item>
     
     <item>
@@ -2156,10 +2299,10 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tutorial_land_tales_1/</guid>
-      <description> ♫ Loyalty Freak Music - Everyone Is So Alive CC-0
+      <description>   ♫ Loyalty Freak Music - Everyone Is So Alive CC-0
 ♫ Bit Laden - Max Hardcore Chainsaw Party CC-BY-NC-SA
 ♫ Johnny Ripper - AK CC-NC-SA
-♫ почему коммутатор молчит - топот CC-BY-NC-SA Return </description>
+♫ почему коммутатор молчит - топот CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2168,7 +2311,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tutorial_land_tales_2/</guid>
-      <description> ♫ Ava Drumm - Canon in D Major (piano only) CC-0 Return </description>
+      <description>   ♫ Ava Drumm - Canon in D Major (piano only) CC-0  Return  </description>
     </item>
     
     <item>
@@ -2186,7 +2329,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/txt_fx/</guid>
-      <description> Angelina Alive Return </description>
+      <description>   Angelina Alive  Return  </description>
     </item>
     
     <item>
@@ -2195,7 +2338,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/type_formation/</guid>
-      <description> Original Tutorial Return </description>
+      <description>   Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2205,7 +2348,8 @@ Return </description>
       
       <guid>https://particl3s.xyz/umbrella_rig/</guid>
       <description>Umbrella
-Manual 1 2 3 4 </description>
+
+Manual 1 2 3 4</description>
     </item>
     
     <item>
@@ -2214,7 +2358,7 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/unfold/</guid>
-      <description> ♫ Anitek - Natural Form CC-BY-NC-SA Return </description>
+      <description>   ♫ Anitek - Natural Form CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2223,7 +2367,7 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/unwind_spline/</guid>
-      <description> Tutorial Return </description>
+      <description>   Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2232,7 +2376,7 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vegetable_splash/</guid>
-      <description> ♫ Lame Drivers - Lemme Get Those Numbers Down CC-BY-NC-SA Return </description>
+      <description>   ♫ Lame Drivers - Lemme Get Those Numbers Down CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2241,7 +2385,7 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/video_texture_anim/</guid>
-      <description> Source Tutorial Return </description>
+      <description>   Source Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2250,7 +2394,7 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vine/</guid>
-      <description> ♫ Ryoma Maeda - Fake Protest Song feat. Ema Grace CC-BY Return </description>
+      <description>   ♫ Ryoma Maeda - Fake Protest Song feat. Ema Grace CC-BY  Return  </description>
     </item>
     
     <item>
@@ -2268,9 +2412,9 @@ Manual 1 2 3 4 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/voronoi/</guid>
-      <description> ♫ Old Mine by Roach Davies And The Fleas CC-BY-NC-SA
+      <description>   ♫ Old Mine by Roach Davies And The Fleas CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2279,7 +2423,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/vortex/</guid>
-      <description> ♫ The Citadel - Zasiaty Hnev CC-BY-NC-SA Return </description>
+      <description>   ♫ The Citadel - Zasiaty Hnev CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2288,9 +2432,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/water_splash/</guid>
-      <description> ♫ Afrissippi feat. Youssou N&amp;rsquo;Dour, Neneh Cherry and Guelel Kumba - &amp;ldquo;Wake Up (Afrissippi Calling Mix)&amp;rdquo; by IntraHealth International CC-BY-NC-ND
+      <description>   ♫ Afrissippi feat. Youssou N&amp;rsquo;Dour, Neneh Cherry and Guelel Kumba - &amp;ldquo;Wake Up (Afrissippi Calling Mix)&amp;rdquo; by IntraHealth International CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2299,9 +2443,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/waves/</guid>
-      <description> ♫ My name is Taiwan - Lata remix (Chile) by Lata CC-BY-NC-ND
+      <description>   ♫ My name is Taiwan - Lata remix (Chile) by Lata CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2310,7 +2454,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wavy_band/</guid>
-      <description> ♫ Volfoniq - Love Not Money feat. Solo Banton Sam CC-BY-NC-SA Return </description>
+      <description>   ♫ Volfoniq - Love Not Money feat. Solo Banton Sam CC-BY-NC-SA  Return  </description>
     </item>
     
     <item>
@@ -2319,7 +2463,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wavy_curves/</guid>
-      <description> ♫ Dom La Nena - Vivo Na Mare CC-BY-NC-ND Return </description>
+      <description>   ♫ Dom La Nena - Vivo Na Mare CC-BY-NC-ND  Return  </description>
     </item>
     
     <item>
@@ -2328,9 +2472,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wind_leaf/</guid>
-      <description> ♫ Livin on the-Bottom by So Brown CC-BY-NC-ND
+      <description>   ♫ Livin on the-Bottom by So Brown CC-BY-NC-ND
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2348,9 +2492,9 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wired/</guid>
-      <description> ♫ Before The Dawn by Unknown Artist CC-BY-NC-SA
+      <description>   ♫ Before The Dawn by Unknown Artist CC-BY-NC-SA
 Original Tutorial
-Return </description>
+ Return  </description>
     </item>
     
     <item>
@@ -2359,7 +2503,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wireframe/</guid>
-      <description> ♫ Benny B. Blonco - Wizard Swing Warriors CC-BY-NC Return </description>
+      <description>   ♫ Benny B. Blonco - Wizard Swing Warriors CC-BY-NC  Return  </description>
     </item>
     
     <item>
@@ -2368,7 +2512,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/wireframe_mesh/</guid>
-      <description> Original Tutorial Return </description>
+      <description>     Original Tutorial  Return  </description>
     </item>
     
     <item>
@@ -2377,7 +2521,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/worm_gear/</guid>
-      <description> Some math and some theory. Return </description>
+      <description>   Some math and some theory.  Return  </description>
     </item>
     
     <item>
@@ -2386,7 +2530,7 @@ Return </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/xmas_lights/</guid>
-      <description> ♫ Baby Arm Sound System - Hypnotic Stagger CC-BY-NC-ND Return </description>
+      <description>   ♫ Baby Arm Sound System - Hypnotic Stagger CC-BY-NC-ND  Return  </description>
     </item>
     
   </channel>

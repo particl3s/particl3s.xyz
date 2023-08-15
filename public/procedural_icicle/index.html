@@ -3,21 +3,19 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=" Tutorial Return ">
+<meta name="description" content="   Tutorial  Return  ">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="" />
-<meta property="og:description" content=" Tutorial Return " />
+<meta property="og:description" content="   Tutorial  Return  " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://particl3s.xyz/procedural_icicle/" /><meta property="article:section" content="" />
-
-
+<meta property="og:url" content="https://particl3s.xyz/procedural_icicle/" />
 
 <title>Procedural Icicle | particl3s.xyz</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.6569d5b3123725b6fc673c622e8416793e6cc147a644c5f20d5648a3870768a2.css" integrity="sha256-ZWnVsxI3Jbb8ZzxiLoQWeT5swUemRMXyDVZIo4cHaKI=" crossorigin="anonymous">
+<link rel="stylesheet" href="/book.min.ebf58de3ae66886fb8523891096e4a382ca2acce55b3f64507019d316af45825.css" integrity="sha256-6/WN465miG&#43;4UjiRCW5KOCyirM5Vs/ZFBwGdMWr0WCU=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.6c090c7baf50648a02abdbce0ad605f1bd64fb15049001f2a821c3a54223b50c.js" integrity="sha256-bAkMe69QZIoCq9vOCtYF8b1k&#43;xUEkAHyqCHDpUIjtQw=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.253d56cebca18750f16a7c14f1e6669b39450b5cc09baaa5f2ccced592911d55.js" integrity="sha256-JT1Wzryhh1DxanwU8eZmmzlFC1zAm6ql8szO1ZKRHVU=" crossorigin="anonymous"></script>
 
 <script type="application/javascript">
 var doNotTrack = false;
@@ -328,7 +326,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+  <script>(function(){var menu=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
 
 
  
@@ -403,7 +401,8 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+  <script>(function(){function select(element){const selection=window.getSelection();const range=document.createRange();range.selectNodeContents(element);selection.removeAllRanges();selection.addRange(range);}
+document.querySelectorAll("pre code").forEach(code=>{code.addEventListener("click",function(event){select(code.parentElement);if(navigator.clipboard){navigator.clipboard.writeText(code.parentElement.textContent);}});});})();</script>
 
 
  

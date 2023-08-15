@@ -6,7 +6,16 @@
     <description>Recent content in wip on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/wip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/wip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distro</title>
+      <link>https://particl3s.xyz/posts/0044/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0044/</guid>
+      <description>My oh my the last month has been busy, a lot less sleep and worthwhile drawing. In the midsts of that ended up having a operating system burn out. Not to worry though, it&amp;rsquo;s been replaced. Now it&amp;rsquo;s on a Debian based system without any integration issue. My first one actually, rather fascinating moving from an Aur base to something else.</description>
+    </item>
+    
     <item>
       <title>Corrupted Hard Drive</title>
       <link>https://particl3s.xyz/posts/0041/</link>
