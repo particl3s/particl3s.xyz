@@ -24,4 +24,4 @@ bookToc: false
 
 <--->
 
-{{< columns >}}
+{{< /columns >}}

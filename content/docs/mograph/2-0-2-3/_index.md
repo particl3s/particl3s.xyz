@@ -87,5 +87,7 @@
 2023.08.06  
 [![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](/lattice_grid/)  
 2023.08.14  
-[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](/digital_break/)
+[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](/digital_break/)  
+2023.08.21  
+[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](/nanotech/)  
 {{< /details >}}

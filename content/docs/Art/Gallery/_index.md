@@ -23,4 +23,4 @@ bookToc: false
 [![art-2021-11-16-shredder.png](https://i.postimg.cc/1R5Bj7Wn/art-2021-11-16-shredder.png)](/shredder)
 <--->
 [![art-wizard.png](https://i.postimg.cc/8DVqH1N9/art-wizard.png)](/mage)
-{{< columns >}}
+{{< /columns >}}
