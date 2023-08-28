@@ -90,4 +90,6 @@
 [![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](/digital_break/)  
 2023.08.21  
 [![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](/nanotech/)  
+2023.08.28  
+[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](/sticky_cube/)
 {{< /details >}}
