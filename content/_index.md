@@ -16,38 +16,38 @@ Art
 <--->
 <--->
 <--->
-[![wizard_dark.png](https://i.postimg.cc/HYPxGqZR/wizard_dark.png)](mage)
+[![wing_logo.png](https://i.postimg.cc/7xsrLTJR/wing_logo.png)](winged_female)
 {{< /columns >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
+[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
+[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
+[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
+[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
+[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
 (infinity_wars_proof_of_concept)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-iw-banner-2.gif](https://i.postimg.cc/8pPwXYXj/c-iw-banner-2.gif)]
+[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](dissolve_text){{< /tab >}}
-{{< tab "9" >}}
-[![c-infinite-rain-2.gif](https://i.postimg.cc/y1mq9v8L/c-infinite-rain-2.gif)](infinite_rain)
+[![c-iw-banner-2.gif](https://i.postimg.cc/8pPwXYXj/c-iw-banner-2.gif)]
 {{< /tab >}}
+{{< tab "9" >}}
+[![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](dissolve_text){{< /tab >}}
 {{< /tabs >}}
 
 
@@ -56,20 +56,20 @@ Mograph
 Rigs
 
 {{< tabs "uniqueid2" >}}
-{{< tab "Umbrella" >}}
-[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< tab "Rodent" >}}
+[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
 {{< /tab >}}
-{{< tab "Propeller" >}}
-[![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
+{{< tab "Cup" >}}
+[![screenshot-2023-04-30-8.png](https://i.postimg.cc/4ZHRbjvd/screenshot-2023-04-30-8.png)](/cup_rig/)
 {{< /tab >}}
-{{< tab "Claw" >}}
-[![claw-banner-2.jpg](https://i.postimg.cc/jRM7Kx0L/claw-banner-2.jpg)](/claw_rig/)
+{{< tab "Jellybean" >}}
+[![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
 {{< /tab >}}
-{{< tab "Monkey" >}}
-[![screenshot-2022-07-22.png](https://i.postimg.cc/GdrNFZJK/screenshot-2022-07-22.png)](/monkey_rig/)
+{{< tab "Quad Mesh" >}}
+[![screenshot-2023-06-30-1.png](https://i.postimg.cc/kC1JqkvM/screenshot-2023-06-30-1.png)](/quad_mesh_rig/)
 {{< /tab >}}
-{{< tab "Robot" >}}
-[![banner-robot.png](https://i.postimg.cc/yBJyjKQd/banner-robot.png)](/purple_rig/)
+{{< tab "Misfit" >}}
+[![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
 {{< /tab >}}
 {{< tab "Orange" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)

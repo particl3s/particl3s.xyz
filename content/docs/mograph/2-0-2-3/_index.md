@@ -93,3 +93,12 @@
 2023.08.28  
 [![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](/sticky_cube/)
 {{< /details >}}
+
+{{< details "Sep" closed>}}
+2023.09.03  
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](/mandala/)
+{{< /details >}}
+
+
+
+

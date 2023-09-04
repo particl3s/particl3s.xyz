@@ -8,7 +8,7 @@ bookToc: false
 
 
 
-[![dp-2.gif](https://i.postimg.cc/8DQW9Kxw/dp-2.gif)](https://drawpile.net/)
+[![2015-11-27-dim.gif](https://i.postimg.cc/dvcPsbnb/2015-11-27-dim.gif)](/)
 {{< columns >}}
 
 
