@@ -14,40 +14,41 @@ Art
 {{< columns >}}
 
 <--->
+[![lgoo10.png](https://i.postimg.cc/GcZLPGMM/lgoo10.png)](blood_moon)
 <--->
 <--->
-[![wing_logo.png](https://i.postimg.cc/7xsrLTJR/wing_logo.png)](winged_female)
+
 {{< /columns >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
+[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](feather_mesh)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
+[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
+[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
+[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
-(infinity_wars_proof_of_concept)
+[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
+[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-iw-banner-2.gif](https://i.postimg.cc/8pPwXYXj/c-iw-banner-2.gif)]
+[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-dissolve-spline-1.gif](https://i.postimg.cc/GLddBN1m/c-dissolve-spline-1.gif)](dissolve_text){{< /tab >}}
+[![c-iw-banner-2.gif](https://i.postimg.cc/8pPwXYXj/c-iw-banner-2.gif)]
+{{< /tab >}}
 {{< /tabs >}}
 
 
@@ -56,11 +57,11 @@ Mograph
 Rigs
 
 {{< tabs "uniqueid2" >}}
-{{< tab "Rodent" >}}
-[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
-{{< /tab >}}
 {{< tab "Cup" >}}
 [![screenshot-2023-04-30-8.png](https://i.postimg.cc/4ZHRbjvd/screenshot-2023-04-30-8.png)](/cup_rig/)
+{{< /tab >}}
+{{< tab "Rodent" >}}
+[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
 {{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)

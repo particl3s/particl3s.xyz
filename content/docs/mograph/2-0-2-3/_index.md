@@ -96,7 +96,9 @@
 
 {{< details "Sep" closed>}}
 2023.09.03  
-[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](/mandala/)
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](/mandala/)  
+2023.09.10  
+[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](/feather_mesh/)
 {{< /details >}}
 
 

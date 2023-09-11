@@ -8,7 +8,7 @@ bookToc: false
 
 
 
-[![2015-11-27-dim.gif](https://i.postimg.cc/dvcPsbnb/2015-11-27-dim.gif)](/)
+[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
 {{< columns >}}
 
 
