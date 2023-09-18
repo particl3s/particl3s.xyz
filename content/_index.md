@@ -4,6 +4,7 @@ type: docs
 bookToc: true
 ---
 
+
 {{< columns >}}
 <--->
 <--->
@@ -14,42 +15,12 @@ Art
 {{< columns >}}
 
 <--->
-[![lgoo10.png](https://i.postimg.cc/GcZLPGMM/lgoo10.png)](blood_moon)
+[![2021-11-29-sophia-thumbnail-02.png](https://i.postimg.cc/TdJ81z6H/2021-11-29-sophia-thumbnail-02.png)](sophia)
 <--->
 <--->
 
 {{< /columns >}}
 
-Mograph
-{{< tabs "uniqueid" >}}
-{{< tab "1" >}}
-[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](feather_mesh)
-{{< /tab >}}
-{{< tab "2" >}}
-[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
-{{< /tab >}}
-{{< tab "3" >}}
-[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
-{{< /tab >}}
-{{< tab "4" >}}
-[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
-{{< /tab >}}
-{{< tab "5" >}}
-[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
-{{< /tab >}}
-{{< tab "6" >}}
-[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
-{{< /tab >}}
-{{< tab "7" >}}
-[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
-{{< /tab >}}
-{{< tab "8" >}}
-[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
-{{< /tab >}}
-{{< tab "9" >}}
-[![c-iw-banner-2.gif](https://i.postimg.cc/8pPwXYXj/c-iw-banner-2.gif)]
-{{< /tab >}}
-{{< /tabs >}}
 
 
 
@@ -57,6 +28,9 @@ Mograph
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Quad Mesh" >}}
+[![screenshot-2023-06-30-1.png](https://i.postimg.cc/kC1JqkvM/screenshot-2023-06-30-1.png)](/quad_mesh_rig/)
+{{< /tab >}}
 {{< tab "Cup" >}}
 [![screenshot-2023-04-30-8.png](https://i.postimg.cc/4ZHRbjvd/screenshot-2023-04-30-8.png)](/cup_rig/)
 {{< /tab >}}
@@ -65,9 +39,6 @@ Rigs
 {{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
-{{< /tab >}}
-{{< tab "Quad Mesh" >}}
-[![screenshot-2023-06-30-1.png](https://i.postimg.cc/kC1JqkvM/screenshot-2023-06-30-1.png)](/quad_mesh_rig/)
 {{< /tab >}}
 {{< tab "Misfit" >}}
 [![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
@@ -81,7 +52,36 @@ Rigs
 {{< /tabs >}}
 
 
-
+Mograph
+{{< tabs "uniqueid" >}}
+{{< tab "1" >}}
+[![c-wireframe-3.gif](https://i.postimg.cc/tpVdVyJ0/c-wireframe-3.gif)](wireframe_cover)
+{{< /tab >}}
+{{< tab "2" >}}
+[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](feather_mesh)
+{{< /tab >}}
+{{< tab "3" >}}
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
+{{< /tab >}}
+{{< tab "4" >}}
+[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
+{{< /tab >}}
+{{< tab "5" >}}
+[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
+{{< /tab >}}
+{{< tab "6" >}}
+[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
+{{< /tab >}}
+{{< tab "7" >}}
+[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
+{{< /tab >}}
+{{< tab "8" >}}
+[![c-mograph-hdri-2.gif](https://i.postimg.cc/BJXGbYk1/c-mograph-hdri-2.gif)](mograph_hdri)
+{{< /tab >}}
+{{< tab "9" >}}
+[![c-clouds.gif](https://i.postimg.cc/Gc61tyDP/c-clouds.gif)](procedural_clouds)
+{{< /tab >}}
+{{< /tabs >}}
 
 
 
