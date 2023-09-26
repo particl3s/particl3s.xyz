@@ -8,7 +8,7 @@ bookToc: false
 
 
 
-[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
+[![dp-2.gif](https://i.postimg.cc/8DQW9Kxw/dp-2.gif)](https://drawpile.net/)
 {{< columns >}}
 
 

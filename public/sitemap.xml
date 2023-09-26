@@ -35,27 +35,37 @@
   </url>
   
   <url>
+    <loc>https://particl3s.xyz/posts/0046/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/tags/tech/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/posts/0045/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/tags/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -71,11 +81,6 @@
   
   <url>
     <loc>https://particl3s.xyz/posts/0043/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/tags/tech/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,6 +338,10 @@
   <url>
     <loc>https://particl3s.xyz/amphibian_rig/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/anime_style/</loc>
   </url>
   
   <url>

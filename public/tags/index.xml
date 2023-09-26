@@ -6,7 +6,16 @@
     <description>Recent content in Tags on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://particl3s.xyz/tags/tech/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/tags/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>art</title>
       <link>https://particl3s.xyz/tags/art/</link>
@@ -22,15 +31,6 @@
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://particl3s.xyz/tags/wip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://particl3s.xyz/tags/tech/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://particl3s.xyz/tags/tech/</guid>
       <description></description>
     </item>
     

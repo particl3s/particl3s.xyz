@@ -100,7 +100,9 @@
 2023.09.10  
 [![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](/feather_mesh/)  
 2923.09.17  
-[![c-wireframe-3.gif](https://i.postimg.cc/tpVdVyJ0/c-wireframe-3.gif)](/wireframe_cover/)
+[![c-wireframe-3.gif](https://i.postimg.cc/tpVdVyJ0/c-wireframe-3.gif)](/wireframe_cover/)  
+2023.09.24  
+[![c-anime-style-1.gif](https://i.postimg.cc/QNZ1HzR3/c-anime-style-1.gif)](/anime_style/)
 {{< /details >}}
 
 
