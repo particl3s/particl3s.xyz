@@ -105,6 +105,9 @@
 [![c-anime-style-1.gif](https://i.postimg.cc/QNZ1HzR3/c-anime-style-1.gif)](/anime_style/)
 {{< /details >}}
 
-
+{{< details "Oct" closed>}}
+2023.10.01  
+[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](/paint_drip/)
+{{< /details >}}
 
 
