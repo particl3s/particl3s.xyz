@@ -107,7 +107,9 @@
 
 {{< details "Oct" closed>}}
 2023.10.01  
-[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](/paint_drip/)
+[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](/paint_drip/)  
+2023.10.09  
+[![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](/nearest_index/)
 {{< /details >}}
 
 

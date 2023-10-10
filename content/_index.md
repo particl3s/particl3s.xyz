@@ -4,7 +4,6 @@ type: docs
 bookToc: true
 ---
 
-
 {{< columns >}}
 <--->
 <--->
@@ -13,21 +12,55 @@ Blender
 {{< /columns >}}
 Art
 {{< columns >}}
+[![2023.07.03_tv_logo.png](https://i.postimg.cc/q0rH0V1S/2023.07.03_tv_logo.png)](tv)
 
 <--->
-[![2022.07.03_lion_thumb.png](https://i.postimg.cc/Sq2qNxF3/2022.07.03_lion_thumb.png)](lion)
-<--->
-<--->
 
+<--->
+<--->
 {{< /columns >}}
 
 
+
+Mograph
+{{< tabs "uniqueid" >}}
+{{< tab "1" >}}
+[![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](nearest_index)
+{{< /tab >}}
+{{< tab "2" >}}
+[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](paint_drip)
+{{< /tab >}}
+{{< tab "3" >}}
+[![c-anime-style-1.gif](https://i.postimg.cc/QNZ1HzR3/c-anime-style-1.gif)](anime_style)
+{{< /tab >}}
+{{< tab "4" >}}
+[![c-wireframe-3.gif](https://i.postimg.cc/tpVdVyJ0/c-wireframe-3.gif)](wireframe_cover)
+{{< /tab >}}
+{{< tab "5" >}}
+[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](feather_mesh)
+{{< /tab >}}
+{{< tab "6" >}}
+[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
+{{< /tab >}}
+{{< tab "7" >}}
+[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
+{{< /tab >}}
+{{< tab "8" >}}
+[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
+{{< /tab >}}
+{{< tab "9" >}}
+[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
+{{< /tab >}}
+{{< /tabs >}}
 
 
 
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Aquatic" >}}
+[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
+{{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
 {{< /tab >}}
@@ -46,42 +79,16 @@ Rigs
 {{< tab "Orange" >}}
 [![pendulum-banner.png](https://i.postimg.cc/y8DmPx5t/pendulum-banner.png)](/orange_rig/)
 {{< /tab >}}
-{{< tab "Aquatic" >}}
-[![fish-banner.png](https://i.postimg.cc/L5HQzh7w/fish-banner.png)](/aquatic_rig/)
-{{< /tab >}}
 {{< /tabs >}}
 
 
-Mograph
-{{< tabs "uniqueid" >}}
-{{< tab "1" >}}
-[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](paint_drip)
-{{< /tab >}}
-{{< tab "2" >}}
-[![c-anime-style-1.gif](https://i.postimg.cc/QNZ1HzR3/c-anime-style-1.gif)](anime_style)
-{{< /tab >}}
-{{< tab "3" >}}
-[![c-wireframe-3.gif](https://i.postimg.cc/tpVdVyJ0/c-wireframe-3.gif)](wireframe_cover)
-{{< /tab >}}
-{{< tab "4" >}}
-[![c-feather-2.gif](https://i.postimg.cc/DFWqMHRy/c-feather-2.gif)](feather_mesh)
-{{< /tab >}}
-{{< tab "5" >}}
-[![c-mandala-2.gif](https://i.postimg.cc/1mbdSMyZ/c-mandala-2.gif)](mandala)
-{{< /tab >}}
-{{< tab "6" >}}
-[![c_sticky_cube_2.gif](https://i.postimg.cc/ZZzJXZDD/c_sticky_cube_2.gif)](sticky_cube)
-{{< /tab >}}
-{{< tab "7" >}}
-[![c-nanotech.gif](https://i.postimg.cc/YpFrT0f0/c-nanotech.gif)](nanotech)
-{{< /tab >}}
-{{< tab "8" >}}
-[![c-hammer.gif](https://i.postimg.cc/J1VN8Gvg/c-hammer.gif)](digital_break)
-{{< /tab >}}
-{{< tab "9" >}}
-[![c-lattice-grid.gif](https://i.postimg.cc/1SWfxNpC/c-lattice-grid.gif)](lattice_grid)
-{{< /tab >}}
-{{< /tabs >}}
+
+
+
+
+
+
+
 
 
 
