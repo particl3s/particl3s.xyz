@@ -9,7 +9,7 @@ bookToc: false
 
 
 
-[![4.jpg](https://i.postimg.cc/rcXgWSRJ/4.jpg)](/)
+[![2023-10-15-open-source.png](https://i.postimg.cc/SSdm8H6H/2023-10-15-open-source.png)](https://www.openttd.org/)
 {{< columns >}}
 
 
