@@ -111,7 +111,9 @@
 2023.10.09  
 [![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](/nearest_index/)  
 2023.10.15  
-[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](/dynamic_water_ripple/)
+[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](/dynamic_water_ripple/)  
+2023.10.23  
+[![c-crispy.gif](https://i.postimg.cc/ZbcwZFS8/c-crispy.gif)](/crispy/)
 {{< /details >}}
 
 
