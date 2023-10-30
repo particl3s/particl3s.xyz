@@ -9,12 +9,14 @@ bookToc: false
 
 
 
-[![2023-10-15-open-source.png](https://i.postimg.cc/SSdm8H6H/2023-10-15-open-source.png)](https://www.openttd.org/)
-{{< columns >}}
 
+{{< columns >}}
+[![c-dp.gif](https://i.postimg.cc/c1Wxv0Yf/c-dp.gif)](https://drawpile.net/)
 
 <--->
 
+<--->
+<--->
 {{< /columns >}}
 
 
