@@ -118,4 +118,8 @@
 [![c-melt-2b.gif](https://i.postimg.cc/GdQ2s8Xt/c-melt-2b.gif)](/melt/)
 {{< /details >}}
 
+{{< details "Nov" closed>}}
+2023.11.05  
+[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](/procedural_tree/) 
+{{< /details >}}
 
