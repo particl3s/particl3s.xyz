@@ -11,7 +11,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![c-dp.gif](https://i.postimg.cc/c1Wxv0Yf/c-dp.gif)](https://drawpile.net/)
+[![secondary10.jpg](https://i.postimg.cc/NYvRMwgP/secondary10.jpg)](/)
 
 <--->
 

@@ -120,6 +120,8 @@
 
 {{< details "Nov" closed>}}
 2023.11.05  
-[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](/procedural_tree/) 
+[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](/procedural_tree/)  
+2023.11.11  
+[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](/infinite_pendulum/)
 {{< /details >}}
 
