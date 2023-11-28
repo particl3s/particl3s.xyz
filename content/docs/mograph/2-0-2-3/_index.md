@@ -124,6 +124,8 @@
 2023.11.11  
 [![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](/infinite_pendulum/)  
 2023.11.20  
-[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](/growing_grapes/)
+[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](/growing_grapes/)  
+2023.11.27  
+[![c-redux.gif](https://i.postimg.cc/hDhqG608/c-redux.gif)](/redux/)
 {{< /details >}}
 

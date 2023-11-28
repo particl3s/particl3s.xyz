@@ -14,44 +14,44 @@ Art
 
 {{< columns >}}
 
-
-
-<--->
+[![lgoo4.png](https://i.postimg.cc/pxKN7gTX/lgoo4.png)](/)
 
 <--->
 
 <--->
-[![2023.07.03_tv_logo.png](https://i.postimg.cc/q0rH0V1S/2023.07.03_tv_logo.png)](tv)
+
+<--->
+
 {{< /columns >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](growing_grapes)
+[![c-redux.gif](https://i.postimg.cc/hDhqG608/c-redux.gif)](redux)
 {{< /tab >}}
 {{< tab "2" >}}
-[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
+[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](growing_grapes)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](procedural_tree)
+[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
 {{< /tab >}}
 {{< tab "4" >}}
-[![c-melt-2b.gif](https://i.postimg.cc/GdQ2s8Xt/c-melt-2b.gif)](melt)
+[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](procedural_tree)
 {{< /tab >}}
 {{< tab "5" >}}
-[![c-crispy.gif](https://i.postimg.cc/ZbcwZFS8/c-crispy.gif)](crispy)
+[![c-melt-2b.gif](https://i.postimg.cc/GdQ2s8Xt/c-melt-2b.gif)](melt)
 {{< /tab >}}
 {{< tab "6" >}}
-[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](dynamic_water_ripple)
+[![c-crispy.gif](https://i.postimg.cc/ZbcwZFS8/c-crispy.gif)](crispy)
 {{< /tab >}}
 {{< tab "7" >}}
-[![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](nearest_index)
+[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](dynamic_water_ripple)
 {{< /tab >}}
 {{< tab "8" >}}
-[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](paint_drip)
+[![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](nearest_index)
 {{< /tab >}}
 {{< tab "9" >}}
-[![c-anime-style-1.gif](https://i.postimg.cc/QNZ1HzR3/c-anime-style-1.gif)](anime_style)
+[![c-paint-drip-2.gif](https://i.postimg.cc/R4hTcgBK/c-paint-drip-2.gif)](paint_drip)
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -60,6 +60,9 @@ Mograph
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Misfit" >}}
+[![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
+{{< /tab >}}
 {{< tab "Quad Mesh" >}}
 [![screenshot-2023-06-30-1.png](https://i.postimg.cc/kC1JqkvM/screenshot-2023-06-30-1.png)](/quad_mesh_rig/)
 {{< /tab >}}
@@ -77,9 +80,6 @@ Rigs
 {{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
-{{< /tab >}}
-{{< tab "Misfit" >}}
-[![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
 {{< /tab >}}
 {{< /tabs >}}
 
