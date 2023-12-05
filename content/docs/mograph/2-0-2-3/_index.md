@@ -129,3 +129,13 @@
 [![c-redux.gif](https://i.postimg.cc/hDhqG608/c-redux.gif)](/redux/)
 {{< /details >}}
 
+{{< details "Dec" closed>}}
+2023.12.03  
+[![c-print.gif](https://i.postimg.cc/y6Kdrp8c/c-print.gif)](/print_3d/)
+{{< /details >}}
+
+
+
+
+
+
