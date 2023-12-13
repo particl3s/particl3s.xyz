@@ -14,7 +14,7 @@ Art
 
 {{< columns >}}
 
-[![lgoo11.png](https://i.postimg.cc/9W4XqJBR/lgoo11.png)](scythe)
+[![logo-2021-11-15-shredder.png](https://i.postimg.cc/pWkSBGy5/logo-2021-11-15-shredder.png)](shredder)
 
 <--->
 
@@ -24,42 +24,13 @@ Art
 
 {{< /columns >}}
 
-Mograph
-{{< tabs "uniqueid" >}}
-{{< tab "1" >}}
-[![c-print.gif](https://i.postimg.cc/y6Kdrp8c/c-print.gif)](print_3d)
-{{< /tab >}}
-{{< tab "2" >}}
-[![c-redux.gif](https://i.postimg.cc/hDhqG608/c-redux.gif)](redux)
-{{< /tab >}}
-{{< tab "3" >}}
-[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](growing_grapes)
-{{< /tab >}}
-{{< tab "4" >}}
-[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
-{{< /tab >}}
-{{< tab "5" >}}
-[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](procedural_tree)
-{{< /tab >}}
-{{< tab "6" >}}
-[![c-melt-2b.gif](https://i.postimg.cc/GdQ2s8Xt/c-melt-2b.gif)](melt)
-{{< /tab >}}
-{{< tab "7" >}}
-[![c-crispy.gif](https://i.postimg.cc/ZbcwZFS8/c-crispy.gif)](crispy)
-{{< /tab >}}
-{{< tab "8" >}}
-[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](dynamic_water_ripple)
-{{< /tab >}}
-{{< tab "9" >}}
-[![c-nearest-index.gif](https://i.postimg.cc/qky9PXyM/c-nearest-index.gif)](nearest_index)
-{{< /tab >}}
-{{< /tabs >}}
-
-
 
 Rigs
 
 {{< tabs "uniqueid2" >}}
+{{< tab "Rodent" >}}
+[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
+{{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
 {{< /tab >}}
@@ -78,10 +49,42 @@ Rigs
 {{< tab "Propeller" >}}
 [![propeller-banner.png](https://i.postimg.cc/rsh4G29q/propeller-banner.png)](/propeller_rig/)
 {{< /tab >}}
-{{< tab "Rodent" >}}
-[![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)
+{{< /tabs >}}
+
+
+
+Mograph
+{{< tabs "uniqueid" >}}
+{{< tab "1" >}}
+[![c-fabric2.gif](https://i.postimg.cc/gc0dRYLn/c-fabric2.gif)](fabric_weave)
+{{< /tab >}}
+{{< tab "2" >}}
+[![c-print.gif](https://i.postimg.cc/y6Kdrp8c/c-print.gif)](print_3d)
+{{< /tab >}}
+{{< tab "3" >}}
+[![c-redux.gif](https://i.postimg.cc/hDhqG608/c-redux.gif)](redux)
+{{< /tab >}}
+{{< tab "4" >}}
+[![c-growing-grapes-2.gif](https://i.postimg.cc/38wQyp27/c-growing-grapes-2.gif)](growing_grapes)
+{{< /tab >}}
+{{< tab "5" >}}
+[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
+{{< /tab >}}
+{{< tab "6" >}}
+[![c-tree-2.gif](https://i.postimg.cc/2mzDg0C9/c-tree-2.gif)](procedural_tree)
+{{< /tab >}}
+{{< tab "7" >}}
+[![c-melt-2b.gif](https://i.postimg.cc/GdQ2s8Xt/c-melt-2b.gif)](melt)
+{{< /tab >}}
+{{< tab "8" >}}
+[![c-crispy.gif](https://i.postimg.cc/ZbcwZFS8/c-crispy.gif)](crispy)
+{{< /tab >}}
+{{< tab "9" >}}
+[![c-dynamic-water-ripple.gif](https://i.postimg.cc/B4QtbnC4/c-dynamic-water-ripple.gif)](dynamic_water_ripple)
 {{< /tab >}}
 {{< /tabs >}}
+
+
 
 
 

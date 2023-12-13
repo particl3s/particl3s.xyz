@@ -11,7 +11,7 @@ bookToc: false
 
 
 {{< columns >}}
-[![secondary10.jpg](https://i.postimg.cc/NYvRMwgP/secondary10.jpg)](/)
+[![gimp_titanSoul1.png](https://i.postimg.cc/pxcvd1JL/gimp_titanSoul1.png)](/)
 
 <--->
 
