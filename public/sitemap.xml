@@ -35,22 +35,42 @@
   </url>
   
   <url>
-    <loc>https://particl3s.xyz/posts/0048/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/categories/blender/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/categories/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0049/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/tags/tech/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0048/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -71,11 +91,6 @@
   
   <url>
     <loc>https://particl3s.xyz/posts/0046/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/tags/tech/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -302,16 +317,6 @@
   <url>
     <loc>https://particl3s.xyz/posts/0002/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/categories/blender/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/categories/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -591,6 +596,10 @@
   </url>
   
   <url>
+    <loc>https://particl3s.xyz/fabric_weave/</loc>
+  </url>
+  
+  <url>
     <loc>https://particl3s.xyz/fake_caustics/</loc>
   </url>
   
@@ -681,6 +690,10 @@
   
   <url>
     <loc>https://particl3s.xyz/hexagon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/hexagon_shield/</loc>
   </url>
   
   <url>

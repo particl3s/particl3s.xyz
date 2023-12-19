@@ -11,8 +11,8 @@ bookToc: false
 
 
 {{< columns >}}
-[![gimp_titanSoul1.png](https://i.postimg.cc/pxcvd1JL/gimp_titanSoul1.png)](/)
 
+[![Crazy-Castle-2022-03-29-01-56-59.png](https://i.postimg.cc/q00PbQ7H/Crazy-Castle-2022-03-29-01-56-59.png)](/)
 <--->
 
 <--->

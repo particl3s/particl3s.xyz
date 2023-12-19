@@ -133,7 +133,9 @@
 2023.12.03  
 [![c-print.gif](https://i.postimg.cc/y6Kdrp8c/c-print.gif)](/print_3d/)  
 2023.12.09  
-[![c-fabric2.gif](https://i.postimg.cc/gc0dRYLn/c-fabric2.gif)](/fabric_weave/)
+[![c-fabric2.gif](https://i.postimg.cc/gc0dRYLn/c-fabric2.gif)](/fabric_weave/)  
+2023.12.18  
+[![c-hexagon-shield.gif](https://i.postimg.cc/Tx73M21K/c-hexagon-shield.gif)](/hexagon_shield/)
 {{< /details >}}
 
 
