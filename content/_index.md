@@ -15,7 +15,7 @@ Art
 {{< columns >}}
 
 
-[![blood_moon2.png](https://i.postimg.cc/npRg3GnK/blood_moon2.png)](blood_moon)
+
 <--->
 
 <--->
@@ -24,6 +24,7 @@ Art
 
 {{< /columns >}}
 
+[![2024-01-01-ny-02.jpg](https://i.postimg.cc/gYnt1k5y/2024-01-01-ny-02.jpg)](/)
 
 Rigs
 

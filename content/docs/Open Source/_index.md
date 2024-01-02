@@ -12,13 +12,13 @@ bookToc: false
 
 {{< columns >}}
 
-[![Crazy-Castle-2022-03-29-01-56-59.png](https://i.postimg.cc/q00PbQ7H/Crazy-Castle-2022-03-29-01-56-59.png)](/)
+
 <--->
 
 <--->
 <--->
 {{< /columns >}}
-
+[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
 
 
 {{< columns >}}
