@@ -18,7 +18,7 @@ bookToc: false
 <--->
 <--->
 {{< /columns >}}
-[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
+[![2022-09-18-go-karts.png](https://i.postimg.cc/PtBCtF2S/2022-09-18-go-karts.png)](/)
 
 
 {{< columns >}}

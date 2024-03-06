@@ -1,200 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wip on particl3s.xyz</title>
+    <title>Wip on particl3s.xyz</title>
     <link>https://particl3s.xyz/tags/wip/</link>
-    <description>Recent content in wip on particl3s.xyz</description>
+    <description>Recent content in Wip on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/wip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://particl3s.xyz/tags/wip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Year!</title>
       <link>https://particl3s.xyz/posts/0050/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0050/</guid>
       <description>Implementing a resolution to do something prior to eating upon arriving at home everyday.</description>
     </item>
-    
     <item>
       <title>Jingle Jangle Trolly</title>
       <link>https://particl3s.xyz/posts/0048/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0048/</guid>
       <description>It&amp;rsquo;s that time of the year again, eggnog and carols. It&amp;rsquo;s so fun that it&amp;rsquo;s right after Halloween and we can still be jolly and have plastic trees. Some people really hate the winter season.</description>
     </item>
-    
     <item>
       <title>Distro</title>
       <link>https://particl3s.xyz/posts/0044/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0044/</guid>
       <description>My oh my the last month has been busy, a lot less sleep and worthwhile drawing. In the midsts of that ended up having a operating system burn out. Not to worry though, it&amp;rsquo;s been replaced. Now it&amp;rsquo;s on a Debian based system without any integration issue. My first one actually, rather fascinating moving from an Aur base to something else.</description>
     </item>
-    
     <item>
       <title>Corrupted Hard Drive</title>
       <link>https://particl3s.xyz/posts/0041/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0041/</guid>
       <description>A decade old external hard drive went skynet yesterday and lost hundreds of gigabityes of data. No biggie since backups of backups are commonplace now. Everything is fine and the HD has been formatted to exFat which has no file size limit. Remember to do thorough backups!</description>
     </item>
-    
     <item>
       <title>Spring</title>
       <link>https://particl3s.xyz/posts/0039/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0039/</guid>
       <description>There&amp;rsquo;s a flutter of noises from animals mingling, plants are growing and rain replaces snow. It&amp;rsquo;s a great time to homestead &amp;amp; eat lots.</description>
     </item>
-    
     <item>
       <title>Heart of Winter</title>
       <link>https://particl3s.xyz/posts/0038/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0038/</guid>
       <description>It just got really cold here, had the sniffles for a few days.</description>
     </item>
-    
     <item>
       <title>Normie Tier</title>
       <link>https://particl3s.xyz/posts/0035/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0035/</guid>
       <description>Back to reality.</description>
     </item>
-    
     <item>
       <title>Frostbite</title>
       <link>https://particl3s.xyz/posts/0036/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0036/</guid>
       <description>Locked myself in for the past month for new years, it was great. Just an all around healing and sleeping and eating awesome time as temperatures dropped 20 below 0 celsius.</description>
     </item>
-    
     <item>
       <title>N.Y Resolution</title>
       <link>https://particl3s.xyz/posts/0033/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0033/</guid>
       <description>Digitise all vinyl in storage.</description>
     </item>
-    
     <item>
       <title>First Snow</title>
       <link>https://particl3s.xyz/posts/0032/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0032/</guid>
       <description>It&amp;rsquo;s weird when December hits and no snow in sight, no jingle bell or story to tell. Eggnog though, liquid ice cream. Have a nice festive season!</description>
     </item>
-    
     <item>
       <title>Farewell</title>
       <link>https://particl3s.xyz/posts/0028/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0028/</guid>
       <description>After using KDE desktop environment for a few years I have overwrote the OS with Openbox. A messy few days though not a bad breakup, happy Halloween!</description>
     </item>
-    
     <item>
       <title>Infinity Wars Classic</title>
       <link>https://particl3s.xyz/posts/0027/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0027/</guid>
       <description>A kickstarter just ended for one of my all time favourite card games. Link is in the post, may the triforce be with you.</description>
     </item>
-    
     <item>
       <title>Humidity</title>
       <link>https://particl3s.xyz/posts/0023/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0023/</guid>
       <description>It&amp;rsquo;s been sunny around this time of year, food shortages are about to happen. Stock up on supply unless the whole starving artist thing is in.</description>
     </item>
-    
     <item>
       <title>Chromarinara</title>
       <link>https://particl3s.xyz/posts/0021/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0021/</guid>
       <description>Chroma Corps 2022 has started &amp;ndash;&amp;gt; Link</description>
     </item>
-    
     <item>
       <title>Bzzt</title>
       <link>https://particl3s.xyz/posts/0012/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0012/</guid>
       <description>Looking into alternative tech providers, spring cleaning!</description>
     </item>
-    
     <item>
       <title>Workaholism</title>
       <link>https://particl3s.xyz/posts/0009/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0009/</guid>
       <description>X-mas celebrations are coming to a close &amp;amp; waking up from a long hangover. Yes, it is January 31st and it&amp;rsquo;s dawning on everyone that life has to go on.</description>
     </item>
-    
     <item>
       <title>CC-0</title>
       <link>https://particl3s.xyz/posts/0006/</link>
       <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0006/</guid>
       <description>Updated licensing info on music 4 videos.</description>
     </item>
-    
     <item>
       <title>Avalanche</title>
       <link>https://particl3s.xyz/posts/0005/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0005/</guid>
       <description>If not for the absence of snow right now would be a-ok. Making deformations on a primate.</description>
     </item>
-    
     <item>
       <title>✍</title>
       <link>https://particl3s.xyz/posts/0003/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0003/</guid>
       <description>Comms are up.</description>
     </item>
-    
     <item>
       <title>Test Phase Sum Up</title>
       <link>https://particl3s.xyz/posts/0002/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0002/</guid>
       <description>Map clear, Starship launch at the ready.</description>
     </item>
-    
     <item>
       <title>Site is Live!</title>
       <link>https://particl3s.xyz/posts/0000/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://particl3s.xyz/posts/0000/</guid>
       <description>Site is Live!</description>
     </item>
-    
   </channel>
 </rss>
