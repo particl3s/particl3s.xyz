@@ -6,7 +6,7 @@ bookToc: false
 
 ## Open Source
 
-[![whoaaa.png](https://i.postimg.cc/NBNvrTBq/whoaaa.png)](/)
+[![archabs.png](https://i.postimg.cc/YMqjHrg6/archabs.png)](https://www.bunsenlabs.org/)
 
 
 
@@ -18,24 +18,4 @@ bookToc: false
 <--->
 <--->
 {{< /columns >}}
-[![whoaaa.png](https://i.postimg.cc/NBNvrTBq/whoaaa.png)](/)
 
-
-{{< columns >}}
-
-
-<--->
-
-<--->
-
-<--->
-<--->
-<--->
-
-
-<--->
-<--->
-<--->
-<--->
-
-{{< /columns >}}
