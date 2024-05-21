@@ -12,21 +12,28 @@
       <link>https://particl3s.xyz/docs/art/gallery/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://particl3s.xyz/docs/art/gallery/1/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description> Art 1 2 3 4 5 # </description>
     </item>
     <item>
       <title></title>
       <link>https://particl3s.xyz/docs/art/gallery/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://particl3s.xyz/docs/art/gallery/2/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description> Art 1 2 3 4 5 # </description>
     </item>
     <item>
       <title></title>
       <link>https://particl3s.xyz/docs/art/gallery/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://particl3s.xyz/docs/art/gallery/3/</guid>
-      <description> Art 1 2 3 4 # </description>
+      <description> Art 1 2 3 4 5 # </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://particl3s.xyz/docs/art/gallery/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://particl3s.xyz/docs/art/gallery/4/</guid>
+      <description> Art 1 2 3 4 5 # </description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,8 @@ bookToc: false
 
 ## Open Source
 
-[![archabs.png](https://i.postimg.cc/YMqjHrg6/archabs.png)](https://www.bunsenlabs.org/)
+
+[![open-toonz.jpg](https://i.postimg.cc/dJDj3jgP/open-toonz.jpg)](https://opentoonz.github.io/e/)
 
 
 
