@@ -7,7 +7,7 @@ bookToc: false
 ## Open Source
 
 
-[![open-toonz.jpg](https://i.postimg.cc/dJDj3jgP/open-toonz.jpg)](https://opentoonz.github.io/e/)
+[![2024-06-09-spectogram.png](https://i.postimg.cc/BS4RBrhX/2024-06-09-spectogram.png)](https://www.audacityteam.org/)
 
 
 
