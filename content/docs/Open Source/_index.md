@@ -7,7 +7,6 @@ bookToc: false
 ## Open Source
 
 
-[![2024-06-09-spectogram.png](https://i.postimg.cc/BS4RBrhX/2024-06-09-spectogram.png)](https://www.audacityteam.org/)
 
 
 
@@ -19,4 +18,24 @@ bookToc: false
 <--->
 <--->
 {{< /columns >}}
+[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
 
+
+{{< columns >}}
+
+
+<--->
+
+<--->
+
+<--->
+<--->
+<--->
+
+
+<--->
+<--->
+<--->
+<--->
+
+{{< /columns >}}
