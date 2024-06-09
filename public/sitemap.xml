@@ -35,27 +35,62 @@
   </url>
   
   <url>
-    <loc>https://particl3s.xyz/posts/0050/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <loc>https://particl3s.xyz/posts/0056/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/tags/art/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0055/</loc>
+    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0054/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0053/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0052/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0051/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/posts/0050/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -86,11 +121,6 @@
   
   <url>
     <loc>https://particl3s.xyz/posts/0047/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://particl3s.xyz/tags/art/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -545,6 +575,10 @@
   </url>
   
   <url>
+    <loc>https://particl3s.xyz/docs/art/gallery/4/</loc>
+  </url>
+  
+  <url>
     <loc>https://particl3s.xyz/docs/mograph/2-0-2-0/</loc>
   </url>
   
@@ -662,6 +696,10 @@
   
   <url>
     <loc>https://particl3s.xyz/geonode_bounce/</loc>
+  </url>
+  
+  <url>
+    <loc>https://particl3s.xyz/goku/</loc>
   </url>
   
   <url>
