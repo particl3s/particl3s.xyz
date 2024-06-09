@@ -7,6 +7,7 @@ bookToc: false
 ## Open Source
 
 
+[![open-toonz.jpg](https://i.postimg.cc/dJDj3jgP/open-toonz.jpg)](https://opentoonz.github.io/e/)
 
 
 
@@ -18,24 +19,4 @@ bookToc: false
 <--->
 <--->
 {{< /columns >}}
-[![2023-09-10-openttd-opensourceweb.png](https://i.postimg.cc/w9xMSs3c/2023-09-10-openttd-opensourceweb.png)](/)
 
-
-{{< columns >}}
-
-
-<--->
-
-<--->
-
-<--->
-<--->
-<--->
-
-
-<--->
-<--->
-<--->
-<--->
-
-{{< /columns >}}
