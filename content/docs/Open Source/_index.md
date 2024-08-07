@@ -7,11 +7,10 @@ bookToc: false
 ## Open Source
 
 
-[![2024-06-09-spectogram.png](https://i.postimg.cc/BS4RBrhX/2024-06-09-spectogram.png)](https://www.audacityteam.org/)
-
 
 
 {{< columns >}}
+[![drawpile-Logo.png](https://i.postimg.cc/js1vdd80/drawpile-Logo.png)](https://drawpile.net/)
 
 
 <--->
