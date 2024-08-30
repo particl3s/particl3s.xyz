@@ -7,11 +7,10 @@ bookToc: false
 ## Open Source
 
 
-[![open-toonz.jpg](https://i.postimg.cc/dJDj3jgP/open-toonz.jpg)](https://opentoonz.github.io/e/)
-
 
 
 {{< columns >}}
+[![drawpile-Logo.png](https://i.postimg.cc/js1vdd80/drawpile-Logo.png)](https://drawpile.net/)
 
 
 <--->

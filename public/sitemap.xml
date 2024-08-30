@@ -19,24 +19,36 @@
     <loc>https://particl3s.xyz/docs/mograph/</loc>
   </url><url>
     <loc>https://particl3s.xyz/tags/art/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0059/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0058/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0057/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/posts/0056/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://particl3s.xyz/tags/wip/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0055/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://particl3s.xyz/posts/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://particl3s.xyz/posts/0054/</loc>
-    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://particl3s.xyz/tags/wip/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://particl3s.xyz/posts/0053/</loc>
@@ -641,6 +653,8 @@
     <loc>https://particl3s.xyz/umbrella_rig/</loc>
   </url><url>
     <loc>https://particl3s.xyz/unfold/</loc>
+  </url><url>
+    <loc>https://particl3s.xyz/unfold_spline/</loc>
   </url><url>
     <loc>https://particl3s.xyz/unwind_spline/</loc>
   </url><url>
