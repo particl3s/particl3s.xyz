@@ -7,10 +7,10 @@ bookToc: false
 ## Open Source
 
 
-
+[![openttd.jpg](https://i.postimg.cc/ChC51tCS/openttd.jpg)](https://www.openttd.org/)
 
 {{< columns >}}
-[![drawpile-Logo.png](https://i.postimg.cc/js1vdd80/drawpile-Logo.png)](https://drawpile.net/)
+
 
 
 <--->
