@@ -6,9 +6,7 @@ bookToc: false
 
 ## Open Source
 
-
-[![openttd.jpg](https://i.postimg.cc/ChC51tCS/openttd.jpg)](https://www.openttd.org/)
-
+[![1523-logo-Free-Orion.png](https://i.postimg.cc/CFytnpcm/1523-logo-Free-Orion.png)](https://www.freeorion.org/index.php/Download)
 {{< columns >}}
 
 
