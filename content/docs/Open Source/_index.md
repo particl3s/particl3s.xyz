@@ -6,10 +6,10 @@ bookToc: false
 
 ## Open Source
 
-[![1523-logo-Free-Orion.png](https://i.postimg.cc/CFytnpcm/1523-logo-Free-Orion.png)](https://www.freeorion.org/index.php/Download)
+
 {{< columns >}}
 
-
+[![open_toonz.jpg](https://i.postimg.cc/dJDj3jgP/open_toonz.jpg)](https://opentoonz.github.io/e/)
 
 <--->
 

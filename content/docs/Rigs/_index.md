@@ -5,6 +5,18 @@ bookToc: false
 ---
 ## Blender Rigs
 
+{{< tabs "uniqueid4" >}}
+{{< tab "Ranger" >}}
+[![banner-p-1.jpg](https://i.postimg.cc/7PyJ92Jm/banner-p-1.jpg)](/ranger_rig/)
+{{< /tab >}}
+{{< tab "Robo" >}}
+[![banner-p-4.jpg](https://i.postimg.cc/syphXwb8/banner-p-4.jpg)](/robo_rig/)
+{{< /tab >}}
+{{< tab "Bartleby" >}}
+[![banner4.jpg](https://i.postimg.cc/5xTCHG4c/banner4.jpg)](/bartleby_rig/)
+{{< /tab >}}
+{{< /tabs >}}
+
 {{< tabs "uniqueid3" >}}
 {{< tab "Rodent" >}}
 [![screenshot-2023-04-18.png](https://i.postimg.cc/Mq0873rC/screenshot-2023-04-18.png)](/rodent_rig/)

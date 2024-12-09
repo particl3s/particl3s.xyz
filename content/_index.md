@@ -6,17 +6,26 @@ bookToc: true
 
 {{< columns >}}
 Blender
-[![wing-logo.png](https://i.postimg.cc/7xsrLTJR/wing-logo.png)](winged_female)
+
 <--->
+[![wizard.png](https://i.postimg.cc/TxkhWbd0/wizard.png)](mage)
 <--->
 Art
-
 <--->
 
 {{< /columns >}}
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Robo" >}}
+[![banner-p-4.jpg](https://i.postimg.cc/syphXwb8/banner-p-4.jpg)](/robo_rig/)
+{{< /tab >}}
+{{< tab "Ranger" >}}
+[![banner-p-1.jpg](https://i.postimg.cc/7PyJ92Jm/banner-p-1.jpg)](/ranger_rig/)
+{{< /tab >}}
+{{< tab "Bartleby" >}}
+[![banner4.jpg](https://i.postimg.cc/5xTCHG4c/banner4.jpg)](/bartleby_rig/)
+{{< /tab >}}
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
@@ -26,31 +35,18 @@ Rigs
 {{< tab "Amphibian" >}}
 [![toad-banner-01.png](https://i.postimg.cc/BST6nqrx/toad-banner-01.png)](/amphibian_rig/)
 {{< /tab >}}
-{{< tab "Misfit" >}}
-[![screenshot-2023-07-01-10.png](https://i.postimg.cc/ZTnrv8GG/screenshot-2023-07-01-10.png)](/misfit_rig/)
-{{< /tab >}}
-{{< tab "Monkey" >}}
-[![screenshot-2022-07-22.png](https://i.postimg.cc/GdrNFZJK/screenshot-2022-07-22.png)](/monkey_rig/)
-{{< /tab >}}
-{{< tab "Boomerang" >}}
-[![boomerang-banner.png](https://i.postimg.cc/ZK7Pppf6/boomerang-banner.png)](/boomerang_rig/)
-{{< /tab >}}
-{{< tab "Oxfox" >}}
-[![oxfox-banner.png](https://i.postimg.cc/dJBsZH3y/oxfox-banner.png)](/oxfox_rig/)
-{{< /tab >}}
-
 {{< /tabs >}}
 
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
+[![mograph-bubble-ce-01.gif](https://i.postimg.cc/NBP95JhT/mograph-bubble-ce-01.gif)](bubble)
 {{< /tab >}}
 {{< tab "2" >}}
 [![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](floating_leaf)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-fireworks.gif](https://i.postimg.cc/knhVGK84/c-fireworks.gif)](fireworks)
+[![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
 {{< /tab >}}
 {{< tab "4" >}}
 [![c-fabric2.gif](https://i.postimg.cc/gc0dRYLn/c-fabric2.gif)](fabric_weave)
@@ -72,19 +68,7 @@ Mograph
 {{< /tab >}}
 {{< /tabs >}}
 
-[![2024-11-06-web-02.jpg](https://i.postimg.cc/1sRXNL80/2024-11-06-web-02.jpg)](/)
-
-
-
-
-
-
-
-
-
-
-
-
+[![2024-11-06-web-01.jpg](https://i.postimg.cc/rcNzs8wF/2024-11-06-web-01.jpg)]()
 
 
 
@@ -105,4 +89,3 @@ Mograph
 {{< details "Contact" closed >}}
 particl3s@protonmail.com  
 {{< /details >}}
-

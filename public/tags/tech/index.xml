@@ -1,68 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on particl3s.xyz</title>
+    <title>tech on particl3s.xyz</title>
     <link>https://particl3s.xyz/tags/tech/</link>
-    <description>Recent content in Tech on particl3s.xyz</description>
+    <description>Recent content in tech on particl3s.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://particl3s.xyz/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://particl3s.xyz/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yule</title>
+      <link>https://particl3s.xyz/posts/0062/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://particl3s.xyz/posts/0062/</guid>
+      <description>Writing on machines really takes the cake, remember when we had to do it by hand? Those were fascinating times. people accomplished much more in one way before technocracy. Eggnog season awaits.</description>
+    </item>
+    
     <item>
       <title>Obsolete</title>
       <link>https://particl3s.xyz/posts/0049/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0049/</guid>
       <description>Since the latest edition support has been discontinued for older pc. The software no longer supports my age old machine. As a new direction I&amp;rsquo;ll be working on animation on a regular basis from now on, back to basics.</description>
     </item>
+    
     <item>
       <title>LoD</title>
       <link>https://particl3s.xyz/posts/0046/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0046/</guid>
       <description>Lord of Dice was a mobile card strategy game, I haven&amp;rsquo;t played it in years but it was brought up in a conversation on the internet. There&amp;rsquo;s hardly any youtube videos about it and the .apk is hard to find. Nor is there enough space on my mobile device to use it. It&amp;rsquo;s sort of in a tie with how much time it takes where it equals Ragnarok Online. Some of my best memories are mmorpgs.</description>
     </item>
+    
     <item>
       <title>Chroma Corps</title>
       <link>https://particl3s.xyz/posts/0043/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0043/</guid>
       <description>Our pal Sinix is hosting Chroma Corps again this year, a world building exercise for a mech academy. All cadets are live ==&amp;gt; https://youtu.be/aH7fZ-iBZqk</description>
     </item>
+    
     <item>
       <title>Drawpile</title>
       <link>https://particl3s.xyz/posts/0042/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0042/</guid>
       <description>There&amp;rsquo;s a new release of Drawpile out as of three days ago, a free collaborative online drawing platform. https://drawpile.net</description>
     </item>
+    
     <item>
       <title>Farewell</title>
       <link>https://particl3s.xyz/posts/0028/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0028/</guid>
       <description>After using KDE desktop environment for a few years I have overwrote the OS with Openbox. A messy few days though not a bad breakup, happy Halloween!</description>
     </item>
+    
     <item>
       <title>Infinity Wars Classic</title>
       <link>https://particl3s.xyz/posts/0027/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0027/</guid>
       <description>A kickstarter just ended for one of my all time favourite card games. Link is in the post, may the triforce be with you.</description>
     </item>
+    
     <item>
       <title>Highway of Information</title>
       <link>https://particl3s.xyz/posts/0020/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0020/</guid>
       <description>The network was down yesterday for a day, really brings life into perspective. People connected to the web 24/7 must have a tough time staying grounded.</description>
     </item>
+    
     <item>
       <title>Battery</title>
       <link>https://particl3s.xyz/posts/0019/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://particl3s.xyz/posts/0019/</guid>
       <description>Bought a used solar cell, small and portable. Also saw a dead rodent earlier, under a bridge.</description>
     </item>
+    
   </channel>
 </rss>
