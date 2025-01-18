@@ -6,10 +6,10 @@ bookToc: false
 
 ## Open Source
 
-
+[![wet-rails2.png](https://i.postimg.cc/b8CCYYLz/wet-rails2.png)](https://www.openttd.org/)
 {{< columns >}}
 
-[![open_toonz.jpg](https://i.postimg.cc/dJDj3jgP/open_toonz.jpg)](https://opentoonz.github.io/e/)
+
 
 <--->
 
