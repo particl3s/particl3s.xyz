@@ -11,7 +11,7 @@ Blender
 
 <--->
 Art
-[![seti_logo_1.png](https://i.postimg.cc/mRRsn9Zb/seti_logo_1.png)](seti)
+[![lgoo-keyblade.png](https://i.postimg.cc/vQ8HHG4z/lgoo-keyblade.png)](keyblade)
 <--->
 
 {{< /columns >}}
@@ -19,13 +19,13 @@ Art
 Mograph
 {{< tabs "uniqueid" >}}
 {{< tab "1" >}}
-[![c-red-skull.gif](https://i.postimg.cc/9m5cgTj0/c-red-skull.gif)](red_skull)
+[![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](floating_leaf)
 {{< /tab >}}
 {{< tab "2" >}}
 [![mograph-bubble-ce-01.gif](https://i.postimg.cc/NBP95JhT/mograph-bubble-ce-01.gif)](bubble)
 {{< /tab >}}
 {{< tab "3" >}}
-[![c-waves.gif](https://i.postimg.cc/hcgMpzWw/c-waves.gif)](floating_leaf)
+[![c-red-skull.gif](https://i.postimg.cc/9m5cgTj0/c-red-skull.gif)](red_skull)\
 {{< /tab >}}
 {{< tab "4" >}}
 [![c-pendulum.gif](https://i.postimg.cc/B3gPtHxL/c-pendulum.gif)](infinite_pendulum)
@@ -49,6 +49,9 @@ Mograph
 
 Rigs
 {{< tabs "uniqueid2" >}}
+{{< tab "Umbrella" >}}
+[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
+{{< /tab >}}
 {{< tab "Jellybean" >}}
 [![screenshot-2023-04-20-8.png](https://i.postimg.cc/Q8HrFdJ8/screenshot-2023-04-20-8.png)](/jellybean_rig/)
 {{< /tab >}}
@@ -64,10 +67,6 @@ Rigs
 {{< tab "Hand" >}}
 [![hand-banner-01.png](https://i.postimg.cc/5byZt3Gs/hand-banner-01.png)](/hand_rig/)
 {{< /tab >}}
-{{< tab "Umbrella" >}}
-[![umbrella-banner-1.jpg](https://i.postimg.cc/q4cGrQrQ/umbrella-banner-1.jpg)](/umbrella_rig/)
-{{< /tab >}}
-
 {{< /tabs >}}
 
 
