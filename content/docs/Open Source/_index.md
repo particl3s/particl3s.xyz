@@ -9,7 +9,7 @@ bookToc: false
 
 {{< columns >}}
 
-[![Screenshot-20250414-045111.png](https://i.postimg.cc/X4WzXfDj/Screenshot-20250414-045111.png)](/)
+[![1523-logo-FreeOrion.png](https://i.postimg.cc/CFytnpcm/1523-logo-FreeOrion.png)](https://freeorion.org/index.php/Main_Page)
 
 <--->
 
