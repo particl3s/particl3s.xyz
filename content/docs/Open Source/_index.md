@@ -9,7 +9,7 @@ bookToc: false
 
 {{< columns >}}
 
-[![1523-logo-FreeOrion.png](https://i.postimg.cc/CFytnpcm/1523-logo-FreeOrion.png)](https://freeorion.org/index.php/Main_Page)
+[![drawpile-Logo.png](https://i.postimg.cc/js1vdd80/drawpile-Logo.png)](https://drawpile.net/)
 
 <--->
 
